@@ -1,0 +1,615 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-04-22T18:47:00.201Z,17.0062,96.2746,10,3.1,ml,,275,2.919,0.62,us,us7000921c,2020-07-11T22:19:22.040Z,"25 km NNE of Yangon, Myanmar",earthquake,7,2,0.148,6,reviewed,us,us
+2021-09-09T13:27:04.336Z,31.9732,72.2567,10,3.4,mb,,285,1.877,0.75,us,us7000f9u0,2021-09-09T20:57:54.470Z,"7 km W of Sahiwal, Pakistan",earthquake,10.6,2,0.49,1,reviewed,us,us
+2020-06-23T13:47:32.941Z,23.9312,93.0128,10,3.6,mb,,166,1.213,0.48,us,us6000ahfx,2020-08-30T00:01:10.040Z,"12 km SE of Darlawn, India",earthquake,7.3,2,0.5,1,reviewed,us,us
+2021-08-10T08:12:46.310Z,30.2767,78.1005,10,3.6,mb,,291,8.756,0.93,us,us6000f3yt,2021-08-12T05:49:20.385Z,"3 km SSE of R?ipur, India",earthquake,11.4,2,0.287,3,reviewed,us,us
+2020-05-10T08:15:27.178Z,28.7268,77.3516,10,3.7,mb,,203,9.149,0.52,us,us70009ebf,2020-07-29T22:14:27.040Z,"6 km ESE of Loni, India",earthquake,8.9,2,0.253,4,reviewed,us,us
+2021-02-10T14:43:43.254Z,27.0534,89.5665,10,3.7,mb,,152,2.532,0.45,us,us6000dgem,2021-04-22T21:52:30.040Z,"5 km SSE of Tsimasham, Bhutan",earthquake,8.6,1.9,0.225,5,reviewed,us,us
+2021-02-18T18:18:43.335Z,34.0145,68.8554,10,3.7,mb,,230,0.547,0.94,us,us6000dipz,2021-05-19T09:45:18.892Z,"10 km WNW of Baraki Barak, Afghanistan",earthquake,5.3,2,0.225,6,reviewed,us,us
+2021-06-29T19:24:35.052Z,34.6873,77.9908,10,3.7,mb,,183,4.049,0.91,us,us6000eqyg,2021-09-09T22:05:56.040Z,"68 km NNE of Leh, India",earthquake,7.5,1.9,0.224,5,reviewed,us,us
+2020-04-12T12:15:02.191Z,28.8336,77.3589,10,3.8,mb,,185,5.942,0.75,us,us70008utq,2020-12-17T19:10:55.070Z,"Haryana-Delhi-Uttar Pradesh region, India",earthquake,12.6,2,0.154,11,reviewed,us,us
+2020-06-15T07:27:35.084Z,22.9861,70.2272,10,3.8,mb,,193,11.56,0.96,us,us6000acfz,2020-08-22T19:14:54.040Z,"5 km SSE of K?ndla, India",earthquake,15.7,2,0.136,14,reviewed,us,us
+2020-09-25T18:14:35.455Z,34.0161,78.1669,10,3.8,mb,,75,4.093,1.1,us,us6000c1i2,2020-12-05T21:02:59.040Z,"56 km ESE of Leh, India",earthquake,4.8,1.9,0.142,16,reviewed,us,us
+2020-12-17T18:16:48.782Z,28.5188,77.2852,10,3.8,mb,,189,8.421,0.81,us,us7000cryp,2021-02-27T23:25:18.040Z,"5 km ENE of Deoli, India",earthquake,13.9,2,0.18,8,reviewed,us,us
+2021-05-09T18:41:23.049Z,26.774,92.4738,10,3.8,mb,,92,1.324,0.76,us,us7000e1n0,2021-07-23T18:08:27.040Z,"7 km N of Dhekiajuli, India",earthquake,4.7,1.9,0.161,10,reviewed,us,us
+2020-11-07T10:09:22.561Z,21.5017,73.219,10,3.9,mb,,262,12.103,0.55,us,us7000cc8r,2021-01-23T22:25:38.040Z,"27 km E of Kosamba, India",earthquake,10.3,2,0.17,9,reviewed,us,us
+2020-04-26T05:29:26.353Z,27.0529,89.191,10,3.9,mb,,162,2.812,0.47,us,us60009cyy,2020-07-11T22:19:09.040Z,"19 km NNE of Samtse, Bhutan",earthquake,9.4,1.9,0.194,7,reviewed,us,us
+2021-04-06T01:36:55.618Z,26.8176,88.7828,10,3.9,mb,,164,2.088,0.56,us,us6000dzbe,2021-06-12T21:37:33.040Z,"15 km E of Odl?b?ri, India",earthquake,7.3,1.9,0.137,14,reviewed,us,us
+2021-06-12T18:31:28.860Z,21.0204,85.0848,10,3.9,mb,,228,7.084,0.78,us,us7000eclt,2021-08-26T21:59:12.040Z,"17 km WNW of T?lcher, India",earthquake,6,2,0.257,4,reviewed,us,us
+2021-07-05T17:06:55.336Z,28.9016,76.839,10,3.9,mb,,199,5.634,1.28,us,us7000eiwa,2021-09-10T20:07:23.040Z,"7 km WNW of Kharkhauda, India",earthquake,6.1,2,0.143,13,reviewed,us,us
+2020-11-12T02:06:11.667Z,35.4779,70.9652,105.1,4,mb,,107,1.833,0.79,us,us7000cdlw,2021-01-27T17:28:44.040Z,"7 km NNE of P?r?n, Afghanistan",earthquake,7,8,0.155,11,reviewed,us,us
+2020-12-01T15:44:15.348Z,33.7022,88.4267,10,4,mb,,105,5.891,0.32,us,us7000cn1b,2021-02-06T18:29:53.040Z,"western Xizang",earthquake,11.4,1.9,0.133,15,reviewed,us,us
+2020-02-25T06:16:20.871Z,24.5467,90.1767,10,4,mb,,159,1.83,0.93,us,us600084bt,2020-05-09T21:40:46.040Z,"25 km N of Sakhipur, Bangladesh",earthquake,5.7,1.7,0.126,17,reviewed,us,us
+2020-04-12T00:32:54.726Z,29.3551,70.0699,10,4,mb,,202,5.079,0.72,us,us70008ufr,2020-06-30T14:03:00.040Z,"37 km SW of Dajal, Pakistan",earthquake,12,2,0.156,11,reviewed,us,us
+2020-04-08T05:53:57.175Z,23.4203,86.989,10,4,mb,,209,4.522,0.91,us,us70008s0k,2020-06-30T14:02:47.040Z,"22 km NNW of B?nkura, India",earthquake,8.1,2,0.232,5,reviewed,us,us
+2020-08-26T02:24:03.662Z,23.965,88.4834,10,4,mb,,195,3.174,0.63,us,us7000bd2a,2020-11-07T18:48:28.040Z,"13 km W of Kar?mpur, India",earthquake,5.7,2,0.298,3,reviewed,us,us
+2020-08-30T05:44:51.450Z,33.9671,69.4762,10,4,mb,,175,0.675,0.63,us,us7000beyh,2020-11-07T18:48:35.040Z,"27 km SW of ?uk?mat? Azrah, Afghanistan",earthquake,7.1,1.9,0.139,14,reviewed,us,us
+2020-01-07T15:09:03.481Z,35.6192,70.1051,103.51,4,mb,,93,1.384,0.43,us,us70006vru,2020-03-21T17:13:41.040Z,"63 km ENE of B?z?rak, Afghanistan",earthquake,7.9,12.4,0.232,7,reviewed,us,us
+2020-03-11T14:19:31.898Z,32.568,78.4627,10,4,mb,,139,4.49,1,us,us60008dp6,2020-05-30T22:17:02.040Z,"125 km ENE of Man?li, India",earthquake,5.9,2,0.156,11,reviewed,us,us
+2020-02-18T01:55:37.405Z,19.1257,96.3104,10,4,mb,,129,1.77,0.79,us,us70007vwt,2020-05-02T22:10:35.040Z,"24 km NNW of Taungoo, Myanmar",earthquake,6.4,2,0.232,5,reviewed,us,us
+2020-03-24T23:39:29.603Z,28.6107,87.2197,10,4,mb,,75,0.742,0.84,us,us70008ffi,2020-06-06T20:54:16.040Z,"83 km NNE of Lobujya, Nepal",earthquake,4.5,1.7,0.126,17,reviewed,us,us
+2020-04-04T08:29:22.470Z,34.9652,71.3367,78.77,4,mb,,129,1.935,0.34,us,us70008nha,2020-06-21T00:54:57.040Z,"7 km SSW of ?sm?r, Afghanistan",earthquake,4.5,17.5,0.232,5,reviewed,us,us
+2020-05-18T07:02:22.593Z,16.8761,94.6443,10,4,mb,,128,4.389,0.63,us,us70009nhw,2020-08-02T00:28:58.040Z,"14 km NW of Pathein, Myanmar",earthquake,10,1.9,0.259,5,reviewed,us,us
+2020-07-20T15:19:53.864Z,30.3816,95.0064,10,4,mb,,139,6.16,0.94,us,us6000b3i2,2020-09-26T16:58:26.040Z,"214 km NNE of Shi Yomi, India",earthquake,8.8,2,0.172,9,reviewed,us,us
+2020-07-21T01:17:08.217Z,30.4135,94.779,10,4,mb,,114,3.244,0.58,us,us6000b55n,2020-09-26T16:58:27.040Z,"212 km N of Shi Yomi, India",earthquake,7.7,1.8,0.173,9,reviewed,us,us
+2020-08-05T11:18:49.616Z,31.9185,90.3738,10,4,mb,,51,5.012,0.48,us,us6000b9mk,2020-10-21T22:03:52.040Z,"166 km WNW of Nagqu, China",earthquake,8.9,1.9,0.108,23,reviewed,us,us
+2020-08-30T16:10:06.882Z,6.8607,92.0497,10,4,mb,,110,4.813,0.73,us,us7000bh5n,2020-11-07T18:48:50.040Z,"Nicobar Islands, India region",earthquake,10.2,1.7,0.182,8,reviewed,us,us
+2020-10-20T19:55:49.959Z,27.2257,96.1444,57.98,4,mb,,45,3.415,0.74,us,us6000caa9,2020-12-29T23:08:05.040Z,"47 km E of Margherita, India",earthquake,5.1,8.1,0.098,33,reviewed,us,us
+2021-04-06T02:04:03.736Z,21.9881,94.3005,51.39,4,mb,,144,2.554,0.38,us,us6000e1he,2021-06-12T21:37:34.040Z,"87 km W of Monywa, Myanmar",earthquake,9.7,10.1,0.196,7,reviewed,us,us
+2021-05-05T13:52:12.421Z,26.7384,92.0993,47,4,mb,,95,1.187,0.39,us,us7000e24v,2021-07-10T20:16:08.040Z,"1 km S of Udalguri, India",earthquake,7.5,3.6,0.122,21,reviewed,us,us
+2021-05-19T13:20:04.731Z,7.0967,94.6894,218.53,4,mb,,178,2.912,1.19,us,us7000e64u,2021-07-24T21:08:15.040Z,"150 km NNW of Sabang, Indonesia",earthquake,10.1,4.9,0.129,16,reviewed,us,us
+2021-10-04T04:47:57.536Z,30.4246,94.6223,10,4,mb,,101,6.177,0.41,us,us6000fsyz,2021-10-12T04:05:44.040Z,"211 km N of Shi Yomi, India",earthquake,8.5,2,0.163,11,reviewed,us,us
+2020-11-08T21:44:14.394Z,27.7299,87.7713,10,4.1,mb,,163,3.542,0.76,us,us7000cc8m,2021-01-23T22:25:37.040Z,"68 km NE of Kh??db?ri??, Nepal",earthquake,7.9,1.9,0.165,10,reviewed,us,us
+2020-05-09T10:06:46.736Z,22.1166,68.963,10,4.1,mb,,256,12.039,0.44,us,us70009d7u,2020-07-29T22:14:23.040Z,"13 km S of Dw?rka, India",earthquake,13.7,2,0.103,26,reviewed,us,us
+2020-07-16T02:10:29.094Z,22.2558,70.9928,10,4.1,mb,,112,11.529,0.54,us,us7000apfs,2020-09-26T16:58:31.040Z,"20 km E of R?jkot, India",earthquake,13.7,2,0.151,12,reviewed,us,us
+2020-07-06T19:24:27.542Z,33.0557,73.6156,10,4.1,mb,,145,0.66,1.14,us,us7000aizr,2020-09-11T22:14:21.040Z,"16 km SW of New Mirpur, Pakistan",earthquake,6.5,1.6,0.144,13,reviewed,us,us
+2020-09-22T03:46:51.500Z,35.7041,77.8313,62.17,4.1,mb,,110,4.281,0.97,us,us6000bzjp,2020-11-28T21:32:03.040Z,"127 km NE of Thang, India",earthquake,5.2,11,0.233,5,reviewed,us,us
+2020-03-10T00:20:14.450Z,32.87,85.3938,10,4.1,mb,,57,5.046,0.64,us,us60008cxq,2020-05-23T22:03:33.040Z,"western Xizang",earthquake,8.3,1.9,0.096,30,reviewed,us,us
+2020-02-04T18:26:20.869Z,21.7325,94.6242,90.29,4.1,mb,,118,1.312,1,us,us70007pey,2020-04-18T22:10:36.040Z,"64 km NW of Pakokku, Myanmar",earthquake,6.9,7.2,0.105,31,reviewed,us,us
+2020-04-09T17:54:17.641Z,32.6222,96.4049,10,4.1,mb,,69,5.378,1.07,us,us70008sjv,2020-06-30T14:02:49.040Z,"180 km NNW of Qamdo, China",earthquake,10.4,1.9,0.111,22,reviewed,us,us
+2020-04-25T14:38:27.755Z,29.9853,69.5743,35,4.1,mb,,152,4.564,0.93,us,us60009c7r,2020-07-11T22:19:04.040Z,"10 km NNE of Barkhan, Pakistan",earthquake,11.1,2,0.157,11,reviewed,us,us
+2020-04-25T14:29:13.743Z,30.063,69.5508,41.46,4.1,mb,,152,4.485,0.69,us,us60009c7n,2020-07-11T22:19:04.040Z,"18 km N of Barkhan, Pakistan",earthquake,8.6,13.5,0.166,10,reviewed,us,us
+2020-04-17T10:59:11.292Z,28.1205,93.9189,10,4.1,mb,,110,2.911,0.56,us,us60009as6,2020-07-09T14:31:19.040Z,"58 km N of Ziro, India",earthquake,9.1,1.9,0.131,16,reviewed,us,us
+2020-05-05T22:15:04.082Z,20.9941,94.4334,83.34,4.1,mb,,113,1.813,0.7,us,us70009aqe,2020-07-18T21:57:40.040Z,"41 km WNW of Chauk, Myanmar",earthquake,7,8.8,0.13,16,reviewed,us,us
+2020-05-03T15:40:23.737Z,32.9792,85.6089,10,4.1,mb,,109,5.11,0.68,us,us70009cfg,2020-07-18T21:57:45.040Z,"western Xizang",earthquake,5.6,1.9,0.158,11,reviewed,us,us
+2020-05-06T11:26:52.383Z,16.6415,94.4169,10,4.1,mb,,145,4.68,0.33,us,us70009fei,2020-07-29T22:14:10.040Z,"36 km WSW of Pathein, Myanmar",earthquake,4.9,2,0.166,10,reviewed,us,us
+2020-06-12T23:32:35.370Z,32.8562,73.7592,10,4.1,mb,,268,4.275,0.42,us,us6000ab0k,2020-08-22T19:14:48.040Z,"5 km S of Sarai Alamgir, Pakistan",earthquake,8.1,2,0.184,8,reviewed,us,us
+2020-07-12T22:10:44.993Z,35.7606,82.3961,10,4.1,mb,,104,5.976,0.75,us,us7000amgx,2020-09-19T20:58:14.040Z,"266 km SE of Hotan, China",earthquake,4.3,1.9,0.126,17,reviewed,us,us
+2020-07-17T17:55:01.075Z,35.6354,82.4634,10,4.1,mb,,74,6.112,0.61,us,us7000aqi0,2020-09-26T16:58:34.040Z,"279 km SE of Hotan, China",earthquake,8.4,1.9,0.104,29,reviewed,us,us
+2020-07-10T04:26:55.988Z,30.3993,95.0824,10,4.1,mb,,138,3.498,1.18,us,us7000aq79,2020-09-19T20:58:27.040Z,"216 km WSW of Qamdo, China",earthquake,7.8,2,0.157,11,reviewed,us,us
+2020-07-20T05:01:42.659Z,29.3621,68.8105,10,4.1,mb,,140,5.167,0.62,us,us7000arfw,2020-09-26T16:58:40.040Z,"49 km NW of Dera Bugti, Pakistan",earthquake,12.8,1.8,0.135,15,reviewed,us,us
+2020-07-29T20:54:26.858Z,28.4107,88.3259,10,4.1,mb,,113,1.41,1.24,us,us6000b6f4,2020-10-10T17:11:01.040Z,"101 km N of Mangan, India",earthquake,8.9,1.9,0.13,16,reviewed,us,us
+2020-07-30T13:35:44.774Z,29.8667,95.1399,10,4.1,mb,,73,3.492,0.79,us,us6000b6u0,2020-10-10T17:11:03.040Z,"165 km NNE of Shi Yomi, India",earthquake,6.7,2,0.127,17,reviewed,us,us
+2020-07-24T05:45:56.764Z,23.069,93.3699,10,4.1,mb,,54,0.474,0.89,us,us6000b66q,2020-10-03T17:32:31.040Z,"31 km ESE of North Vanlaiphai, India",earthquake,3.9,1.9,0.158,11,reviewed,us,us
+2020-07-22T01:02:22.347Z,30.3195,94.717,10,4.1,mb,,136,3.173,1.03,us,us6000b5wv,2020-10-03T17:32:29.040Z,"201 km N of Shi Yomi, India",earthquake,7.2,2,0.127,17,reviewed,us,us
+2020-08-06T22:27:54.218Z,31.1693,84.1935,10,4.1,mb,,145,3.929,1.34,us,us6000bdck,2020-10-21T22:04:12.040Z,"227 km NNW of Saga, China",earthquake,8.9,2,0.301,3,reviewed,us,us
+2020-08-11T22:48:31.686Z,30.388,94.8111,10,4.1,mb,,161,3.266,0.56,us,us6000bg1x,2020-10-21T22:04:15.040Z,"210 km NNE of Shi Yomi, India",earthquake,6.9,2,0.13,16,reviewed,us,us
+2020-08-01T05:33:55.492Z,34.4822,81.8958,10,4.1,mb,,116,7.033,1,us,us6000b7uk,2020-10-10T17:11:07.040Z,"western Xizang",earthquake,9.3,1.9,0.158,11,reviewed,us,us
+2020-11-24T04:15:53.068Z,35.5509,91.3127,10,4.1,mb,,98,5.833,0.85,us,us7000ckdg,2021-02-03T17:50:20.040Z,"Southern Qinghai, China",earthquake,7.3,1.8,0.127,17,reviewed,us,us
+2020-09-06T21:45:00.558Z,33.3127,85.2675,10,4.1,mb,,64,5.5,0.47,us,us7000bl6p,2020-11-17T19:44:48.040Z,"western Xizang",earthquake,9,1.3,0.131,16,reviewed,us,us
+2020-09-06T11:36:45.677Z,14.0641,93.0643,10,4.1,mb,,121,2.414,0.22,us,us7000bl69,2020-11-17T19:44:45.040Z,"264 km N of Bamboo Flat, India",earthquake,10.2,1.9,0.213,6,reviewed,us,us
+2020-09-29T11:17:27.876Z,35.0666,69.0404,35,4.1,mb,,107,0.524,0.69,us,us6000c2hl,2020-12-05T21:03:06.040Z,"13 km WNW of Charikar, Afghanistan",earthquake,6.6,2,0.185,8,reviewed,us,us
+2020-10-05T12:08:40.009Z,23.5477,94.4335,74.11,4.1,mb,,130,0.689,1.02,us,us6000c725,2020-12-12T22:28:49.040Z,"10 km SSE of Mawlaik, Myanmar",earthquake,6.4,3.3,0.234,6,reviewed,us,us
+2020-10-08T03:52:10.644Z,35.0808,75.4717,51.43,4.1,mb,,105,2.314,0.64,us,us6000c80y,2020-12-19T17:22:51.040Z,"28 km SSW of Skardu, Pakistan",earthquake,7.4,5.3,0.213,6,reviewed,us,us
+2020-12-19T06:22:47.064Z,22.0856,94.6654,112.46,4.1,mb,,173,2.16,0.73,us,us6000d26s,2021-02-27T23:23:55.040Z,"48 km W of Monywa, Myanmar",earthquake,12.5,3.7,0.151,12,reviewed,us,us
+2021-01-11T13:59:12.570Z,33.4274,75.7158,10,4.1,mb,,149,2.056,0.32,us,us6000d7f2,2021-03-20T21:24:09.040Z,"13 km NNW of Kishtw?r, India",earthquake,8,1.8,0.157,12,reviewed,us,us
+2021-01-11T13:59:49.235Z,28.028,87.7888,35,4.1,mb,,175,3.37,0.47,us,us7000d1qk,2021-03-20T21:24:09.040Z,"92 km NE of Kh??db?ri??, Nepal",earthquake,9.5,2,0.185,10,reviewed,us,us
+2021-01-13T01:07:21.948Z,22.7983,94.6878,108.51,4.1,mb,,146,1.016,0.4,us,us7000d249,2021-03-20T21:24:59.040Z,"89 km NNW of Monywa, Myanmar",earthquake,5.2,9.8,0.185,8,reviewed,us,us
+2021-01-31T20:04:24.547Z,24.9512,94.4749,47.39,4.1,mb,,90,0.735,1.02,us,us6000ddgp,2021-04-16T19:02:42.040Z,"52 km NE of Yairipok, India",earthquake,7.7,5,0.144,13,reviewed,us,us
+2021-02-20T00:01:25.163Z,23.3318,94.5689,95.45,4.1,mb,,68,2.774,0.66,us,us6000djj9,2021-05-04T14:15:07.040Z,"38 km SSE of Mawlaik, Myanmar",earthquake,6.1,9.8,0.111,22,reviewed,us,us
+2021-02-27T20:03:45.862Z,28.8397,86.469,15.43,4.1,mb,,134,0.928,0.75,us,us7000de7r,2021-05-13T22:36:46.040Z,"104 km NNW of Lobujya, Nepal",earthquake,8.2,5,0.111,22,reviewed,us,us
+2021-02-25T04:19:58.736Z,22.3908,95.4803,22.58,4.1,mb,,68,1.757,1.07,us,us7000dew5,2021-05-04T14:17:09.040Z,"29 km SW of Shwebo, Myanmar",earthquake,5,6.8,0.165,10,reviewed,us,us
+2021-04-13T23:41:17.827Z,34.5245,70.126,38.74,4.1,mb,,112,0.894,0.97,us,us6000e38y,2021-06-19T21:26:19.040Z,"18 km SSW of Mehtar L?m, Afghanistan",earthquake,6.4,7.4,0.145,13,reviewed,us,us
+2021-04-14T16:45:09.044Z,10.8839,91.5252,10,4.1,mb,,201,1.42,0.98,us,us6000e39v,2021-06-19T21:26:24.040Z,"158 km SW of Bamboo Flat, India",earthquake,13.4,2,0.174,9,reviewed,us,us
+2021-04-22T03:08:52.099Z,30.3858,87.1751,10,4.1,mb,,130,3.493,0.73,us,us7000dy98,2021-07-03T16:50:01.040Z,"207 km NW of Rikaze, China",earthquake,11.3,1.9,0.233,5,reviewed,us,us
+2021-05-17T22:54:34.366Z,14.5393,93.7329,25.9,4.1,mb,,130,3.023,1.03,us,us7000e52w,2021-07-24T21:07:44.040Z,"261 km SW of Mawlamyinegyunn, Myanmar",earthquake,6.4,7,0.234,5,reviewed,us,us
+2021-05-25T19:23:07.539Z,23.593,94.5857,99.63,4.1,mb,,102,0.685,0.68,us,us7000e66y,2021-07-31T22:09:44.040Z,"19 km ESE of Mawlaik, Myanmar",earthquake,5.9,5.8,0.114,26,reviewed,us,us
+2021-05-16T22:07:22.008Z,20.6607,71.4793,10,4.1,mb,,73,13.037,0.99,us,us7000e51v,2021-07-24T21:07:26.040Z,"41 km S of R?jula, India",earthquake,6.9,1.9,0.114,21,reviewed,us,us
+2021-07-05T17:54:36.043Z,5.514,94.3168,44.23,4.1,mb,,204,2.634,1.21,us,us6000etnn,2021-09-10T20:07:52.040Z,"112 km W of Banda Aceh, Indonesia",earthquake,13.6,12.1,0.184,8,reviewed,us,us
+2021-08-10T05:50:16.593Z,16.4467,94.1222,15.42,4.1,mb,,150,3.828,0.53,us,us6000f8dj,2021-08-22T06:41:31.040Z,"74 km WSW of Pathein, Myanmar",earthquake,6.6,5.5,0.158,12,reviewed,us,us
+2021-08-06T09:20:42.643Z,8.6882,93.7196,10,4.1,mb,,204,5.817,0.65,us,us6000f5mb,2021-09-09T13:09:55.040Z,"Nicobar Islands, India region",earthquake,13.3,2,0.185,8,reviewed,us,us
+2021-08-22T07:57:01.741Z,10.7582,94.4328,10,4.1,mb,,122,5.521,0.54,us,us7000f6ry,2021-09-18T12:29:30.040Z,"209 km ESE of Port Blair, India",earthquake,6.7,1.9,0.198,9,reviewed,us,us
+2021-10-02T22:01:42.797Z,24.9292,96.3874,10,4.1,mb,,164,2.023,0.25,us,us6000fr6v,2021-10-02T22:27:02.040Z,"113 km WSW of Myitkyina, Myanmar",earthquake,4.7,1.9,0.214,6,reviewed,us,us
+2020-11-26T01:15:32.643Z,33.7398,88.5572,10,4.2,mb,,79,4.581,0.66,us,us7000cjv6,2021-02-06T18:28:15.040Z,"western Xizang",earthquake,5,1.9,0.132,16,reviewed,us,us
+2020-10-31T18:43:10.118Z,31.703,93.4001,10,4.2,mb,,43,2.793,0.69,us,us7000c8qd,2021-01-18T23:01:54.040Z,"129 km E of Nagqu, China",earthquake,5.5,1.9,0.098,39,reviewed,us,us
+2020-02-29T20:05:26.893Z,26.4904,92.1052,45.39,4.2,mb,,95,0.946,0.6,us,us60008735,2020-05-19T22:14:13.040Z,"5 km SW of Kh?rupatia, India",earthquake,5.3,7.9,0.083,41,reviewed,us,us
+2020-05-29T15:38:41.657Z,29.1724,77.0219,10,4.2,mb,,185,8.64,1.09,us,us6000a1wn,2020-08-15T20:19:48.040Z,"Uttar Pradesh, India",earthquake,10.2,2,0.152,12,reviewed,us,us
+2020-06-03T01:40:48.863Z,24.8316,91.1391,30.48,4.2,mb,,134,0.978,0.54,us,us6000a4u4,2020-08-18T17:58:44.040Z,"41 km NNW of Baniachang, Bangladesh",earthquake,5.7,5.3,0.108,24,reviewed,us,us
+2020-08-14T01:08:08.090Z,23.1226,93.2923,10,4.2,mb,,105,0.555,1.18,us,us6000bei5,2020-10-24T20:08:50.040Z,"23 km E of North Vanlaiphai, India",earthquake,3.3,1.9,0.132,16,reviewed,us,us
+2020-10-03T15:36:17.754Z,26.2024,91.3108,44.3,4.2,mb,,120,0.801,0.4,us,us6000c584,2020-12-12T22:28:37.040Z,"21 km WSW of H?jo, India",earthquake,5.7,5.3,0.098,32,reviewed,us,us
+2020-01-03T01:56:44.755Z,28.8329,91.973,10,4.2,mb,,115,1.139,1.19,us,us70007149,2020-03-21T17:13:49.040Z,"124 km SE of Lhasa, China",earthquake,6.9,1.9,0.236,5,reviewed,us,us
+2020-02-28T11:07:11.020Z,32.9646,76.3114,10,4.2,mb,,116,2.638,0.95,us,us60008612,2020-05-19T22:14:07.040Z,"48 km NNE of Chamba, India",earthquake,7.7,1.6,0.132,16,reviewed,us,us
+2020-02-09T19:37:29.389Z,23.05,94.8537,134.31,4.2,mb,,69,1.226,1,us,us70007m6w,2020-04-25T22:19:01.040Z,"80 km SE of Mawlaik, Myanmar",earthquake,7.7,9.1,0.124,18,reviewed,us,us
+2020-03-09T18:38:51.130Z,32.7852,85.5166,10,4.2,mb,,64,4.939,0.81,us,us60008cme,2020-05-23T22:03:33.040Z,"western Xizang",earthquake,8.7,1.9,0.121,21,reviewed,us,us
+2020-03-15T16:17:04.697Z,32.6753,85.455,10,4.2,mb,,112,4.845,0.79,us,us60008g3i,2020-05-30T22:17:11.040Z,"western Xizang",earthquake,3.6,1.9,0.121,22,reviewed,us,us
+2020-03-08T16:59:17.196Z,32.7173,85.4732,10,4.2,mb,,136,9.047,0.56,us,us60008c3e,2020-05-23T22:03:33.040Z,"western Xizang",earthquake,6.8,1.7,0.11,23,reviewed,us,us
+2020-02-15T08:12:18.454Z,22.5718,93.5958,47.14,4.2,mb,,96,0.07,0.72,us,us70007u6g,2020-05-02T22:10:30.040Z,"8 km S of Hakha, Myanmar",earthquake,7.9,5.5,0.136,15,reviewed,us,us
+2020-04-15T19:36:20.915Z,20.5448,93.6698,10,4.2,mb,,147,2.088,0.69,us,us70008x0g,2020-07-09T14:31:08.040Z,"91 km ENE of Sittwe, Myanmar",earthquake,5.1,1.9,0.176,9,reviewed,us,us
+2020-04-20T05:19:15.437Z,17.3704,95.1694,64.38,4.2,mb,,106,3.751,0.4,us,us60009bkn,2020-07-09T14:31:34.040Z,"43 km SW of Hinthada, Myanmar",earthquake,5.1,9.7,0.159,11,reviewed,us,us
+2020-06-30T03:26:58.130Z,33.195,75.926,46.75,4.2,mb,,131,2.268,0.84,us,us7000aeua,2020-09-05T17:35:35.040Z,"19 km SE of Kishtw?r, India",earthquake,7.9,3.9,0.113,22,reviewed,us,us
+2020-06-28T03:26:21.339Z,12.9095,92.6873,10,4.2,mb,,180,8.167,0.66,us,us7000ahew,2020-09-05T17:35:42.040Z,"133 km N of Bamboo Flat, India",earthquake,10.6,1.9,0.146,13,reviewed,us,us
+2020-05-27T05:31:38.205Z,34.2918,71.0348,10,4.2,mb,,168,1.665,1.25,us,us60009ztl,2020-08-15T20:19:35.040Z,"13 km WSW of Shinpokh, Pakistan",earthquake,8.9,2,0.175,9,reviewed,us,us
+2020-06-21T10:10:13.665Z,21.9396,94.9061,122.4,4.2,mb,,88,1.397,0.9,us,us7000ac71,2020-08-30T00:01:21.040Z,"30 km SW of Monywa, Myanmar",earthquake,7.8,3.7,0.105,25,reviewed,us,us
+2020-06-08T12:21:20.957Z,22.7767,94.6,100.69,4.2,mb,,144,0.933,0.81,us,us6000aawn,2020-08-18T17:59:06.040Z,"92 km NW of Monywa, Myanmar",earthquake,4.2,8.9,0.176,9,reviewed,us,us
+2020-07-21T01:33:52.896Z,35.5573,82.5463,10,4.2,mb,,82,6.211,0.84,us,us7000as36,2020-09-26T16:58:43.040Z,"290 km SE of Hotan, China",earthquake,8.1,1.7,0.146,13,reviewed,us,us
+2020-07-23T06:48:41.845Z,33.2056,87.0518,10,4.2,mb,,94,4.93,0.31,us,us6000b2h5,2020-10-03T17:32:17.040Z,"western Xizang",earthquake,5.2,1.9,0.132,16,reviewed,us,us
+2020-07-24T10:39:16.194Z,35.5442,69.1392,112.9,4.2,mb,,139,1.004,1.02,us,us6000b3b5,2020-10-03T17:32:19.040Z,"42 km NW of B?z?rak, Afghanistan",earthquake,7.3,10.3,0.186,8,reviewed,us,us
+2020-07-20T00:36:48.338Z,30.6463,94.8878,10,4.2,mb,,63,3.389,1.02,us,us6000b3hr,2020-09-26T16:58:26.040Z,"225 km WSW of Qamdo, China",earthquake,7.8,1.8,0.092,33,reviewed,us,us
+2020-07-22T20:13:48.618Z,33.1896,86.8557,10,4.2,mb,,98,5.214,0.8,us,us6000b5y0,2020-10-03T17:32:30.040Z,"western Xizang",earthquake,10.3,1.7,0.167,10,reviewed,us,us
+2020-07-31T18:58:48.847Z,30.3574,94.7728,10,4.2,mb,,71,3.228,0.7,us,us6000b7kk,2020-10-10T17:11:05.040Z,"206 km N of Shi Yomi, India",earthquake,8.6,1.9,0.086,43,reviewed,us,us
+2020-07-14T09:27:11.984Z,23.3677,94.3314,85.31,4.2,mb,,94,0.858,0.54,us,us7000ash7,2020-09-19T20:58:34.040Z,"31 km SSW of Mawlaik, Myanmar",earthquake,6.4,1.5,0.158,11,reviewed,us,us
+2020-07-31T17:55:33.530Z,31.968,93.5326,10,4.2,mb,,77,3.062,1.17,us,us6000ba2u,2020-10-10T17:11:17.040Z,"150 km ENE of Nagqu, China",earthquake,5,1.8,0.125,21,reviewed,us,us
+2020-08-22T22:56:36.497Z,22.5997,94.5465,102.78,4.2,mb,,138,0.876,0.63,us,us7000be94,2020-10-31T19:06:34.040Z,"81 km NW of Monywa, Myanmar",earthquake,6.5,7.9,0.159,11,reviewed,us,us
+2020-09-23T03:51:05.282Z,33.2201,85.308,10,4.2,mb,,110,5.402,0.78,us,us6000c2j7,2020-12-05T21:03:06.040Z,"western Xizang",earthquake,5.6,1.9,0.124,18,reviewed,us,us
+2020-10-11T06:02:51.900Z,30.2312,70.0859,10,4.2,mb,,135,4.352,1.02,us,us6000c7hh,2020-12-19T17:22:45.040Z,"57 km WNW of Dera Ghazi Khan, Pakistan",earthquake,9.8,1.9,0.127,17,reviewed,us,us
+2020-10-28T18:34:26.731Z,29.4069,80.8988,10,4.2,mb,,176,5.391,1.14,us,us7000c9s1,2021-01-18T23:01:37.040Z,"16 km NNW of Dipayal, Nepal",earthquake,13.4,1.9,0.167,10,reviewed,us,us
+2020-10-07T13:03:15.556Z,30.0793,96.1336,10,4.2,mb,,111,4.363,0.69,us,us6000c7sq,2020-12-19T17:22:48.040Z,"Eastern Xizang",earthquake,9.3,1.2,0.136,16,reviewed,us,us
+2020-10-16T20:32:32.922Z,33.3981,90.0814,10,4.2,mb,,67,3.79,0.81,us,us6000caqq,2020-12-29T23:07:28.040Z,"282 km NW of Nagqu, China",earthquake,8.2,1.9,0.11,31,reviewed,us,us
+2020-12-09T21:57:34.387Z,33.866,74.9266,10,4.2,mb,,145,1.397,0.88,us,us7000cr0b,2021-02-20T16:11:58.040Z,"2 km ESE of Pulwama, India",earthquake,8.9,2,0.372,2,reviewed,us,us
+2020-12-12T04:14:10.866Z,23.0317,94.2086,76.92,4.2,mb,,128,1.195,0.95,us,us7000crma,2021-02-20T16:12:27.040Z,"55 km ENE of Falam, Myanmar",earthquake,5.4,8.1,0.167,10,reviewed,us,us
+2020-12-27T14:29:31.526Z,34.6475,73.1544,10,4.2,mb,,89,0.999,0.7,us,us6000d6er,2021-03-06T23:19:31.040Z,"12 km ESE of Battagram, Pakistan",earthquake,4.7,1.9,0.2,8,reviewed,us,us
+2021-01-13T19:15:33.854Z,24.8799,93.3739,10,4.2,mb,,66,1.063,1.12,us,us6000d82z,2021-03-20T21:25:20.040Z,"38 km ENE of Lakhipur, India",earthquake,5.3,1.9,0.098,29,reviewed,us,us
+2021-01-27T18:56:21.382Z,26.293,95.7822,80.92,4.2,mb,,166,2.453,0.63,us,us6000def4,2021-04-13T17:05:56.040Z,"83 km SSE of Khonsa, India",earthquake,10.1,5.4,0.373,2,reviewed,us,us
+2021-02-25T03:46:04.088Z,22.7,95.8415,20.12,4.2,mb,,110,2.071,0.62,us,us7000dew3,2021-05-04T14:17:08.040Z,"20 km NE of Shwebo, Myanmar",earthquake,6.5,4,0.152,12,reviewed,us,us
+2021-04-13T10:44:23.754Z,30.3274,70.5179,10,4.2,mb,,177,4.054,0.7,us,us6000e38b,2021-06-19T21:26:16.040Z,"33 km NNW of Dera Ghazi Khan, Pakistan",earthquake,7.8,1.8,0.136,16,reviewed,us,us
+2021-05-14T23:39:52.005Z,26.418,95.5047,85.91,4.2,mb,,120,2.436,0.76,us,us7000e38n,2021-07-24T21:06:59.040Z,"56 km SE of Mon, India",earthquake,9.4,5.9,0.14,14,reviewed,us,us
+2021-04-28T10:33:27.953Z,26.7662,92.5133,35,4.2,mb,,181,1.332,0.54,us,us7000e0d3,2021-07-07T18:37:06.040Z,"7 km NNE of Dhekiajuli, India",earthquake,10.5,2,0.215,7,reviewed,us,us
+2021-05-06T05:00:15.741Z,26.5945,92.4813,48.29,4.2,mb,,115,1.167,0.85,us,us7000e2dg,2021-07-10T20:16:11.040Z,"12 km S of Dhekiajuli, India",earthquake,9.1,5.5,0.216,6,reviewed,us,us
+2021-03-21T09:31:31.443Z,6.9626,92.3578,10,4.2,mb,,135,4.678,1.28,us,us6000dxf7,2021-06-02T15:23:12.040Z,"Nicobar Islands, India region",earthquake,7.4,1.8,0.2,7,reviewed,us,us
+2021-03-21T12:22:37.682Z,26.6195,92.5148,10,4.2,mb,,101,1.204,0.68,us,us6000dxfb,2021-06-02T15:23:12.040Z,"10 km SSE of Dhekiajuli, India",earthquake,8,1.9,0.102,27,reviewed,us,us
+2021-05-31T04:20:49.211Z,26.7632,92.3186,34.13,4.2,mb,,86,1.261,0.64,us,us6000eg46,2021-08-07T22:06:30.040Z,"17 km WNW of Dhekiajuli, India",earthquake,6.9,5.5,0.118,20,reviewed,us,us
+2021-06-13T09:41:46.884Z,7.2816,94.4207,10,4.2,mb,,101,3.235,0.38,us,us7000edvp,2021-08-26T21:59:14.040Z,"183 km NNW of Sabang, Indonesia",earthquake,10.4,1.9,0.167,11,reviewed,us,us
+2021-05-03T10:41:09.136Z,25.8803,96.7988,55.36,4.2,mb,,113,2.799,0.86,us,us7000e1tg,2021-07-10T20:16:01.040Z,"36 km S of Sarupathar, India",earthquake,6.3,9.7,0.158,12,reviewed,us,us
+2021-06-16T06:47:00.488Z,5.4551,94.4104,66.36,4.2,mb,,190,2.535,0.76,us,us7000eeyv,2021-08-26T21:59:25.040Z,"102 km W of Banda Aceh, Indonesia",earthquake,14.1,9.6,0.176,10,reviewed,us,us
+2021-07-14T20:10:53.149Z,22.4613,94.1567,39.36,4.2,mb,,82,0.545,0.6,us,us7000elzr,2021-09-17T22:50:32.040Z,"59 km ESE of Hakha, Myanmar",earthquake,5.9,4.4,0.136,15,reviewed,us,us
+2021-07-07T20:21:09.465Z,11.0785,93.4623,96.69,4.2,mb,,199,10.227,0.45,us,us7000elju,2021-09-10T20:06:42.040Z,"101 km SE of Port Blair, India",earthquake,15.2,9.8,0.141,14,reviewed,us,us
+2021-08-09T13:06:44.772Z,29.7653,94.5571,10,4.2,mb,,126,7.145,0.79,us,us6000f7z6,2021-08-18T15:46:51.040Z,"138 km N of Shi Yomi, India",earthquake,10.7,1.9,0.2,9,reviewed,us,us
+2021-08-09T15:48:30.416Z,20.4478,92.3214,10,4.2,mb,,156,2.306,0.62,us,us6000f3lz,2021-08-18T18:17:48.040Z,"45 km S of Tekn?f, Bangladesh",earthquake,8.9,1.9,0.237,5,reviewed,us,us
+2021-07-20T17:49:28.185Z,29.3394,70.1331,10,4.2,mb,,130,5.063,0.69,us,us6000ezf0,2021-09-25T21:08:21.040Z,"32 km NW of Rajanpur, Pakistan",earthquake,7.2,1.8,0.166,13,reviewed,us,us
+2021-08-06T15:58:47.503Z,6.6032,94.4967,10,4.2,mb,,93,2.793,1.24,us,us6000f5mj,2021-08-29T17:44:25.040Z,"120 km NW of Sabang, Indonesia",earthquake,10.4,2,0.235,5,reviewed,us,us
+2021-09-02T03:21:59.692Z,10.2773,93.9046,10,4.2,mb,,158,5.864,0.68,us,us7000f9rj,2021-09-29T01:55:13.040Z,"199 km SE of Port Blair, India",earthquake,7.3,1.9,0.141,14,reviewed,us,us
+2021-09-04T10:07:22.328Z,13.6444,93.5461,35,4.2,mb,,184,5.462,0.39,us,us7000fa1b,2021-09-30T12:22:17.040Z,"233 km NNE of Bamboo Flat, India",earthquake,7,2,0.167,10,reviewed,us,us
+2021-09-04T12:10:24.174Z,10.1169,91.4548,10,4.2,mb,,128,8.506,0.59,us,us7000fa1d,2021-10-01T11:00:27.040Z,"222 km SW of Port Blair, India",earthquake,6.9,1.9,0.176,13,reviewed,us,us
+2020-11-21T20:15:03.902Z,22.1407,79.6342,10,4.3,mb,,123,8.71,0.57,us,us6000crc4,2021-02-03T17:49:49.040Z,"10 km NE of Seoni, India",earthquake,9.5,1.8,0.088,37,reviewed,us,us
+2020-11-08T09:12:23.801Z,28.6287,96.3987,10,4.3,mb,,75,4.732,0.6,us,us7000cc28,2021-01-23T22:25:36.040Z,"63 km NNW of Hayuliang, India",earthquake,8.9,1.9,0.095,34,reviewed,us,us
+2020-11-08T09:32:42.842Z,24.2021,94.1977,65.34,4.3,mb,,65,0.097,0.43,us,us7000cduh,2021-01-23T22:25:44.040Z,"39 km SE of Kakching, India",earthquake,6.5,3.9,0.177,9,reviewed,us,us
+2020-11-22T03:29:20.994Z,26.2945,94.7728,60.63,4.3,mb,,99,2.1,0.94,us,us6000crdq,2021-02-03T17:49:58.040Z,"5 km WNW of Tuensang, India",earthquake,8.1,6.8,0.154,12,reviewed,us,us
+2020-11-06T03:06:45.517Z,25.1948,96.4551,10,4.3,mb,,117,2.182,0.79,us,us7000cdah,2021-01-23T22:25:43.040Z,"Myanmar",earthquake,9.2,1.9,0.138,15,reviewed,us,us
+2020-11-22T00:00:40.464Z,14.0029,92.5614,10,4.3,mb,,75,2.339,1.04,us,us6000csin,2021-02-03T17:49:00.040Z,"255 km N of Bamboo Flat, India",earthquake,7.3,1.6,0.238,5,reviewed,us,us
+2020-11-17T03:28:22.737Z,13.7389,92.4013,10,4.3,mb,,89,2.097,0.64,us,us6000cqrt,2021-01-27T17:28:26.040Z,"228 km N of Bamboo Flat, India",earthquake,5.7,1.9,0.154,12,reviewed,us,us
+2020-12-10T16:56:47.765Z,26.1291,90.5453,10,4.3,mb,,88,1.307,0.64,us,us7000cptt,2021-02-20T16:11:09.040Z,"9 km WSW of Go?lp?ra, India",earthquake,6.2,1.9,0.102,32,reviewed,us,us
+2020-03-15T15:00:17.383Z,28.2184,83.5923,10,4.3,mb,,149,2.856,0.94,us,us60008g2y,2020-09-15T23:58:35.681Z,"5 km S of B?glung, Nepal",earthquake,9.9,1.9,0.08,44,reviewed,us,us
+2020-03-29T18:17:45.513Z,32.9731,76.4202,10,4.3,mb,,153,2.724,0.65,us,us70008idc,2020-06-13T18:44:49.040Z,"53 km NNE of Chamba, India",earthquake,9.7,1.9,0.133,16,reviewed,us,us
+2020-05-18T08:26:07.753Z,34.4604,68.9654,10,4.3,mb,,74,0.102,0.54,us,us70009k2j,2020-08-02T00:28:56.040Z,"11 km NE of Maydanshakhr, Afghanistan",earthquake,4.9,1.9,0.147,13,reviewed,us,us
+2020-05-30T15:51:39.617Z,27.8896,84.8784,10,4.3,mb,,175,1.712,0.51,us,us6000a3bl,2020-08-15T20:19:53.040Z,"45 km WNW of Kirtipur, Nepal",earthquake,6.5,1.9,0.102,27,reviewed,us,us
+2020-07-03T13:30:49.114Z,28.142,76.5366,30.38,4.3,mb,,169,6.166,0.74,us,us7000ahde,2020-09-11T22:14:00.040Z,"9 km NNW of B?wal, India",earthquake,10.2,5.6,0.116,21,reviewed,us,us
+2020-01-12T20:22:02.782Z,29.4841,81.5921,10,4.3,mb,,77,8.225,1.32,us,us70006yvh,2020-04-02T21:28:21.040Z,"61 km WNW of Jumla, Nepal",earthquake,9.6,1.9,0.137,15,reviewed,us,us
+2020-01-14T01:24:58.643Z,23.6781,94.5148,94.42,4.3,mb,,119,0.583,0.98,us,us70006zgm,2020-04-02T21:28:28.040Z,"11 km ENE of Mawlaik, Myanmar",earthquake,7,6.1,0.137,15,reviewed,us,us
+2020-01-05T13:16:52.055Z,30.3664,85.5587,10,4.3,mb,,172,4.873,0.68,us,us70006uzp,2020-03-21T17:13:36.040Z,"119 km NNE of Saga, China",earthquake,12.7,1.9,0.116,21,reviewed,us,us
+2020-01-27T20:57:53.201Z,30.9589,69.8631,10,4.3,mb,,131,3.638,0.83,us,us60007hjw,2020-04-11T18:20:57.040Z,"57 km SE of Zhob, Pakistan",earthquake,8.8,1.9,0.094,32,reviewed,us,us
+2020-01-02T08:22:22.365Z,8.0784,94.0198,10,4.3,mb,,107,4.058,0.68,us,us7000713k,2020-03-21T17:13:18.040Z,"281 km NNW of Sabang, Indonesia",earthquake,10.2,1.9,0.137,15,reviewed,us,us
+2020-02-12T19:17:55.089Z,10.5177,94.0622,10,4.3,mb,,103,1.718,0.96,us,us70007nyd,2020-05-02T22:09:42.040Z,"191 km SE of Port Blair, India",earthquake,8.3,1.8,0.105,26,reviewed,us,us
+2020-01-29T13:43:05.740Z,24.4383,94.9928,115.32,4.3,mb,,70,0.664,0.97,us,us70007kw7,2020-04-18T22:10:28.040Z,"95 km E of W?ngjing, India",earthquake,6.1,8.3,0.148,13,reviewed,us,us
+2020-02-18T23:11:58.225Z,35.6198,74.5363,10,4.3,mb,,96,2.225,1,us,us70007vxz,2020-05-02T22:10:37.040Z,"38 km SSE of Gilgit, Pakistan",earthquake,7.7,1.9,0.153,12,reviewed,us,us
+2020-03-04T13:28:38.624Z,32.0214,94.7889,10,4.3,mb,,101,6.926,0.87,us,us600089dg,2020-05-23T22:03:33.040Z,"247 km WNW of Qamdo, China",earthquake,8.3,1.9,0.106,25,reviewed,us,us
+2020-03-25T08:45:56.122Z,34.4893,85.8489,10,4.3,mb,,96,6.543,0.79,us,us70008fp0,2020-06-13T18:44:30.040Z,"western Xizang",earthquake,8.9,1.9,0.147,13,reviewed,us,us
+2020-03-13T10:48:10.217Z,6.4531,92.6013,10,4.3,mb,,87,7.125,0.6,us,us70008gwf,2020-05-30T22:17:23.040Z,"Nicobar Islands, India region",earthquake,5.3,1.9,0.117,21,reviewed,us,us
+2020-04-18T17:17:44.688Z,31.6054,93.5107,30.21,4.3,mb,,44,2.795,0.69,us,us70008zg8,2020-07-09T14:31:26.040Z,"138 km E of Nagqu, China",earthquake,7.9,4.6,0.072,67,reviewed,us,us
+2020-04-30T20:17:52.005Z,32.2161,89.5179,10,4.3,mb,,64,2.861,1.06,us,us700097vu,2020-07-18T21:57:06.040Z,"253 km WNW of Nagqu, China",earthquake,5.5,1.8,0.077,47,reviewed,us,us
+2020-04-13T17:34:03.942Z,12.0153,92.9576,38,4.3,mb,,86,0.414,1.05,us,us700090hi,2020-06-30T14:03:16.040Z,"43 km NE of Bamboo Flat, India",earthquake,7.8,7.5,0.218,6,reviewed,us,us
+2020-03-27T10:27:01.109Z,7.4016,92.2583,10,4.3,mb,,134,11.464,0.32,us,us70008k9z,2020-06-13T18:44:44.040Z,"Nicobar Islands, India region",earthquake,5.8,1.9,0.153,12,reviewed,us,us
+2020-04-21T01:17:28.268Z,35.7311,74.5266,35,4.3,mb,,104,2.32,0.85,us,us60009dbz,2020-07-09T14:31:38.040Z,"28 km SE of Gilgit, Pakistan",earthquake,8.8,2,0.168,10,reviewed,us,us
+2020-04-15T21:28:07.501Z,5.8861,95.8214,19.79,4.3,mb,,187,1.296,0.36,us,us700091t8,2020-07-09T14:31:09.040Z,"55 km E of Sabang, Indonesia",earthquake,13,8.9,0.218,6,reviewed,us,us
+2020-05-22T19:43:08.261Z,11.3192,93.5383,103.13,4.3,mb,,77,0.847,0.65,us,us70009npp,2020-08-08T18:17:51.040Z,"94 km ESE of Port Blair, India",earthquake,7.7,6.6,0.106,29,reviewed,us,us
+2020-05-22T13:44:50.634Z,32.7694,85.4486,10,4.3,mb,,100,4.937,0.79,us,us70009ne4,2020-08-08T18:17:50.040Z,"western Xizang",earthquake,6.4,1.9,0.111,23,reviewed,us,us
+2020-06-27T07:02:06.758Z,35.7378,82.4574,10,4.3,mb,,104,6.017,0.6,us,us7000acxr,2020-09-05T17:35:25.040Z,"272 km SE of Hotan, China",earthquake,5.6,1.9,0.116,21,reviewed,us,us
+2020-06-25T23:07:53.127Z,35.7015,82.4897,10,4.3,mb,,75,6.061,0.49,us,us7000abqy,2020-09-05T17:35:21.040Z,"277 km SE of Hotan, China",earthquake,4.2,1.9,0.102,27,reviewed,us,us
+2020-06-25T22:51:44.316Z,35.6096,82.4316,10,4.3,mb,,107,6.126,0.61,us,us7000abqj,2020-09-05T17:35:21.040Z,"278 km SE of Hotan, China",earthquake,6.4,1.9,0.104,26,reviewed,us,us
+2020-06-24T22:28:28.408Z,15.1779,96.2038,10,4.3,mb,,186,4.185,0.58,us,us7000afrb,2020-09-05T17:35:39.040Z,"134 km SSE of Pyapon, Myanmar",earthquake,8.6,1.9,0.177,9,reviewed,us,us
+2020-07-23T01:04:25.796Z,32.9435,86.6104,10,4.3,mb,,71,4.971,0.95,us,us6000b2dh,2020-10-03T17:32:16.040Z,"western Xizang",earthquake,8.1,1.8,0.099,29,reviewed,us,us
+2020-07-24T19:46:04.694Z,30.4782,87.4178,10,4.3,mb,,50,2.565,0.66,us,us6000b3nm,2020-10-03T17:32:20.040Z,"196 km NW of Rikaze, China",earthquake,5.1,1.9,0.077,54,reviewed,us,us
+2020-07-28T14:38:18.583Z,33.2057,86.8606,10,4.3,mb,,95,5.047,0.95,us,us6000b5cw,2020-10-03T17:32:29.040Z,"western Xizang",earthquake,9,1.9,0.129,17,reviewed,us,us
+2020-07-22T20:17:55.276Z,33.1168,86.7663,10,4.3,mb,,93,5.047,0.6,us,us6000b5xs,2020-10-03T17:32:30.040Z,"western Xizang",earthquake,6.8,1.9,0.147,13,reviewed,us,us
+2020-06-24T13:49:23.892Z,33.4991,71.4493,10,4.3,mb,,99,2.252,1.02,us,us7000afqt,2020-09-05T17:35:39.040Z,"9 km S of Kohat, Pakistan",earthquake,6,1.9,0.111,23,reviewed,us,us
+2020-08-07T17:36:20.411Z,24.5305,94.8553,103.06,4.3,mb,,147,0.588,0.84,us,us6000baqp,2020-10-21T22:03:56.040Z,"80 km E of W?ngjing, India",earthquake,9.3,6.6,0.238,5,reviewed,us,us
+2020-07-31T06:10:06.917Z,30.3418,95.04,10,4.3,mb,,161,3.452,0.86,us,us6000ba2m,2020-10-10T17:11:17.040Z,"210 km NNE of Shi Yomi, India",earthquake,8.8,2,0.153,12,reviewed,us,us
+2020-08-11T13:57:53.226Z,24.2129,93.9507,59.16,4.3,mb,,47,0.319,1.07,us,us6000bcmi,2020-10-21T22:04:09.040Z,"31 km ESE of Chur?ch?ndpur, India",earthquake,4.3,5.8,0.089,36,reviewed,us,us
+2020-08-25T15:24:34.342Z,29.556,80.9299,10,4.3,mb,,169,5.403,0.79,us,us7000bcp6,2020-10-31T19:06:27.040Z,"32 km N of Dipayal, Nepal",earthquake,7.4,1.8,0.133,16,reviewed,us,us
+2020-08-11T14:48:44.768Z,7.3494,93.3176,40.31,4.3,mb,,203,4.177,0.36,us,us6000bg1i,2020-10-21T22:04:15.040Z,"273 km NW of Sabang, Indonesia",earthquake,14.9,11.2,0.168,10,reviewed,us,us
+2020-09-10T16:54:55.134Z,23.9905,94.8835,127.25,4.3,mb,,73,0.583,0.43,us,us7000bl8x,2020-11-21T20:10:35.040Z,"62 km NE of Mawlaik, Myanmar",earthquake,5.2,6.5,0.188,9,reviewed,us,us
+2020-09-10T20:23:33.551Z,33.076,73.6571,10,4.3,mb,,96,0.658,1.2,us,us7000blew,2020-11-21T20:10:35.040Z,"11 km SW of New Mirpur, Pakistan",earthquake,5.8,1.9,0.1,28,reviewed,us,us
+2020-08-27T15:50:10.966Z,18.2351,95.1077,33.21,4.3,mb,,80,3.106,0.44,us,us7000bggc,2020-11-07T18:48:47.040Z,"23 km WSW of Myanaung, Myanmar",earthquake,8,1.4,0.133,18,reviewed,us,us
+2020-07-17T22:55:38.710Z,24.6057,92.3782,39.89,4.3,mb,,64,1.067,0.61,us,us6000b2u6,2020-09-26T16:58:24.040Z,"20 km WSW of Hail?k?ndi, India",earthquake,5.4,6.9,0.07,63,reviewed,us,us
+2020-10-04T16:00:02.846Z,20.6448,94.4032,78.19,4.3,mb,,166,2.123,1.05,us,us6000c5hh,2020-12-12T22:28:39.040Z,"51 km WSW of Chauk, Myanmar",earthquake,7.7,8.2,0.142,14,reviewed,us,us
+2020-09-01T06:39:06.264Z,22.278,95.016,76.13,4.3,mb,,151,1.359,0.82,us,us7000bhu5,2020-11-07T18:48:52.040Z,"22 km NNW of Monywa, Myanmar",earthquake,9.6,4.6,0.16,11,reviewed,us,us
+2020-10-14T23:39:01.108Z,12.1851,95.7845,10,4.3,mb,,153,6.94,1,us,us6000c9yq,2020-12-29T23:07:21.040Z,"Andaman Islands, India region",earthquake,6.2,1.9,0.16,11,reviewed,us,us
+2020-11-26T02:00:31.329Z,10.1668,93.6071,10,4.3,mb,,94,1.705,0.38,us,us7000cl6l,2021-02-06T18:29:13.040Z,"190 km SSE of Port Blair, India",earthquake,4.1,1.9,0.153,12,reviewed,us,us
+2020-10-17T16:19:48.308Z,32.022,69.074,45.61,4.3,mb,,112,2.512,1.41,us,us6000c90n,2020-12-29T23:07:32.040Z,"56 km WSW of Wana, Pakistan",earthquake,8.3,6.8,0.097,33,reviewed,us,us
+2021-01-16T20:48:12.888Z,23.6359,93.5159,61.32,4.3,mb,,66,0.929,0.63,us,us7000d0pu,2021-03-27T21:04:54.040Z,"48 km NE of Khawhai, India",earthquake,3.9,7.6,0.097,30,reviewed,us,us
+2021-01-22T21:14:43.356Z,24.326,95.0289,117.91,4.3,mb,,66,0.671,1.11,us,us7000d2iy,2021-04-13T17:05:08.040Z,"98 km NE of Mawlaik, Myanmar",earthquake,3.2,5.6,0.105,26,reviewed,us,us
+2021-01-18T16:08:00.919Z,7.4656,93.5259,43.43,4.3,mb,,170,4.062,0.26,us,us7000d3pj,2021-03-27T21:06:20.040Z,"263 km NW of Sabang, Indonesia",earthquake,15.8,5.8,0.177,10,reviewed,us,us
+2020-12-24T12:47:17.072Z,25.6158,96.657,10,4.3,mb,,121,2.546,1.34,us,us6000d2jw,2021-03-06T23:18:19.040Z,"67 km SSW of Sarupathar, India",earthquake,5.1,1.9,0.133,16,reviewed,us,us
+2021-02-09T01:50:07.207Z,28.0331,87.8568,35,4.3,mb,,146,4.336,0.65,us,us6000dfsj,2021-04-22T21:51:47.040Z,"87 km NW of Mangan, India",earthquake,9.9,2,0.087,38,reviewed,us,us
+2021-01-17T06:59:48.217Z,26.0588,96.3433,10,4.3,mb,,78,2.597,0.45,us,us7000d3f8,2021-03-27T21:06:13.040Z,"49 km WSW of Sarupathar, India",earthquake,9.2,1.9,0.097,30,reviewed,us,us
+2021-03-26T00:18:33.215Z,35.4265,91.1933,10,4.3,mb,,72,9.844,0.71,us,us6000dwim,2021-06-08T17:58:27.040Z,"Southern Qinghai, China",earthquake,8.3,1.9,0.085,39,reviewed,us,us
+2021-04-06T22:00:59.617Z,31.9489,93.059,10,4.3,mb,,70,2.788,0.91,us,us6000e1if,2021-06-12T21:37:55.040Z,"108 km ENE of Nagqu, China",earthquake,11.3,1.9,0.097,30,reviewed,us,us
+2021-03-19T18:04:10.720Z,31.9252,93.017,10,4.3,mb,,65,2.747,0.82,us,us6000dwpr,2021-06-02T15:22:57.040Z,"103 km ENE of Nagqu, China",earthquake,8.1,1.9,0.078,54,reviewed,us,us
+2021-04-02T08:58:38.418Z,34.4826,87.6043,10,4.3,mb,,84,5.624,0.53,us,us6000e0b7,2021-06-12T21:36:31.040Z,"western Xizang",earthquake,3.8,1.9,0.086,38,reviewed,us,us
+2021-04-21T19:45:11.093Z,10.4547,93.8204,10,4.3,mb,,178,8.489,1.17,us,us7000dxx5,2021-07-03T16:49:57.040Z,"178 km SE of Port Blair, India",earthquake,10.4,1.9,0.122,19,reviewed,us,us
+2021-04-30T13:40:06.220Z,24.2389,94.513,95.31,4.3,mb,,94,2.751,0.63,us,us7000e0qx,2021-07-10T20:15:44.040Z,"59 km SE of W?ngjing, India",earthquake,7,10,0.16,11,reviewed,us,us
+2021-05-17T04:37:25.741Z,31.9601,92.926,10,4.3,mb,,47,2.73,0.97,us,us7000e52e,2021-07-24T21:07:32.040Z,"Eastern Xizang",earthquake,5.6,1.7,0.097,30,reviewed,us,us
+2021-03-25T00:28:53.494Z,17.7099,94.1714,10,4.3,mb,,183,4.599,0.58,us,us6000dy6c,2021-06-02T15:23:32.040Z,"119 km NNW of Pathein, Myanmar",earthquake,5.9,2,0.188,8,reviewed,us,us
+2021-05-23T15:41:03.473Z,22.9496,94.5814,95.83,4.3,mb,,103,0.956,0.83,us,us6000efgh,2021-07-31T22:08:56.040Z,"78 km SSE of Mawlaik, Myanmar",earthquake,5.5,8.7,0.188,8,reviewed,us,us
+2021-06-08T13:26:41.870Z,34.3128,81.7049,10,4.3,mb,,84,7.039,1.32,us,us7000eb4l,2021-08-24T21:34:16.040Z,"western Xizang",earthquake,7.8,1.9,0.133,18,reviewed,us,us
+2021-06-21T10:06:50.953Z,29.2822,87.124,10,4.3,mb,,102,1.347,0.63,us,us7000eew5,2021-08-27T18:58:05.040Z,"150 km NNE of Lobujya, Nepal",earthquake,7.2,1.9,0.132,16,reviewed,us,us
+2021-07-09T07:46:23.848Z,25.9749,90.3995,10,4.3,mb,,159,1.374,0.64,us,us6000etjs,2021-09-17T22:48:47.040Z,"11 km ESE of Lakhipur, India",earthquake,6.1,1.8,0.109,24,reviewed,us,us
+2021-08-03T03:54:54.102Z,8.9515,94.1539,10,4.3,mb,,103,5.396,0.92,us,us6000f46k,2021-10-14T01:09:03.040Z,"Nicobar Islands, India region",earthquake,8.5,1.9,0.178,9,reviewed,us,us
+2021-07-29T16:02:25.747Z,6.8041,94.1346,65.06,4.3,mb,,163,3.205,0.85,us,us6000f2g5,2021-10-03T05:24:33.040Z,"165 km NW of Sabang, Indonesia",earthquake,8.2,8.9,0.16,13,reviewed,us,us
+2021-08-28T15:21:30.565Z,35.3951,89.2934,10,4.3,mb,,105,10.965,1.14,us,us7000f58p,2021-09-26T15:56:28.040Z,"western Xizang",earthquake,8.2,1.9,0.11,23,reviewed,us,us
+2021-08-10T01:34:00.703Z,8.7263,93.9675,10,4.3,mb,,118,5.572,0.53,us,us6000f8dd,2021-09-01T03:24:01.040Z,"Nicobar Islands, India region",earthquake,14.4,1.9,0.189,8,reviewed,us,us
+2021-08-31T16:05:14.317Z,10.9134,91.5518,10,4.3,mb,,119,8.156,0.48,us,us7000f9dk,2021-09-09T20:56:55.040Z,"154 km SW of Bamboo Flat, India",earthquake,12.1,1.9,0.177,10,reviewed,us,us
+2021-09-13T03:46:47.551Z,33.7409,76.4233,10,4.3,mb,,141,2.631,0.99,us,us7000fanp,2021-09-22T23:02:31.040Z,"52 km NW of Padam, India",earthquake,7.2,1.8,0.117,21,reviewed,us,us
+2021-07-21T04:01:45.956Z,34.0777,78.4395,10,4.3,mb,,171,4.323,0.83,us,us6000ezhw,2021-09-25T21:08:24.040Z,"79 km E of Leh, India",earthquake,10.2,2,0.189,8,reviewed,us,us
+2021-09-28T15:11:47.221Z,30.4798,69.9279,10,4.3,mb,,91,4.117,0.52,us,us7000ff89,2021-09-28T15:55:54.040Z,"73 km WSW of Taunsa, Pakistan",earthquake,5.4,1.9,0.188,10,reviewed,us,us
+2021-08-03T08:30:02.583Z,8.9911,94.0466,10,4.3,mb,,183,5.505,1.4,us,us6000f46w,2021-10-14T01:09:08.040Z,"Nicobar Islands, India region",earthquake,14,2,0.202,7,reviewed,us,us
+2021-10-08T23:53:31.795Z,35.6088,82.4066,10,4.3,mb,,92,7.091,0.56,us,us6000ft5h,2021-10-15T21:20:35.040Z,"277 km SE of Hotan, China",earthquake,8.4,1.9,0.125,18,reviewed,us,us
+2021-10-14T00:04:19.897Z,33.7795,91.9605,10,4.3,mb,,105,7.295,0.96,us,us6000fudy,2021-10-14T00:28:11.040Z,"255 km N of Nagqu, China",earthquake,10.1,1.9,0.099,29,reviewed,us,us
+2021-09-14T10:40:07.604Z,23.6075,94.8884,107.53,4.3,mb,,88,0.82,0.45,us,us7000fcx3,2021-10-14T13:48:04.040Z,"49 km E of Mawlaik, Myanmar",earthquake,7.9,8.8,0.238,6,reviewed,us,us
+2021-10-11T16:24:38.865Z,17.1543,77.0051,10,4.3,mb,,74,10.463,0.62,us,us6000fuwm,2021-10-17T21:05:14.040Z,"7 km ENE of Sh?h?b?d, India",earthquake,14.4,1.9,0.147,16,reviewed,us,us
+2020-10-24T03:21:04.311Z,23.1224,92.2965,44.64,4.4,mb,,95,0.748,0.78,us,us6000ccf2,2021-01-09T20:05:22.040Z,"33 km E of Khagrachhari, Bangladesh",earthquake,3.6,6.6,0.127,18,reviewed,us,us
+2020-11-27T23:37:50.417Z,33.713,88.5012,10,4.4,mb,,50,4.581,0.84,us,us7000ckid,2021-02-06T18:28:42.040Z,"western Xizang",earthquake,8.4,1.9,0.091,35,reviewed,us,us
+2020-11-23T13:41:45.202Z,28.5808,87.2271,10,4.4,mb,,85,0.72,0.42,us,us6000crma,2021-02-03T17:51:09.040Z,"80 km NNE of Lobujya, Nepal",earthquake,7.1,1.9,0.097,31,reviewed,us,us
+2020-02-04T14:10:23.587Z,19.7608,95.8596,10,4.4,mb,,122,1.49,0.6,us,us60007pe6,2020-04-18T22:10:24.040Z,"28 km W of Nay Pyi Taw, Myanmar",earthquake,8.3,1.9,0.112,23,reviewed,us,us
+2020-07-06T16:06:23.560Z,34.5903,69.0436,9.82,4.4,mb,,89,0.049,0.77,us,us7000aiuv,2020-09-11T22:14:21.040Z,"8 km E of Paghm?n, Afghanistan",earthquake,5.6,4.9,0.124,19,reviewed,us,us
+2020-09-11T03:45:52.880Z,27.2464,87.7715,10,4.4,mb,,129,1.108,0.78,us,us7000blkr,2020-11-21T20:10:36.040Z,"40 km NNW of Il?m, Nepal",earthquake,8.3,1.9,0.095,32,reviewed,us,us
+2020-09-21T19:58:34.584Z,26.2803,91.3167,39.62,4.4,mb,,76,3.386,1.17,us,us6000bzfi,2020-11-28T21:32:02.040Z,"21 km W of H?jo, India",earthquake,8.8,6.3,0.107,25,reviewed,us,us
+2020-09-22T16:10:29.177Z,34.0837,74.7947,10,4.4,mb,,134,1.341,0.29,us,us6000bzub,2021-05-30T11:35:26.998Z,"1 km WSW of Srinagar, India",earthquake,5.9,2,0.309,3,reviewed,us,us
+2020-09-18T17:53:39.631Z,23.3836,94.5477,90.39,4.4,mb,,86,2.767,0.46,us,us6000c04a,2020-11-28T21:31:51.040Z,"32 km SSE of Mawlaik, Myanmar",earthquake,6.9,7.3,0.117,24,reviewed,us,us
+2020-01-05T13:14:02.142Z,29.9815,85.4049,10,4.4,mb,,136,4.978,0.45,us,us70006uzj,2020-03-21T17:13:36.040Z,"74 km NNE of Saga, China",earthquake,10.6,1.7,0.101,28,reviewed,us,us
+2020-01-12T14:34:14.825Z,29.4848,81.705,10,4.4,mb,,160,8.308,0.58,us,us60007et1,2020-04-02T21:27:32.040Z,"51 km WNW of Jumla, Nepal",earthquake,10.8,1.9,0.089,36,reviewed,us,us
+2020-02-07T11:00:40.151Z,11.1225,93.5904,129.96,4.4,mb,,73,0.984,0.81,us,us70007ksx,2020-04-25T22:18:27.040Z,"110 km ESE of Port Blair, India",earthquake,8.4,4.8,0.087,38,reviewed,us,us
+2020-02-04T05:05:34.413Z,34.547,70.5826,10,4.4,mb,,143,1.27,1.12,us,us60007p4i,2020-04-18T22:10:23.040Z,"17 km NE of Jal?l?b?d, Afghanistan",earthquake,5.9,1.3,0.114,22,reviewed,us,us
+2020-02-10T19:47:29.234Z,8.5032,92.5426,10,4.4,mb,,120,3.139,0.69,us,us70007rxk,2020-04-25T22:19:50.040Z,"Nicobar Islands, India region",earthquake,8.8,1.9,0.117,21,reviewed,us,us
+2020-02-09T08:48:50.639Z,12.8396,92.6303,10,4.4,mb,,134,1.181,0.33,us,us70007q7n,2020-04-25T22:19:46.040Z,"126 km N of Bamboo Flat, India",earthquake,6.2,1.9,0.202,7,reviewed,us,us
+2020-03-15T16:18:09.209Z,32.7903,85.6582,10,4.4,mb,,110,4.917,0.43,us,us70008c4d,2020-05-30T22:17:20.040Z,"western Xizang",earthquake,8.2,1.5,0.117,21,reviewed,us,us
+2020-02-17T07:16:25.977Z,35.6065,74.5291,10,4.4,mb,,69,2.21,0.79,us,us70007u9h,2020-05-02T22:10:32.040Z,"39 km SSE of Gilgit, Pakistan",earthquake,8.7,1.9,0.123,19,reviewed,us,us
+2020-04-04T00:45:51.928Z,32.6292,85.4271,10,4.4,mb,,91,4.806,0.85,us,us70008sd4,2020-06-21T00:54:54.040Z,"western Xizang",earthquake,10.4,1.9,0.143,14,reviewed,us,us
+2020-04-07T10:39:02.233Z,29.2723,95.1896,10,4.4,mb,,114,3.567,0.41,us,us70008qir,2020-06-21T00:55:16.040Z,"114 km NE of Shi Yomi, India",earthquake,11.4,1.9,0.096,31,reviewed,us,us
+2020-03-23T12:21:27.031Z,25.1038,96.351,10,4.4,mb,,75,2.058,0.73,us,us70008hf0,2020-06-06T20:54:10.040Z,"109 km WSW of Myitkyina, Myanmar",earthquake,7.8,1.9,0.126,18,reviewed,us,us
+2020-04-27T19:54:31.054Z,12.1157,92.936,32.59,4.4,mb,,82,0.494,0.69,us,us60009dff,2020-07-11T22:19:12.040Z,"51 km NNE of Bamboo Flat, India",earthquake,8.4,5.1,0.1,29,reviewed,us,us
+2020-05-28T08:05:58.316Z,32.5421,79.491,10,4.4,mb,,162,7.806,0.6,us,us6000a0vp,2020-08-15T20:19:42.040Z,"196 km NE of Sar?han, India",earthquake,6.4,1.8,0.112,23,reviewed,us,us
+2020-05-30T23:12:23.543Z,12.6084,93.2388,59.16,4.4,mb,,113,8.001,0.7,us,us6000a6h3,2020-08-15T20:19:54.040Z,"115 km NNE of Bamboo Flat, India",earthquake,11.6,9,0.126,18,reviewed,us,us
+2020-06-28T05:54:36.251Z,24.6766,94.5933,57.96,4.4,mb,,68,0.519,0.86,us,us7000adgj,2020-09-05T17:35:28.040Z,"54 km E of W?ngjing, India",earthquake,7.4,3.3,0.099,29,reviewed,us,us
+2020-07-17T10:26:38.892Z,23.1172,93.3785,10,4.4,mb,,91,0.514,0.41,us,us7000aq8x,2020-09-26T16:58:34.040Z,"32 km E of North Vanlaiphai, India",earthquake,4.2,1.9,0.087,38,reviewed,us,us
+2020-07-24T03:39:40.607Z,33.1468,86.8128,10,4.4,mb,,96,5.171,0.78,us,us6000b35t,2020-10-03T17:32:19.040Z,"western Xizang",earthquake,8,1.9,0.115,22,reviewed,us,us
+2020-07-22T14:32:46.445Z,34.1959,90.7802,10,4.4,mb,,67,4.489,0.74,us,us7000at5s,2020-10-03T17:32:42.040Z,"Southern Qinghai, China",earthquake,3.7,1.9,0.085,40,reviewed,us,us
+2020-07-12T19:34:50.955Z,8.8774,93.9083,10,4.4,mb,,176,2.989,0.96,us,us7000aqev,2020-09-19T20:58:31.040Z,"Nicobar Islands, India region",earthquake,9.5,1.9,0.179,9,reviewed,us,us
+2020-07-22T20:20:05.364Z,33.1501,86.8946,10,4.4,mb,,138,4.989,0.85,us,us6000b5xt,2020-10-03T17:32:30.040Z,"western Xizang",earthquake,10,1.4,0.155,12,reviewed,us,us
+2020-07-16T02:27:38.675Z,24.6068,92.3957,39.62,4.4,mb,,69,1.073,0.48,us,us6000b54f,2020-09-26T16:58:27.040Z,"18 km WSW of Hail?k?ndi, India",earthquake,5.6,7.4,0.144,14,reviewed,us,us
+2020-07-21T02:15:19.576Z,30.1907,94.7613,10,4.4,mb,,90,3.191,0.77,us,us6000b55p,2020-09-26T16:58:27.040Z,"187 km NNE of Shi Yomi, India",earthquake,8.9,1.9,0.118,21,reviewed,us,us
+2020-07-16T01:21:55.852Z,24.606,94.8877,30.68,4.4,mb,,64,0.653,0.52,us,us6000b2q0,2020-09-26T16:58:23.040Z,"83 km E of W?ngjing, India",earthquake,6.1,6.5,0.149,13,reviewed,us,us
+2020-08-11T21:27:28.697Z,30.3255,94.7921,10,4.4,mb,,87,3.238,0.83,us,us6000bcy3,2020-10-21T22:04:11.040Z,"203 km NNE of Shi Yomi, India",earthquake,4.2,1.9,0.082,43,reviewed,us,us
+2020-09-01T16:38:50.557Z,31.6784,93.347,10,4.4,mb,,108,2.744,0.48,us,us7000bhup,2020-11-07T18:48:52.040Z,"124 km E of Nagqu, China",earthquake,10.5,1.9,0.117,21,reviewed,us,us
+2020-08-13T05:22:46.641Z,30.3141,94.7804,10,4.4,mb,,71,3.226,0.84,us,us6000bdu6,2020-10-24T20:08:48.040Z,"201 km NNE of Shi Yomi, India",earthquake,7.9,1.9,0.094,33,reviewed,us,us
+2020-09-06T01:59:16.921Z,31.6455,93.406,26.87,4.4,mb,,68,2.757,0.79,us,us7000bir0,2020-11-17T19:44:42.040Z,"Eastern Xizang",earthquake,8.3,4.6,0.081,45,reviewed,us,us
+2020-09-22T10:43:16.291Z,7.3774,94.5426,10,4.4,mb,,158,3.204,0.47,us,us6000c17x,2020-11-28T21:32:04.040Z,"185 km NNW of Sabang, Indonesia",earthquake,12.8,2,0.138,15,reviewed,us,us
+2020-10-07T16:18:08.290Z,32.3518,80.5666,10,4.4,mb,,145,6.266,0.84,us,us6000c6hc,2020-12-19T17:22:38.040Z,"220 km NNE of Josh?math, India",earthquake,9.5,1.9,0.115,22,reviewed,us,us
+2020-10-24T12:10:55.386Z,35.2459,71.9924,68.28,4.4,mb,,105,1.909,0.74,us,us6000cckz,2021-01-09T20:05:23.040Z,"11 km ENE of Upper Dir, Pakistan",earthquake,3.8,10.7,0.12,20,reviewed,us,us
+2020-10-26T14:16:57.919Z,30.4031,69.5683,10,4.4,mb,,97,4.149,0.62,us,us6000cdas,2021-01-09T20:05:29.040Z,"56 km N of Barkhan, Pakistan",earthquake,9.5,1.9,0.13,17,reviewed,us,us
+2020-11-08T13:26:25.069Z,33.4944,75.735,10,4.4,mb,,145,2.065,0.6,us,us7000cc3t,2021-01-23T22:25:37.040Z,"eastern Kashmir",earthquake,7.9,1.9,0.112,23,reviewed,us,us
+2020-09-30T13:44:06.357Z,12.2219,93.7095,75.77,4.4,mb,,82,1.099,0.72,us,us6000c64x,2020-12-12T22:28:43.040Z,"121 km ENE of Port Blair, India",earthquake,7.5,6.8,0.11,24,reviewed,us,us
+2020-12-24T15:13:50.935Z,25.4629,96.6657,10,4.4,mb,,46,2.475,1.08,us,us6000d5su,2021-03-06T23:18:20.040Z,"74 km W of Myitkyina, Myanmar",earthquake,3.3,1.9,0.079,58,reviewed,us,us
+2021-01-27T02:52:29.712Z,13.1762,92.5357,29.29,4.4,mb,,66,1.524,0.73,us,us6000deej,2021-04-13T17:05:44.040Z,"164 km N of Bamboo Flat, India",earthquake,5.1,5.2,0.117,21,reviewed,us,us
+2021-02-08T15:40:37.923Z,13.9209,96.4846,10,4.4,mb,,97,3.528,0.76,us,us6000dh3s,2021-04-22T21:51:34.040Z,"185 km W of Dawei, Myanmar",earthquake,11,2,0.19,8,reviewed,us,us
+2021-02-15T13:53:17.275Z,9.1314,93.8707,10,4.4,mb,,152,2.742,0.8,us,us6000djgm,2021-04-23T21:04:40.040Z,"Nicobar Islands, India region",earthquake,8,1.9,0.219,8,reviewed,us,us
+2021-02-20T08:09:34.511Z,29.2546,69.7957,10,4.4,mb,,184,5.292,0.55,us,us7000ddkh,2021-05-04T14:15:18.040Z,"54 km WNW of Rajanpur, Pakistan",earthquake,5.2,1.9,0.123,19,reviewed,us,us
+2021-02-11T08:04:50.599Z,22.9602,94.4802,102.99,4.4,mb,,111,0.872,0.53,us,us6000dj5j,2021-04-22T21:53:18.040Z,"75 km S of Mawlaik, Myanmar",earthquake,5.6,6.3,0.111,25,reviewed,us,us
+2021-04-21T19:39:01.812Z,9.9295,93.1765,8.01,4.4,mb,,165,1.767,0.96,us,us7000dxx4,2021-07-03T16:49:57.040Z,"197 km SSE of Port Blair, India",earthquake,13.6,6.7,0.149,13,reviewed,us,us
+2021-05-15T03:03:56.663Z,26.753,92.4736,43.8,4.4,mb,,94,1.305,0.62,us,us7000e3ar,2021-07-24T21:07:04.040Z,"5 km N of Dhekiajuli, India",earthquake,8,7.9,0.134,18,reviewed,us,us
+2021-04-28T02:43:20.811Z,26.8262,92.5371,35,4.4,mb,,129,1.395,0.89,us,us7000e0c4,2021-07-07T18:36:50.040Z,"13 km W of Rang?p?ra, India",earthquake,9.1,2,0.123,19,reviewed,us,us
+2021-05-22T00:38:31.888Z,20.0893,95.7789,10,4.4,mb,,68,0.457,0.55,us,us7000e57r,2021-07-31T22:08:19.040Z,"26 km ENE of Taungdwingyi, Myanmar",earthquake,5.1,1.9,0.109,24,reviewed,us,us
+2021-05-23T01:26:40.871Z,24.7351,95.0955,103.92,4.4,mb,,85,0.882,0.78,us,us7000e5ej,2021-07-31T22:08:43.040Z,"105 km E of W?ngjing, India",earthquake,8.7,7,0.134,18,reviewed,us,us
+2021-05-18T12:03:01.251Z,26.6713,92.4258,49.81,4.4,mb,,81,1.213,0.4,us,us7000e42g,2021-07-24T21:07:56.040Z,"6 km SW of Dhekiajuli, India",earthquake,3.6,7.4,0.061,77,reviewed,us,us
+2021-05-30T08:53:07.964Z,26.6343,92.326,52.85,4.4,mb,,113,1.144,0.57,us,us6000efyu,2021-08-07T22:06:13.040Z,"16 km WSW of Dhekiajuli, India",earthquake,8,8.1,0.097,31,reviewed,us,us
+2021-05-28T00:51:27.010Z,31.9486,95.0989,13.72,4.4,mb,,38,4.084,0.7,us,us6000efbk,2021-08-07T22:05:35.040Z,"217 km WNW of Qamdo, China",earthquake,4.7,4.3,0.08,46,reviewed,us,us
+2021-05-27T13:00:46.741Z,10.7126,91.5096,10,4.4,mb,,182,10.057,0.64,us,us6000egpz,2021-07-31T22:10:16.040Z,"171 km SW of Bamboo Flat, India",earthquake,13.7,2,0.239,5,reviewed,us,us
+2021-05-31T19:49:34.458Z,23.2381,94.6949,111.49,4.4,mb,,146,1.051,0.73,us,us6000eged,2021-08-07T22:06:45.040Z,"53 km SSE of Mawlaik, Myanmar",earthquake,4.6,6,0.123,19,reviewed,us,us
+2021-06-15T21:52:16.471Z,34.5637,70.3727,34.73,4.4,mb,,70,1.097,0.94,us,us7000edcg,2021-08-26T21:59:24.040Z,"16 km NNW of Jal?l?b?d, Afghanistan",earthquake,6.5,4.8,0.087,38,reviewed,us,us
+2021-08-06T12:47:47.624Z,23.2137,94.1338,101.68,4.4,mb,,50,0.752,0.76,us,us6000f2sy,2021-08-17T06:06:14.040Z,"54 km SSW of Mawlaik, Myanmar",earthquake,5,4.1,0.117,23,reviewed,us,us
+2021-08-04T22:10:02.477Z,25.0993,94.9275,99.59,4.4,mb,,75,1.037,0.91,us,us6000f2a5,2021-10-14T01:07:19.040Z,"76 km SE of Phek, India",earthquake,9.2,9.3,0.11,24,reviewed,us,us
+2021-07-28T19:24:03.873Z,34.9229,91.0351,10.69,4.4,mb,,74,5.205,1.09,us,us6000ezxr,2021-10-03T05:22:53.040Z,"Southern Qinghai, China",earthquake,7.4,4.5,0.112,23,reviewed,us,us
+2021-08-04T01:56:10.241Z,9.0695,94.2481,10,4.4,mb,,94,5.312,0.59,us,us6000f4ic,2021-10-14T01:09:22.040Z,"Nicobar Islands, India region",earthquake,9.1,1.9,0.155,12,reviewed,us,us
+2021-08-06T18:49:56.874Z,22.5189,94.2094,39.54,4.4,mb,,98,0.576,0.58,us,us6000f5mq,2021-09-03T17:17:23.040Z,"63 km ESE of Hakha, Myanmar",earthquake,5.7,7.8,0.162,13,reviewed,us,us
+2021-09-14T18:47:12.873Z,10.4507,93.2806,87.8,4.4,mb,,91,1.308,0.58,us,us7000fb56,2021-10-13T15:32:11.040Z,"146 km SSE of Port Blair, India",earthquake,8.3,6.8,0.086,44,reviewed,us,us
+2021-08-16T07:31:10.679Z,35.7887,68.5348,33.68,4.4,mb,,71,1.312,1,us,us7000f4mz,2021-09-16T10:37:28.040Z,"13 km SSE of ?uk?mat? Dahanah-ye Gh?r?, Afghanistan",earthquake,8.2,6.4,0.178,9,reviewed,us,us
+2021-09-16T04:49:42.856Z,23.6577,94.5361,93.27,4.4,mb,,74,0.608,0.59,us,us7000fbps,2021-10-14T02:09:20.040Z,"13 km E of Mawlaik, Myanmar",earthquake,6.3,5.5,0.189,8,reviewed,us,us
+2021-08-20T14:00:13.796Z,17.1146,77.1124,15.33,4.4,mb,,78,10.391,0.65,us,us7000f6av,2021-09-17T11:01:08.040Z,"3 km ESE of Ch?t?pur, India",earthquake,12.7,5,0.134,17,reviewed,us,us
+2021-09-12T14:56:15.922Z,27.4834,85.9978,10,4.4,mb,,154,8.149,0.52,us,us7000fc3k,2021-09-20T16:26:30.040Z,"47 km ESE of Dhulikhel, Nepal",earthquake,8.5,1.9,0.219,7,reviewed,us,us
+2021-09-23T19:48:30.251Z,5.6284,78.9308,10,4.4,mb,,155,2.401,0.66,us,us7000ff7l,2021-09-29T18:29:38.040Z,"141 km WSW of Ambalangoda, Sri Lanka",earthquake,7,1.9,0.19,8,reviewed,us,us
+2021-09-30T13:05:36.409Z,11.7507,95.2935,24.04,4.4,mb,,186,4.458,0.66,us,us6000fqf0,2021-10-11T15:39:04.040Z,"277 km E of Port Blair, India",earthquake,8,6.2,0.139,18,reviewed,us,us
+2021-09-04T12:53:31.787Z,10.1164,91.5131,10,4.4,mb,,119,8.124,0.82,us,us7000fa1e,2021-10-01T11:27:28.040Z,"218 km SW of Port Blair, India",earthquake,6.6,1.9,0.127,18,reviewed,us,us
+2021-08-05T13:43:19.813Z,8.7361,93.9754,10,4.4,mb,,180,4.565,0.7,us,us6000f5jg,2021-10-14T01:10:22.040Z,"Nicobar Islands, India region",earthquake,12.6,1.9,0.22,6,reviewed,us,us
+2021-09-25T09:24:34.850Z,30.2615,94.8136,34.18,4.4,mb,,76,5.358,0.53,us,us6000fqga,2021-10-17T13:01:38.040Z,"196 km NNE of Shi Yomi, India",earthquake,10.8,6.2,0.096,31,reviewed,us,us
+2020-11-21T04:49:33.478Z,24.9595,94.9967,10,4.5,mb,,103,0.964,1.05,us,us6000cr52,2021-02-03T17:50:21.040Z,"92 km SSE of Phek, India",earthquake,5.2,1.8,0.097,31,reviewed,us,us
+2020-11-21T21:49:21.520Z,30.1884,88.1002,10,4.5,mb,,65,2.491,0.64,us,us6000crcf,2021-02-03T17:51:09.040Z,"128 km NW of Rikaze, China",earthquake,5.9,1.5,0.101,29,reviewed,us,us
+2020-11-07T06:19:11.529Z,13.9453,92.9836,10,4.5,mb,,77,2.287,0.69,us,us7000cdfr,2021-01-23T22:25:44.040Z,"250 km N of Bamboo Flat, India",earthquake,8.7,1.9,0.118,21,reviewed,us,us
+2020-10-31T16:59:40.590Z,34.1948,78.1585,10,4.5,mb,,129,4.101,1.05,us,us7000c8na,2021-01-18T23:01:53.040Z,"53 km E of Leh, India",earthquake,7,1.9,0.113,23,reviewed,us,us
+2020-11-23T13:36:04.648Z,27.5457,87.0358,27.68,4.5,mb,,125,0.456,0.91,us,us7000ck3c,2021-02-03T17:49:19.040Z,"25 km NW of Kh??db?ri??, Nepal",earthquake,8.4,8.4,0.204,9,reviewed,us,us
+2020-11-10T04:45:39.687Z,22.7939,94.4538,104.48,4.5,mb,,135,0.803,0.55,us,us7000ceh0,2021-01-23T22:25:46.040Z,"80 km E of Falam, Myanmar",earthquake,5.8,3.5,0.15,13,reviewed,us,us
+2020-01-25T21:07:34.332Z,16.6775,79.8979,10,4.5,mb,,83,9.38,0.63,us,us60007fyl,2020-04-11T18:20:50.040Z,"32 km SW of Jaggayyapeta, India",earthquake,9.5,1.9,0.084,42,reviewed,us,us
+2020-01-27T07:10:39.720Z,24.7732,91.7364,10,4.5,mb,,160,0.797,1,us,us60007h26,2021-04-28T18:02:18.050Z,"10 km SE of Jahedpur, Bangladesh",earthquake,5.7,1.9,0.087,39,reviewed,us,us
+2020-02-05T20:47:08.396Z,7.3359,73.6458,10,4.5,mb,,60,0.724,0.82,us,us70007jey,2020-04-25T22:17:59.040Z,"76 km NE of Dhidhdhoo, Maldives",earthquake,5,1.6,0.097,31,reviewed,us,us
+2020-03-24T15:00:31.941Z,7.969,92.5087,10,4.5,mb,,125,3.67,0.93,us,us70008f3x,2020-06-06T20:54:14.040Z,"Nicobar Islands, India region",earthquake,7.7,1.8,0.113,23,reviewed,us,us
+2020-04-05T17:50:30.477Z,26.4085,92.7724,46.31,4.5,mb,,80,1.176,0.88,us,us70008pdi,2020-06-21T00:55:06.040Z,"25 km S of Tezpur, India",earthquake,8,7.1,0.078,48,reviewed,us,us
+2020-07-07T20:42:19.337Z,33.042,73.6132,10,4.5,mb,,132,0.672,0.92,us,us7000ajnr,2020-09-11T22:14:27.040Z,"16 km NW of Jhelum, Pakistan",earthquake,5.8,1.9,0.087,45,reviewed,us,us
+2020-08-28T07:58:49.503Z,33.2812,72.6123,10,4.5,mb,,81,0.66,0.69,us,us7000be7y,2020-11-07T18:48:31.040Z,"32 km E of Pindi Gheb, Pakistan",earthquake,6.5,1.9,0.099,30,reviewed,us,us
+2020-08-01T06:31:40.399Z,35.3465,69.604,10,4.5,mb,,95,0.926,0.91,us,us6000b7v0,2020-10-10T17:11:07.040Z,"8 km ENE of B?z?rak, Afghanistan",earthquake,5.7,1.9,0.131,17,reviewed,us,us
+2020-11-02T19:43:17.105Z,25.7773,91.1728,10,4.5,mb,,60,0.651,0.68,us,us7000c9e3,2021-04-28T03:02:11.407Z,"30 km NNW of Nongstoin, India",earthquake,5.4,1.8,0.078,48,reviewed,us,us
+2020-01-29T21:45:34.496Z,28.7675,91.7966,10,4.5,mb,,75,1.1,0.69,us,us60007jiz,2020-04-18T22:09:54.040Z,"118 km SE of Lhasa, China",earthquake,2.8,1.8,0.067,65,reviewed,us,us
+2020-01-27T14:26:29.446Z,35.6993,75.2078,10,4.5,mb,,201,2.594,0.49,us,us60007h9c,2020-04-11T18:20:56.040Z,"58 km NW of Skardu, Pakistan",earthquake,9.8,1.9,0.242,5,reviewed,us,us
+2020-02-28T05:50:18.394Z,35.2945,71.8197,58.81,4.5,mb,,84,2.03,0.92,us,us600085v8,2020-05-19T22:14:05.040Z,"10 km NNW of Upper Dir, Pakistan",earthquake,6.2,6.4,0.088,38,reviewed,us,us
+2020-03-05T06:59:54.541Z,25.8362,96.7751,10,4.5,mb,,65,2.756,0.74,us,us600089zy,2020-05-23T22:03:14.040Z,"41 km S of Sarupathar, India",earthquake,4.3,1.9,0.104,27,reviewed,us,us
+2020-03-27T11:46:58.989Z,32.697,76.144,10,4.5,mb,,114,2.592,0.75,us,us70008h7l,2020-06-13T18:44:49.040Z,"15 km N of Chamba, India",earthquake,3.7,1.9,0.083,42,reviewed,us,us
+2020-03-07T04:05:43.016Z,23.2305,96.1055,10,4.5,mb,,97,1.93,1.04,us,us60008e97,2020-05-23T22:03:16.040Z,"54 km NW of Mogok, Myanmar",earthquake,2.7,1.9,0.124,19,reviewed,us,us
+2020-03-23T08:08:12.704Z,25.0857,95.0671,101.49,4.5,mb,,61,1.101,0.54,us,us70008hem,2020-06-06T20:54:09.040Z,"86 km SE of Phek, India",earthquake,9.4,8.5,0.118,21,reviewed,us,us
+2020-04-16T11:53:01.650Z,22.7356,94.0722,10,4.5,mb,,98,0.446,0.96,us,us60009ap6,2020-07-09T14:31:12.040Z,"45 km ESE of Falam, Myanmar",earthquake,4.9,1.9,0.136,16,reviewed,us,us
+2020-05-24T22:30:51.478Z,34.2803,70.1664,28.53,4.5,mb,,86,0.964,0.82,us,us70009ppe,2020-08-08T18:17:56.040Z,"30 km WSW of Jal?l?b?d, Afghanistan",earthquake,3.9,5.1,0.111,24,reviewed,us,us
+2020-05-29T00:30:29.301Z,11.7257,92.3273,10,4.5,mb,,63,0.413,0.84,us,us6000a1f4,2020-08-15T20:19:46.040Z,"42 km W of Bamboo Flat, India",earthquake,4.4,1.9,0.092,35,reviewed,us,us
+2020-06-24T02:32:33.683Z,23.206,93.2628,4.58,4.5,mb,,74,0.641,0.53,us,us6000ahkj,2020-09-05T17:35:14.040Z,"21 km ENE of North Vanlaiphai, India",earthquake,5.5,5.3,0.09,36,reviewed,us,us
+2020-06-26T16:05:45.280Z,20.8724,94.2917,82.2,4.5,mb,,126,1.875,0.78,us,us7000accq,2020-09-05T17:35:23.040Z,"54 km W of Chauk, Myanmar",earthquake,7.9,6.1,0.078,50,reviewed,us,us
+2020-07-20T22:52:49.020Z,12.1567,94.9118,10,4.5,mb,,124,2.179,1.11,us,us7000as23,2020-09-26T16:58:42.040Z,"242 km ENE of Port Blair, India",earthquake,10,1.9,0.121,20,reviewed,us,us
+2020-07-22T22:28:33.320Z,33.187,86.7446,10,4.5,mb,,52,5.107,0.57,us,us6000b2aa,2020-10-03T17:32:15.040Z,"western Xizang",earthquake,5.3,1.9,0.07,59,reviewed,us,us
+2020-06-25T21:14:36.585Z,35.6634,82.4342,10,4.5,mb,,114,6.077,0.73,us,us7000agis,2020-09-05T17:35:40.040Z,"275 km SE of Hotan, China",earthquake,5.5,1.8,0.119,21,reviewed,us,us
+2020-07-21T13:26:18.351Z,30.404,94.7716,10,4.5,mb,,71,3.236,0.46,us,us7000asa5,2020-09-26T16:58:43.040Z,"211 km N of Shi Yomi, India",earthquake,8.4,1.9,0.077,50,reviewed,us,us
+2020-06-18T10:56:55.720Z,5.7719,95.2875,10,4.5,mb,,150,1.738,1.22,us,us7000aax5,2020-08-30T00:01:12.040Z,"13 km SSW of Sabang, Indonesia",earthquake,10.9,1.9,0.156,15,reviewed,us,us
+2020-08-26T00:48:50.563Z,35.6366,82.3729,10,4.5,mb,,65,6.082,1.1,us,us7000bd1r,2020-11-07T18:48:27.040Z,"272 km SE of Hotan, China",earthquake,7.8,1.9,0.088,38,reviewed,us,us
+2020-08-27T13:17:20.608Z,23.0656,93.2324,10,4.5,mb,,164,0.54,1.12,us,us7000bdpj,2020-11-07T18:48:29.040Z,"18 km ESE of North Vanlaiphai, India",earthquake,5.5,1.9,0.139,15,reviewed,us,us
+2020-08-23T17:07:43.232Z,30.3934,87.5035,10,4.5,mb,,51,2.5,0.99,us,us6000bjg8,2020-10-31T19:06:20.040Z,"183 km NW of Rikaze, China",earthquake,7.8,1.9,0.079,47,reviewed,us,us
+2020-10-13T01:36:21.205Z,23.1644,94.1126,71.72,4.5,mb,,85,0.702,0.45,us,us6000c8t9,2020-12-19T17:22:55.040Z,"52 km ENE of Falam, Myanmar",earthquake,3.3,7.3,0.136,16,reviewed,us,us
+2020-12-09T08:17:09.184Z,7.681,94.058,58.64,4.5,mb,,82,6.928,0.47,us,us7000cqzu,2021-02-20T16:11:56.040Z,"242 km NW of Sabang, Indonesia",earthquake,6,7.9,0.116,22,reviewed,us,us
+2020-12-26T14:19:09.417Z,16.0246,92.9758,10,4.5,mb,,64,4.348,1.24,us,us6000d659,2021-03-06T23:19:10.040Z,"205 km WSW of Pathein, Myanmar",earthquake,4.7,1.8,0.163,11,reviewed,us,us
+2021-02-02T16:14:13.363Z,28.8039,84.0135,29.41,4.5,mb,,126,2.605,0.62,us,us6000ddxt,2021-04-16T19:03:02.040Z,"52 km NE of Chitre, Nepal",earthquake,8.6,4.7,0.082,44,reviewed,us,us
+2021-02-03T14:29:49.946Z,34.26,78.2819,10,4.5,mb,,82,4.21,0.6,us,us6000de6k,2021-04-16T19:03:14.040Z,"65 km E of Leh, India",earthquake,7.4,1.8,0.076,52,reviewed,us,us
+2021-02-24T18:16:46.453Z,20.054,91.0101,10,4.5,mb,,65,2.675,0.67,us,us6000dksl,2021-05-04T14:17:00.040Z,"161 km SW of Tekn?f, Bangladesh",earthquake,5.7,1.9,0.089,37,reviewed,us,us
+2021-02-25T07:50:20.274Z,22.8779,96.0167,10,4.5,mb,,55,2.071,0.55,us,us7000ddij,2021-05-04T14:17:13.040Z,"47 km NE of Shwebo, Myanmar",earthquake,4.8,1.9,0.104,27,reviewed,us,us
+2021-01-09T14:51:50.407Z,32.521,76.6552,22.64,4.5,mb,,152,3.058,0.72,us,us6000d71u,2021-03-20T21:23:19.040Z,"35 km W of Kyelang, India",earthquake,10,6.7,0.096,32,reviewed,us,us
+2021-03-22T14:51:51.354Z,31.5079,84.831,10,4.5,mb,,142,8.553,0.75,us,us7000dllv,2021-06-02T15:24:32.040Z,"245 km N of Saga, China",earthquake,10,1.9,0.113,23,reviewed,us,us
+2021-03-27T17:24:15.166Z,35.5062,89.4991,51.67,4.5,mb,,55,5.947,0.64,us,us6000dx1h,2021-06-08T17:58:49.040Z,"western Xizang",earthquake,8.8,6.8,0.055,102,reviewed,us,us
+2021-03-11T02:34:14.229Z,22.6746,94.565,103.62,4.5,mb,,138,0.892,0.51,us,us7000dkxh,2021-05-21T19:53:02.040Z,"85 km NW of Monywa, Myanmar",earthquake,5.7,8,0.127,18,reviewed,us,us
+2021-03-30T04:45:32.047Z,6.7972,92.1365,10,4.5,mb,,67,4.864,0.41,us,us6000dzrb,2021-06-08T18:00:06.040Z,"Nicobar Islands, India region",earthquake,8.6,1.5,0.135,16,reviewed,us,us
+2021-05-14T16:42:04.988Z,24.9625,95.1088,111.38,4.5,mb,,108,1.036,0.94,us,us7000e34s,2021-07-24T21:06:54.040Z,"99 km SE of Phek, India",earthquake,8.8,7.9,0.09,36,reviewed,us,us
+2021-05-19T16:54:29.784Z,28.2544,84.3876,10,4.5,mb,,158,2.161,0.7,us,us7000e4ij,2021-07-24T21:08:20.040Z,"41 km E of Pokhara, Nepal",earthquake,9.6,1.9,0.082,44,reviewed,us,us
+2021-05-23T19:01:39.963Z,30.8764,79.2707,10,4.5,mb,,81,5.787,0.57,us,us7000e5kt,2021-07-31T22:08:59.040Z,"45 km NW of Josh?math, India",earthquake,7.4,1.8,0.094,33,reviewed,us,us
+2021-05-25T20:46:06.127Z,28.9684,86.3755,10,4.5,mb,,66,1.076,0.53,us,us7000e680,2021-07-31T22:09:46.040Z,"118 km ESE of Saga, China",earthquake,6.3,1.8,0.058,98,reviewed,us,us
+2021-05-25T14:14:37.433Z,13.2087,92.8437,10,4.5,mb,,145,7.853,0.43,us,us6000efkb,2021-07-31T22:09:37.040Z,"167 km N of Bamboo Flat, India",earthquake,15.1,2,0.311,4,reviewed,us,us
+2021-05-28T16:51:21.738Z,22.5949,94.7171,113.94,4.5,mb,,118,1.033,1.07,us,us6000eflk,2021-08-07T22:05:45.040Z,"68 km NW of Monywa, Myanmar",earthquake,7.3,7.3,0.139,15,reviewed,us,us
+2021-06-09T11:35:23.904Z,31.7774,69.7581,28.11,4.5,mb,,99,2.82,0.81,us,us7000ebf8,2021-08-24T21:34:03.040Z,"56 km NNE of Zhob, Pakistan",earthquake,8,5.1,0.102,28,reviewed,us,us
+2021-05-24T03:49:09.973Z,11.7799,94.876,10,4.5,mb,,104,2.091,0.73,us,us6000efhl,2021-07-31T22:09:07.040Z,"232 km E of Port Blair, India",earthquake,8.6,1.9,0.099,30,reviewed,us,us
+2021-05-25T17:14:57.177Z,5.8093,94.8437,106.91,4.5,mb,,192,2.171,1.02,us,us6000efkn,2021-07-31T22:09:41.040Z,"northern Sumatra, Indonesia",earthquake,5.8,11.3,0.18,11,reviewed,us,us
+2021-06-18T19:37:32.258Z,26.7357,92.4583,42.09,4.5,mb,,38,1.283,0.66,us,us7000ee8m,2021-08-27T18:57:25.040Z,"4 km NNW of Dhekiajuli, India",earthquake,5.8,5.1,0.053,114,reviewed,us,us
+2021-06-19T13:59:17.264Z,32.1089,69.8552,51.42,4.5,mb,,96,2.518,0.77,us,us7000eeew,2021-08-27T18:57:36.040Z,"33 km SE of Wana, Pakistan",earthquake,7.8,7,0.061,78,reviewed,us,us
+2021-06-17T20:34:41.304Z,26.6776,92.3948,43.65,4.5,mb,,99,1.207,0.7,us,us7000edyb,2021-08-26T21:59:31.040Z,"8 km WSW of Dhekiajuli, India",earthquake,3.6,6.9,0.085,41,reviewed,us,us
+2021-06-01T01:09:21.812Z,12.8061,93.3096,49.57,4.5,mb,,98,7.81,0.54,us,us7000e9p6,2021-08-07T22:06:48.040Z,"138 km NNE of Bamboo Flat, India",earthquake,10.6,8.1,0.124,19,reviewed,us,us
+2021-06-04T10:44:54.599Z,8.3468,94.2512,10,4.5,mb,,122,4.094,0.52,us,us7000ebi1,2021-08-24T21:33:56.040Z,"296 km NNW of Sabang, Indonesia",earthquake,11.1,1.9,0.145,14,reviewed,us,us
+2021-07-14T20:34:51.343Z,23.5272,94.7567,102.41,4.5,mb,,50,0.814,0.83,us,us7000elzz,2021-09-17T22:50:33.040Z,"38 km ESE of Mawlaik, Myanmar",earthquake,5.4,5.7,0.085,45,reviewed,us,us
+2021-07-13T23:40:50.917Z,22.4445,94.2123,41.95,4.5,mb,,131,0.599,1.14,us,us7000emla,2021-09-17T22:51:07.040Z,"65 km ESE of Hakha, Myanmar",earthquake,6.7,9.2,0.221,6,reviewed,us,us
+2021-07-22T02:12:24.995Z,30.06,70.3286,10,4.5,mb,,97,4.598,0.6,us,us6000exuh,2021-09-25T21:08:31.040Z,"30 km W of Dera Ghazi Khan, Pakistan",earthquake,10,1.9,0.088,38,reviewed,us,us
+2021-07-25T15:09:21.630Z,27.3429,88.3092,10,4.5,mb,,79,3.417,0.69,us,us6000eyy4,2021-10-03T05:21:57.040Z,"7 km NE of Gyalshing, India",earthquake,4.9,1.9,0.068,65,reviewed,us,us
+2021-07-31T18:32:35.052Z,29.2414,69.5135,19.48,4.5,mb,,97,5.298,0.74,us,us6000f11c,2021-10-14T01:04:28.040Z,"41 km ENE of Dera Bugti, Pakistan",earthquake,9.6,2.7,0.082,49,reviewed,us,us
+2021-08-06T20:16:07.390Z,21.4095,94.7377,110.48,4.5,mb,,58,1.618,0.76,us,us6000f30b,2021-09-04T15:40:24.040Z,"36 km WNW of Pakokku, Myanmar",earthquake,6.2,6.4,0.082,49,reviewed,us,us
+2021-08-05T11:14:09.038Z,8.6993,94.0674,11.44,4.5,mb,,81,5.473,0.6,us,us6000f5jc,2021-10-14T01:10:21.040Z,"Nicobar Islands, India region",earthquake,13,5.2,0.172,14,reviewed,us,us
+2021-09-04T12:05:15.767Z,26.5115,96.5587,97.98,4.5,mb,,69,3.055,0.46,us,us7000f7wc,2021-10-01T10:44:49.040Z,"42 km NW of Sarupathar, India",earthquake,9.2,3.9,0.067,65,reviewed,us,us
+2021-09-13T16:30:44.158Z,12.8565,95.722,10,4.5,mb,,91,3.146,0.43,us,us7000fc4u,2021-09-20T20:19:17.040Z,"299 km WSW of Dawei, Myanmar",earthquake,6.4,1.9,0.181,11,reviewed,us,us
+2021-10-05T23:27:56.040Z,30.3852,94.8146,10,4.5,mb,,115,5.466,1.07,us,us6000fs51,2021-10-14T02:30:27.040Z,"210 km NNE of Shi Yomi, India",earthquake,11.1,1.9,0.102,28,reviewed,us,us
+2021-09-09T03:52:36.295Z,10.3157,93.729,10,4.5,mb,,105,6.04,0.63,us,us7000fbhx,2021-10-07T00:20:24.040Z,"183 km SE of Port Blair, India",earthquake,8.9,1.9,0.128,18,reviewed,us,us
+2021-10-01T07:09:27.899Z,27.694,86.111,10,4.5,mb,,115,0.674,0.82,us,us6000fscx,2021-10-15T12:34:21.040Z,"33 km SSE of Kod?ri??, Nepal",earthquake,6.2,1.4,0.205,9,reviewed,us,us
+2020-09-26T06:32:00.651Z,34.7214,74.4055,10,4.6,mb,,74,1.424,0.74,us,us6000c1ja,2020-12-05T21:02:59.040Z,"40 km NNW of Bandipura, India",earthquake,6.3,1.9,0.087,44,reviewed,us,us
+2020-12-06T13:35:41.171Z,12.619,93.2653,62.26,4.6,mb,,92,1.084,0.47,us,us7000cpsf,2021-02-12T22:40:55.040Z,"117 km NNE of Bamboo Flat, India",earthquake,7.8,7.7,0.096,34,reviewed,us,us
+2020-12-06T14:39:13.789Z,21.8358,93.4233,52.56,4.6,mb,,141,0.818,0.33,us,us7000cpsj,2021-02-12T22:40:56.040Z,"85 km SSE of Saiha, India",earthquake,5.5,7.4,0.146,16,reviewed,us,us
+2020-02-11T17:52:42.268Z,17.6453,94.317,10,4.6,mb,,57,4.03,0.76,us,us70007n83,2020-04-25T22:19:25.040Z,"105 km NNW of Pathein, Myanmar",earthquake,4.6,1.8,0.088,45,reviewed,us,us
+2020-05-11T22:39:35.471Z,24.8084,94.1112,63.54,4.6,mb,,100,0.601,0.72,us,us70009edv,2020-07-29T22:14:34.040Z,"15 km NNE of Yairipok, India",earthquake,4,6,0.071,60,reviewed,us,us
+2020-06-03T22:30:55.044Z,5.6736,95.17,10,4.6,mb,,87,1.823,0.56,us,us6000a5jq,2020-08-18T17:58:46.040Z,"23 km NW of Banda Aceh, Indonesia",earthquake,7.9,1.9,0.076,52,reviewed,us,us
+2020-07-18T21:14:47.316Z,35.3767,70.7366,82.48,4.6,mb,,40,1.621,0.61,us,us7000aqzx,2020-09-26T16:58:37.040Z,"17 km WSW of P?r?n, Afghanistan",earthquake,5.1,6.1,0.06,82,reviewed,us,us
+2020-10-06T22:02:54.378Z,25.643,94.7776,61.51,4.6,mb,,54,1.472,0.84,us,us6000c688,2020-12-12T22:28:43.040Z,"27 km E of Phek, India",earthquake,3.7,6.3,0.062,78,reviewed,us,us
+2020-09-28T05:12:34.992Z,33.229,75.8586,10,4.6,mb,,80,2.206,0.71,us,us6000c222,2020-12-05T21:03:03.040Z,"12 km SE of Kishtw?r, India",earthquake,6.4,1.6,0.093,35,reviewed,us,us
+2020-11-06T22:59:17.399Z,33.5339,75.7388,10,4.6,mb,,57,2.065,0.9,us,us7000cbmi,2021-01-23T22:25:32.040Z,"24 km N of Kishtw?r, India",earthquake,4.3,1.8,0.108,26,reviewed,us,us
+2020-01-29T22:13:21.341Z,7.1328,92.0445,10,4.6,mb,,135,4.546,0.81,us,us60007jkb,2020-04-18T22:09:54.040Z,"Nicobar Islands, India region",earthquake,9,1.9,0.091,36,reviewed,us,us
+2020-02-09T19:10:46.707Z,20.5392,93.8715,51,4.6,mb,,63,2.107,1.05,us,us70007m6d,2020-04-25T22:19:00.040Z,"104 km W of Yenangyaung, Myanmar",earthquake,6.8,6.1,0.088,39,reviewed,us,us
+2020-02-20T18:11:03.046Z,34.5533,85.7767,10,4.6,mb,,58,6.633,1,us,us70007tp0,2020-05-09T21:41:04.040Z,"western Xizang",earthquake,8.6,1.8,0.065,71,reviewed,us,us
+2020-03-17T04:02:10.317Z,34.5391,85.8363,10,4.6,mb,,91,6.612,0.72,us,us60008gy3,2020-05-30T22:17:17.040Z,"western Xizang",earthquake,8.4,1.8,0.067,67,reviewed,us,us
+2020-04-24T05:15:21.183Z,24.0324,95.8305,10,4.6,mb,,68,1.411,0.56,us,us60009b6d,2020-07-11T22:18:56.040Z,"141 km NNW of Mogok, Myanmar",earthquake,5.8,1.9,0.098,32,reviewed,us,us
+2020-05-17T04:32:15.434Z,20.5275,96.0814,10,4.6,mb,,93,0.923,0.97,us,us70009ilx,2020-08-02T00:29:40.040Z,"12 km NNW of Yamethin, Myanmar",earthquake,6.2,1.8,0.11,25,reviewed,us,us
+2020-05-17T05:22:09.081Z,29.9346,94.9732,10,4.6,mb,,77,3.35,0.49,us,us70009iml,2020-08-02T00:29:39.040Z,"166 km NNE of Shi Yomi, India",earthquake,6.9,1.9,0.089,37,reviewed,us,us
+2020-05-22T18:38:17.563Z,32.8636,85.5107,10,4.6,mb,,40,5.016,0.7,us,us70009nnf,2020-08-08T18:17:50.040Z,"western Xizang",earthquake,8,1.8,0.055,105,reviewed,us,us
+2020-06-11T10:48:34.653Z,10.2409,93.6808,10,4.6,mb,,103,1.68,0.63,us,us6000a9x1,2020-08-22T19:14:44.040Z,"187 km SSE of Port Blair, India",earthquake,5.3,1.9,0.107,26,reviewed,us,us
+2020-06-09T20:47:32.885Z,14.151,91.6101,10,4.6,mb,,52,2.715,0.76,us,us6000a8x5,2020-08-18T17:59:11.040Z,"296 km NNW of Bamboo Flat, India",earthquake,6.6,1.8,0.063,82,reviewed,us,us
+2020-07-03T09:05:43.564Z,23.2815,93.3716,10,4.6,mb,,60,0.67,0.78,us,us7000ah74,2020-09-11T22:13:59.040Z,"27 km ESE of Khawhai, India",earthquake,6.4,1.8,0.058,89,reviewed,us,us
+2020-07-07T23:49:28.057Z,12.9785,92.4828,10,4.6,mb,,80,1.339,0.87,us,us7000ajsm,2020-09-11T22:14:27.040Z,"143 km N of Bamboo Flat, India",earthquake,5.8,1.8,0.083,43,reviewed,us,us
+2020-07-04T12:12:11.152Z,35.6726,82.4308,10,4.6,mb,,105,6.068,0.87,us,us7000ahwr,2020-09-11T22:14:10.040Z,"274 km SE of Hotan, China",earthquake,8.4,1.9,0.067,67,reviewed,us,us
+2020-07-12T21:06:47.720Z,14.3503,92.992,10,4.6,mb,,75,2.689,0.4,us,us7000amfk,2020-09-19T20:58:14.040Z,"294 km N of Bamboo Flat, India",earthquake,8.6,1.9,0.116,22,reviewed,us,us
+2020-07-09T08:58:12.692Z,23.0831,93.3665,10,4.6,mb,,40,0.488,0.43,us,us7000akmn,2020-09-19T20:58:00.040Z,"31 km E of North Vanlaiphai, India",earthquake,5.2,1.9,0.079,49,reviewed,us,us
+2020-07-17T05:37:17.788Z,11.8654,95.0388,10,4.6,mb,,95,2.257,0.42,us,us7000aq5q,2020-09-26T16:58:33.040Z,"250 km E of Port Blair, India",earthquake,7.9,1.9,0.12,21,reviewed,us,us
+2020-07-02T07:40:37.191Z,32.998,75.9509,10,4.6,mb,,145,2.338,0.82,us,us7000ak4u,2020-09-11T22:13:52.040Z,"21 km E of Bhadarw?h, India",earthquake,10.2,1.9,0.122,20,reviewed,us,us
+2020-08-04T02:59:45.849Z,33.0351,86.8848,10,4.6,mb,,61,4.918,0.51,us,us6000b8yq,2020-10-10T17:11:12.040Z,"western Xizang",earthquake,8.2,1.8,0.059,85,reviewed,us,us
+2020-08-23T13:18:15.229Z,26.0998,95.5832,86.9,4.6,mb,,57,2.195,0.6,us,us6000bje2,2020-10-31T19:06:20.040Z,"78 km ESE of Tuensang, India",earthquake,7.4,6.2,0.079,48,reviewed,us,us
+2020-09-15T04:38:11.827Z,31.7318,93.4619,10,4.6,mb,,68,2.851,0.68,us,us7000bpu3,2020-11-21T20:10:48.040Z,"136 km ENE of Nagqu, China",earthquake,4.4,1.8,0.133,17,reviewed,us,us
+2021-02-17T12:24:46.809Z,26.7322,92.5712,18.67,4.6,mb,,84,1.326,0.65,us,us6000didl,2021-04-28T02:54:12.251Z,"9 km ENE of Dhekiajuli, India",earthquake,7,4.6,0.075,54,reviewed,us,us
+2021-03-09T11:15:01.099Z,25.3809,95.0793,89.49,4.6,mb,,51,1.347,0.64,us,us7000dhef,2021-05-21T19:48:45.040Z,"66 km ESE of Phek, India",earthquake,7.6,7.2,0.05,119,reviewed,us,us
+2021-03-16T13:16:08.835Z,30.1485,86.3698,10,4.6,mb,,145,6.663,0.53,us,us7000djtf,2021-05-26T22:08:04.040Z,"143 km NE of Saga, China",earthquake,10.3,1.9,0.082,47,reviewed,us,us
+2021-03-22T15:40:44.570Z,28.2935,93.7808,10,4.6,mb,,138,2.715,0.7,us,us6000dxmx,2021-06-02T15:23:21.040Z,"63 km WSW of Shi Yomi, India",earthquake,11.8,1.9,0.223,8,reviewed,us,us
+2021-04-15T22:26:24.010Z,32.4789,78.7499,10,4.6,mb,,51,4.748,0.79,us,us6000e1yd,2021-06-19T21:25:55.040Z,"140 km NE of Sar?han, India",earthquake,7.7,1.8,0.051,117,reviewed,us,us
+2021-04-27T11:43:16.922Z,35.5232,89.5874,10,4.6,mb,,67,5.947,0.6,us,us7000dxue,2021-07-07T18:36:10.040Z,"western Xizang",earthquake,7,1.9,0.066,70,reviewed,us,us
+2021-03-29T08:24:59.963Z,10.9343,91.7787,10,4.6,mb,,70,1.187,0.53,us,us6000dzn2,2021-06-08T18:00:02.040Z,"132 km SW of Bamboo Flat, India",earthquake,9.2,1.9,0.133,19,reviewed,us,us
+2021-04-21T19:34:42.963Z,10.5902,94.2339,26.06,4.6,mb,,146,1.805,1.09,us,us7000dxx6,2021-07-03T16:49:58.040Z,"201 km SE of Port Blair, India",earthquake,6.7,6.3,0.098,31,reviewed,us,us
+2021-05-19T09:19:13.065Z,34.776,69.5705,14.82,4.6,mb,,55,0.494,0.7,us,us7000e4d1,2021-07-24T21:08:13.040Z,"11 km SW of Tag?b, Afghanistan",earthquake,5.4,4.1,0.065,71,reviewed,us,us
+2021-05-12T03:58:23.483Z,9.0163,92.2062,10,4.6,mb,,167,2.675,0.97,us,us7000e4dc,2021-07-23T18:08:48.040Z,"299 km SSW of Port Blair, India",earthquake,9.7,1.9,0.146,14,reviewed,us,us
+2021-06-02T19:45:34.358Z,10.2844,91.567,10,4.6,mb,,122,10.274,1.11,us,us7000e94a,2021-08-07T22:07:19.040Z,"199 km SW of Port Blair, India",earthquake,4.4,1.9,0.103,28,reviewed,us,us
+2021-06-22T16:44:36.534Z,28.0137,92.2097,65.76,4.6,mb,,97,1.932,0.6,us,us7000ef9z,2021-08-27T18:58:25.040Z,"56 km NNE of Tawang, India",earthquake,7,3.7,0.075,53,reviewed,us,us
+2021-07-09T00:26:26.477Z,25.0311,95.2274,102.19,4.6,mb,,71,1.161,0.77,us,us6000etec,2021-09-17T22:48:23.040Z,"101 km SE of Phek, India",earthquake,8.6,7.4,0.091,36,reviewed,us,us
+2021-07-04T16:57:10.269Z,26.608,96.5397,10,4.6,mb,,65,3.115,0.69,us,us7000eip3,2021-09-10T20:07:33.040Z,"52 km NNW of Sarupathar, India",earthquake,3.2,1.9,0.109,27,reviewed,us,us
+2021-06-17T11:14:32.564Z,6.592,85.0001,10,4.6,mb,,104,4.32,0.79,us,us7000ef8p,2021-08-26T21:59:29.040Z,"Bay of Bengal",earthquake,6.5,1.9,0.164,13,reviewed,us,us
+2021-06-18T11:42:45.117Z,12.9872,92.3504,10,4.6,mb,,81,8.357,0.4,us,us6000ep3z,2021-08-27T18:57:16.040Z,"147 km NNW of Bamboo Flat, India",earthquake,8.7,1.9,0.101,29,reviewed,us,us
+2021-07-12T20:14:51.023Z,13.6942,92.7449,24.67,4.6,mb,,101,6.227,0.84,us,us7000elb3,2021-09-17T22:50:00.040Z,"220 km N of Bamboo Flat, India",earthquake,9.1,5.8,0.112,24,reviewed,us,us
+2021-08-03T00:57:10.938Z,8.6742,94.1347,10,4.6,mb,,97,4.417,0.72,us,us6000f1qk,2021-10-14T01:05:58.040Z,"Nicobar Islands, India region",earthquake,7.3,1.7,0.094,34,reviewed,us,us
+2021-08-06T03:49:24.434Z,8.8991,94.1059,10,4.6,mb,,145,5.441,1.03,us,us6000f5m6,2021-08-14T00:56:38.040Z,"Nicobar Islands, India region",earthquake,13.8,1.9,0.158,14,reviewed,us,us
+2021-08-04T01:04:47.616Z,8.864,94.0364,10,4.6,mb,,143,5.508,0.74,us,us6000f4ia,2021-10-14T01:09:21.040Z,"Nicobar Islands, India region",earthquake,12.8,1.9,0.119,21,reviewed,us,us
+2021-08-22T12:22:03.864Z,22.2644,94.6702,121.52,4.6,mb,,51,1.059,1.03,us,us6000f9n1,2021-09-11T08:33:29.040Z,"51 km WNW of Monywa, Myanmar",earthquake,5.5,4.4,0.088,38,reviewed,us,us
+2021-08-04T18:00:53.188Z,8.8466,94.1924,10,4.6,mb,,199,5.353,1.19,us,us6000f4jm,2021-10-14T01:09:37.040Z,"Nicobar Islands, India region",earthquake,12.4,2,0.165,11,reviewed,us,us
+2021-08-24T02:15:10.282Z,25.094,96.2561,10,4.6,mb,,73,1.976,0.75,us,us7000f2vd,2021-09-21T05:06:23.040Z,"119 km WSW of Myitkyina, Myanmar",earthquake,5.1,1.8,0.078,49,reviewed,us,us
+2021-08-03T04:16:30.055Z,8.5437,93.8915,10,4.6,mb,,127,4.477,0.49,us,us6000f46l,2021-10-14T01:09:04.040Z,"Nicobar Islands, India region",earthquake,10.3,1.9,0.206,7,reviewed,us,us
+2021-08-04T04:09:22.378Z,8.726,93.2725,10,4.6,mb,,170,6.259,0.39,us,us6000f4ih,2021-10-14T01:09:25.040Z,"Nicobar Islands, India region",earthquake,9.3,1.9,0.157,12,reviewed,us,us
+2021-08-30T18:54:41.219Z,10.1828,93.6781,10,4.6,mb,,93,6.054,1.05,us,us7000f5u3,2021-09-29T22:14:30.040Z,"193 km SSE of Port Blair, India",earthquake,9,1.9,0.111,24,reviewed,us,us
+2021-08-20T00:27:34.875Z,14.0695,92.8419,10,4.6,mb,,103,6.097,0.73,us,us7000f6a9,2021-09-13T04:31:57.040Z,"262 km N of Bamboo Flat, India",earthquake,10.8,1.9,0.119,21,reviewed,us,us
+2021-08-17T20:20:11.928Z,31.9037,92.8722,10,4.6,mb,,95,6.376,0.6,us,us7000f4ue,2021-09-15T21:34:45.040Z,"90 km ENE of Nagqu, China",earthquake,12,1.9,0.109,28,reviewed,us,us
+2021-09-15T13:29:41.879Z,23.4599,93.4042,10,4.6,mb,,68,0.833,0.38,us,us7000fbf3,2021-10-14T09:56:50.040Z,"29 km ENE of Khawhai, India",earthquake,4.7,1.6,0.078,50,reviewed,us,us
+2021-09-19T09:36:34.207Z,28.7158,96.3683,37.89,4.6,mb,,72,4.837,0.47,us,us7000fcme,2021-10-09T06:04:42.562Z,"73 km NNW of Hayuliang, India",earthquake,8.1,6.1,0.058,90,reviewed,us,us
+2021-10-12T00:31:54.076Z,30.405,94.6879,10,4.6,mb,,44,5.431,0.56,us,us6000ftxr,2021-10-15T22:02:24.040Z,"210 km N of Shi Yomi, India",earthquake,6.1,1.9,0.083,43,reviewed,us,us
+2020-11-17T13:12:51.222Z,7.7441,93.9314,51.17,4.7,mb,,142,3.901,0.54,us,us6000cqs5,2021-01-27T17:28:28.040Z,"255 km NW of Sabang, Indonesia",earthquake,9.3,8,0.11,25,reviewed,us,us
+2020-02-08T01:01:46.831Z,30.0278,79.9831,18.78,4.7,mb,,97,6.758,0.66,us,us70007lc7,2020-04-25T22:18:34.040Z,"29 km NE of B?geshwar, India",earthquake,8.9,4.4,0.063,76,reviewed,us,us
+2020-06-30T18:02:28.856Z,33.1193,75.8744,43.89,4.7,mb,,30,5.588,0.98,us,us7000afay,2020-12-17T18:28:05.658Z,"21 km NE of Bhadarw?h, India",earthquake,7.1,6.3,0.043,172,reviewed,us,us
+2020-01-18T18:00:17.134Z,31.646,93.3736,27.2,4.7,mb,,47,2.737,0.44,us,us60007a5a,2020-04-08T19:39:36.040Z,"126 km E of Nagqu, China",earthquake,5.8,4,0.057,103,reviewed,us,us
+2020-01-22T19:23:28.031Z,7.7168,94.0461,106.74,4.7,mb,,54,3.797,0.58,us,us60007d30,2020-04-11T18:20:38.040Z,"246 km NW of Sabang, Indonesia",earthquake,9.1,6.6,0.115,23,reviewed,us,us
+2020-05-23T09:11:37.219Z,14.0757,94.0306,80.07,4.7,mb,,78,2.713,0.59,us,us70009p1y,2020-08-08T18:17:52.040Z,"286 km SSW of Bogale, Myanmar",earthquake,5.4,5.2,0.088,39,reviewed,us,us
+2020-05-31T13:03:58.927Z,10.8899,92.5217,8.42,4.7,mb,,65,0.791,0.61,us,us6000a6l9,2020-08-15T20:19:57.040Z,"89 km SSW of Port Blair, India",earthquake,4.1,4.6,0.13,24,reviewed,us,us
+2020-06-26T01:30:58.799Z,35.5546,82.3801,10,4.7,mb,,76,6.16,0.83,us,us7000abt8,2020-09-05T17:35:22.040Z,"279 km SE of Hotan, China",earthquake,8,1.9,0.063,76,reviewed,us,us
+2020-07-26T09:58:58.149Z,30.389,94.806,10,4.7,mb,,109,3.262,0.59,us,us6000b4bp,2020-10-03T17:32:24.040Z,"210 km NNE of Shi Yomi, India",earthquake,10.3,1.9,0.075,54,reviewed,us,us
+2020-07-31T11:20:10.217Z,33.0674,86.7387,10,4.7,mb,,70,5.092,0.65,us,us6000b7e2,2020-10-10T17:11:05.040Z,"western Xizang",earthquake,8.3,1.1,0.047,137,reviewed,us,us
+2020-09-07T21:37:50.432Z,13.1472,93.1904,41.16,4.7,mb,,70,7.649,0.83,us,us7000bjex,2020-11-17T19:44:53.040Z,"168 km NNE of Bamboo Flat, India",earthquake,8.1,6.5,0.09,37,reviewed,us,us
+2020-10-06T06:13:39.363Z,34.0992,79.1272,10,4.7,mb,,82,4.894,0.55,us,us6000c5zr,2020-12-12T22:28:41.040Z,"142 km E of Leh, India",earthquake,7.2,1.8,0.07,64,reviewed,us,us
+2021-01-18T11:43:55.496Z,7.3495,94.717,133.8,4.7,mb,,60,3.058,0.72,us,us7000d12t,2021-03-27T21:05:15.040Z,"174 km NNW of Sabang, Indonesia",earthquake,8.2,5.5,0.055,100,reviewed,us,us
+2021-02-16T20:36:52.158Z,11.9865,94.5033,10,4.7,mb,,45,5.193,0.83,us,us6000di5y,2021-04-23T21:04:48.040Z,"194 km E of Port Blair, India",earthquake,7.9,1.8,0.057,99,reviewed,us,us
+2021-03-01T18:21:52.678Z,6.6114,94.3526,74.69,4.7,mb,,97,2.923,0.6,us,us7000demx,2021-05-13T22:39:44.040Z,"133 km NW of Sabang, Indonesia",earthquake,10.1,7.5,0.077,51,reviewed,us,us
+2021-03-04T17:57:31.975Z,34.1448,80.3638,10,4.7,mb,,105,5.92,0.82,us,us7000dhsz,2021-05-13T22:45:26.040Z,"256 km E of Leh, India",earthquake,8.3,1.8,0.13,18,reviewed,us,us
+2021-04-02T07:55:53.605Z,35.6454,89.3989,10,4.7,mb,,68,6.101,0.79,us,us6000dygw,2021-06-12T21:36:29.040Z,"western Xizang",earthquake,9,1.9,0.08,48,reviewed,us,us
+2021-04-10T18:21:48.309Z,31.6849,90.6416,10,4.7,mb,,30,4.985,0.51,us,us6000e0nr,2021-06-19T21:24:56.040Z,"Eastern Xizang",earthquake,8.8,1.8,0.068,70,reviewed,us,us
+2021-04-06T21:55:47.956Z,31.9628,92.9564,10,4.7,mb,,49,2.747,0.86,us,us6000dzj3,2021-06-12T21:37:55.040Z,"100 km ENE of Nagqu, China",earthquake,6.1,1.6,0.063,76,reviewed,us,us
+2021-04-21T13:28:26.409Z,30.0036,89.7629,10,4.7,mb,,108,1.222,0.67,us,us6000e3fr,2021-07-03T16:48:54.040Z,"92 km W of Dêqên, China",earthquake,8.2,1.8,0.055,100,reviewed,us,us
+2021-06-23T01:09:13.906Z,33.5317,71.5687,33.21,4.7,mb,,96,1.423,0.58,us,us7000efcx,2021-08-27T18:58:30.040Z,"12 km ESE of Kohat, Pakistan",earthquake,4.7,4.8,0.057,93,reviewed,us,us
+2021-08-03T07:39:35.407Z,9.0302,93.9133,10,4.7,mb,,96,4.829,0.36,us,us6000f1tb,2021-10-14T01:06:14.040Z,"Nicobar Islands, India region",earthquake,8.7,1.9,0.115,23,reviewed,us,us
+2021-08-14T19:50:17.185Z,12.3093,95.038,10,4.7,mb,,80,2.336,0.43,us,us6000f6aw,2021-08-28T01:54:53.040Z,"259 km ENE of Port Blair, India",earthquake,6.6,1.9,0.093,35,reviewed,us,us
+2021-08-23T05:16:52.648Z,10.5565,92.1981,10,4.7,mb,,55,7.557,0.47,us,us6000f9ya,2021-09-22T16:21:40.040Z,"136 km SSW of Port Blair, India",earthquake,8.2,1.8,0.075,55,reviewed,us,us
+2021-08-24T16:48:13.463Z,32.0551,78.7955,10,4.7,mb,,46,4.915,0.58,us,us7000f3a5,2021-09-08T17:48:36.489Z,"112 km ENE of Sar?han, India",earthquake,8.9,1.8,0.067,72,reviewed,us,us
+2021-09-09T03:02:19.261Z,10.1311,93.8015,10,4.7,mb,,113,6.32,0.76,us,us7000f9ji,2021-10-14T04:32:23.040Z,"205 km SE of Port Blair, India",earthquake,12.7,1.9,0.108,26,reviewed,us,us
+2021-09-11T00:28:30.709Z,30.4791,79.282,10,4.7,mb,,81,6.003,0.49,us,us7000fa6y,2021-09-27T22:43:36.925Z,"15 km WNW of P?palkoti, India",earthquake,9.1,1.9,0.057,95,reviewed,us,us
+2021-09-14T10:40:08.838Z,33.2902,72.1846,32.06,4.7,mb,,113,0.974,0.52,us,us7000fb0c,2021-10-14T09:25:10.660Z,"9 km NW of Pindi Gheb, Pakistan",earthquake,7.3,5.9,0.058,92,reviewed,us,us
+2021-09-17T19:12:03.060Z,30.1325,69.282,30.71,4.7,mb,,88,4.4,0.53,us,us7000fc7z,2021-10-15T16:39:04.239Z,"26 km N of Kohlu, Pakistan",earthquake,7.9,3.8,0.048,135,reviewed,us,us
+2021-09-21T18:14:56.005Z,9.787,93.7182,39.77,4.7,mb,,82,5.545,0.67,us,us7000fd7f,2021-09-21T18:53:56.040Z,"233 km SSE of Port Blair, India",earthquake,7.1,5.2,0.084,47,reviewed,us,us
+2021-10-01T13:01:59.041Z,30.4113,94.7923,10,4.7,mb,,127,5.479,1.02,us,us6000fqqc,2021-10-01T13:29:36.040Z,"212 km N of Shi Yomi, India",earthquake,12.8,1.9,0.115,23,reviewed,us,us
+2021-10-05T02:38:20.929Z,30.3423,94.7762,34.18,4.7,mb,,116,6.103,0.44,us,us6000frs4,2021-10-08T00:04:22.040Z,"204 km N of Shi Yomi, India",earthquake,9.3,3,0.083,44,reviewed,us,us
+2021-10-10T01:48:58.110Z,30.3576,94.824,34.87,4.7,mb,,117,5.446,0.68,us,us6000ftez,2021-10-10T02:07:59.040Z,"207 km NNE of Shi Yomi, India",earthquake,11.6,6.2,0.106,29,reviewed,us,us
+2021-10-10T16:29:40.747Z,30.3872,94.7873,10,4.7,mb,,73,5.456,0.47,us,us6000ftj2,2021-10-14T21:25:34.040Z,"209 km N of Shi Yomi, India",earthquake,10.5,1.9,0.11,31,reviewed,us,us
+2020-06-24T19:44:43.473Z,23.1939,93.2827,4.24,4.8,mb,,67,0.622,0.97,us,us7000aabs,2020-09-05T17:35:16.040Z,"23 km ENE of North Vanlaiphai, India",earthquake,3.3,4.6,0.081,47,reviewed,us,us
+2020-07-05T11:56:34.519Z,23.1732,93.2967,10,4.8,mb,,96,0.597,0.71,us,us7000ai9b,2020-09-11T22:14:14.040Z,"24 km E of North Vanlaiphai, India",earthquake,7.2,1.9,0.092,36,reviewed,us,us
+2020-03-04T00:20:03.152Z,24.4202,96.1023,10,4.8,mb,,72,1.654,0.94,us,us60008937,2020-05-23T22:03:26.040Z,"116 km W of Bhamo, Myanmar",earthquake,6.4,1.8,0.051,121,reviewed,us,us
+2020-03-19T12:58:56.455Z,8.8588,93.9589,10,4.8,mb,,71,3.025,0.66,us,us70008c5d,2020-06-06T20:53:53.040Z,"Nicobar Islands, India region",earthquake,7.4,1.6,0.101,30,reviewed,us,us
+2020-04-03T22:54:42.401Z,32.6775,85.4882,10,4.8,mb,,39,4.84,0.78,us,us70008n5a,2020-06-21T00:54:54.040Z,"western Xizang",earthquake,7.6,1.8,0.06,87,reviewed,us,us
+2020-04-21T00:09:10.636Z,9.3687,92.9668,48.51,4.8,mb,,65,2.283,0.88,us,us700090si,2020-07-09T14:31:37.040Z,"255 km S of Port Blair, India",earthquake,8.1,7.9,0.092,36,reviewed,us,us
+2020-06-16T11:15:51.620Z,18.954,94.3005,35,4.8,mb,,39,3.142,0.8,us,us6000acrw,2020-08-22T19:14:56.040Z,"98 km W of Pyay, Myanmar",earthquake,4.5,2,0.042,177,reviewed,us,us
+2020-06-18T13:59:20.228Z,22.4515,94.43,87.37,4.8,mb,,123,0.79,1.07,us,us6000ae6t,2020-08-30T00:00:45.040Z,"82 km WNW of Monywa, Myanmar",earthquake,6.2,6.8,0.089,39,reviewed,us,us
+2020-06-14T05:35:31.831Z,23.2948,93.7812,62.31,4.8,mb,,55,1.045,0.57,us,us6000abkd,2020-08-22T19:14:50.040Z,"43 km NNE of Falam, Myanmar",earthquake,7.2,6.3,0.04,189,reviewed,us,us
+2020-07-17T17:45:24.045Z,12.0447,95.1004,10,4.8,mb,,52,2.339,0.76,us,us7000aqhw,2020-09-26T16:58:34.040Z,"259 km E of Port Blair, India",earthquake,7,1.7,0.072,65,reviewed,us,us
+2020-07-17T05:01:13.351Z,11.6984,95.0094,10,4.8,mb,,106,2.219,0.43,us,us7000aq5i,2020-09-26T16:58:33.040Z,"246 km E of Port Blair, India",earthquake,7.7,1.9,0.077,52,reviewed,us,us
+2020-07-28T03:32:49.179Z,30.3956,94.7098,10,4.8,mb,,37,3.182,0.58,us,us6000b54q,2020-10-03T17:32:28.040Z,"209 km N of Shi Yomi, India",earthquake,7.5,1.8,0.047,139,reviewed,us,us
+2020-07-28T14:38:49.984Z,23.2575,93.3418,10,4.8,mb,,67,0.657,0.73,us,us6000b5cc,2020-10-03T17:32:28.040Z,"25 km ESE of Khawhai, India",earthquake,4.1,1.4,0.056,97,reviewed,us,us
+2020-07-30T18:38:38.999Z,30.386,94.7527,10,4.8,mb,,69,3.216,0.65,us,us6000b71z,2020-10-10T17:11:03.040Z,"208 km N of Shi Yomi, India",earthquake,6.1,1.8,0.046,143,reviewed,us,us
+2020-07-29T11:07:12.675Z,30.3811,94.7738,10,4.8,mb,,49,3.233,0.61,us,us6000b61h,2020-10-10T17:11:00.040Z,"208 km N of Shi Yomi, India",earthquake,8.3,1.9,0.055,101,reviewed,us,us
+2020-07-25T15:58:37.391Z,30.3757,94.8368,10,4.8,mb,,88,3.285,0.77,us,us6000b41u,2020-10-03T17:32:22.040Z,"209 km NNE of Shi Yomi, India",earthquake,5.4,1.9,0.046,149,reviewed,us,us
+2020-08-09T08:50:13.554Z,30.3605,94.7737,10,4.8,mb,,30,3.229,0.38,us,us6000bbdf,2020-10-21T22:04:01.040Z,"206 km N of Shi Yomi, India",earthquake,6.9,1.7,0.064,75,reviewed,us,us
+2020-08-12T15:58:08.257Z,29.8985,95.1615,10,4.8,mb,,42,3.512,0.82,us,us6000bdee,2020-10-24T20:08:46.040Z,"169 km NNE of Shi Yomi, India",earthquake,7.9,1.8,0.042,178,reviewed,us,us
+2020-08-16T16:40:40.467Z,30.3546,94.8125,10,4.8,mb,,59,3.261,0.74,us,us6000bfn7,2020-10-24T20:08:56.040Z,"206 km NNE of Shi Yomi, India",earthquake,7.2,1.8,0.043,169,reviewed,us,us
+2020-08-14T12:58:40.661Z,30.3765,94.826,10,4.8,mb,,82,5.463,0.63,us,us6000bepe,2020-10-24T20:08:51.040Z,"209 km NNE of Shi Yomi, India",earthquake,4,1.9,0.044,161,reviewed,us,us
+2020-08-17T11:23:40.558Z,32.9399,86.6267,10,4.8,mb,,31,4.967,0.56,us,us6000bfx3,2020-10-24T20:08:58.040Z,"western Xizang",earthquake,5.1,1.7,0.038,211,reviewed,us,us
+2020-08-17T16:31:52.303Z,30.3829,94.7798,10,4.8,mb,,39,3.238,0.67,us,us6000bg0c,2020-10-24T20:08:59.040Z,"209 km N of Shi Yomi, India",earthquake,7.3,1.8,0.043,179,reviewed,us,us
+2020-09-17T06:11:35.973Z,35.6868,94.5784,10,4.8,mb,,40,6.637,0.65,us,us7000bpa5,2020-11-28T21:31:47.040Z,"Southern Qinghai, China",earthquake,7.9,1.9,0.048,136,reviewed,us,us
+2020-10-21T13:12:37.754Z,33.384,90.2627,10,4.8,mb,,53,3.743,0.54,us,us6000camh,2021-01-09T20:05:16.040Z,"270 km NW of Nagqu, China",earthquake,9.3,1.8,0.047,142,reviewed,us,us
+2020-12-24T08:09:48.075Z,25.6397,96.6534,10,4.8,mb,,45,2.556,0.74,us,us6000d2hz,2021-03-06T23:18:15.040Z,"64 km SSW of Sarupathar, India",earthquake,7.2,1.9,0.066,74,reviewed,us,us
+2021-04-28T19:50:53.770Z,26.7477,92.4849,38.21,4.8,mb,,83,1.304,0.56,us,us7000dybj,2021-07-07T18:37:19.040Z,"4 km N of Dhekiajuli, India",earthquake,7.6,5.6,0.044,157,reviewed,us,us
+2021-06-28T00:40:35.259Z,34.2781,78.2208,10,4.8,mb,,78,6.763,0.97,us,us6000eqdp,2021-09-09T22:05:30.040Z,"60 km ENE of Leh, India",earthquake,7.7,1.9,0.052,115,reviewed,us,us
+2021-08-10T03:18:12.096Z,22.4535,95.9084,10,4.8,mb,,43,1.977,0.59,us,us6000f3rz,2021-09-14T22:15:59.040Z,"25 km ESE of Shwebo, Myanmar",earthquake,5.4,1.8,0.067,70,reviewed,us,us
+2021-08-28T22:36:04.517Z,30.1983,69.7587,10,4.8,mb,,48,4.372,0.66,us,us7000f5bl,2021-09-17T05:45:41.040Z,"40 km NE of Barkhan, Pakistan",earthquake,7.4,1.8,0.063,78,reviewed,us,us
+2021-10-02T04:45:24.828Z,30.3661,94.8646,33.6,4.8,mb,,109,6.133,0.67,us,us6000fqzr,2021-10-02T05:04:54.040Z,"209 km NNE of Shi Yomi, India",earthquake,11,4.7,0.1,34,reviewed,us,us
+2021-09-09T03:44:28.824Z,10.263,93.728,10,4.8,mb,,68,6.027,0.72,us,us7000fbia,2021-10-06T23:46:24.040Z,"188 km SE of Port Blair, India",earthquake,8.1,1.9,0.148,14,reviewed,us,us
+2020-02-01T09:43:55.801Z,28.9807,95.7207,10,4.9,mb,,37,4.074,0.58,us,us60007m2e,2020-04-18T22:10:09.040Z,"108 km NNE of P?sigh?t, India",earthquake,7.5,1.9,0.051,120,reviewed,us,us
+2020-05-12T18:08:38.863Z,27.7046,86.0378,10,4.9,mb,,42,4.893,0.81,us,us70009ett,2021-04-27T20:21:39.485Z,"29 km SSE of Kod?ri??, Nepal",earthquake,7.8,1.8,0.041,202,reviewed,us,us
+2020-06-21T10:46:25.514Z,23.9075,93.1135,41.6,4.9,mww,,49,1.131,0.54,us,us6000afvf,2020-08-30T00:00:59.040Z,"22 km ESE of Darlawn, India",earthquake,6.8,6.6,0.098,10,reviewed,us,us
+2020-07-19T23:36:38.799Z,30.4109,94.8431,10,4.9,mb,,49,3.297,0.6,us,us7000ard3,2020-09-26T16:58:39.040Z,"213 km NNE of Shi Yomi, India",earthquake,4.6,1.8,0.037,230,reviewed,us,us
+2020-06-25T20:29:39.466Z,35.6587,82.4619,10,4.9,mb,,48,6.091,0.92,us,us7000abky,2020-09-05T17:35:21.040Z,"277 km SE of Hotan, China",earthquake,7.8,1.8,0.051,120,reviewed,us,us
+2020-08-31T21:09:33.636Z,24.8788,95.2425,123.46,4.9,mb,,33,1.074,0.77,us,us7000bfgi,2020-11-07T18:48:40.040Z,"114 km SE of Phek, India",earthquake,5.9,3.5,0.052,117,reviewed,us,us
+2020-01-06T15:08:03.412Z,8.8585,93.5608,33.37,4.9,mb,,81,2.893,0.62,us,us60007bgv,2020-03-21T17:13:28.040Z,"Nicobar Islands, India region",earthquake,8.7,4.9,0.099,41,reviewed,us,us
+2020-01-23T09:48:04.838Z,20.5189,93.4447,22.56,4.9,mww,,40,2.117,1.05,us,us60007dqr,2020-04-11T18:20:40.040Z,"70 km NE of Sittwe, Myanmar",earthquake,3.5,3.8,0.093,11,reviewed,us,us
+2020-02-10T18:20:09.252Z,13.1329,93.2938,39.6,4.9,mb,,58,1.563,1.08,us,us70007mpw,2020-04-25T22:19:13.040Z,"170 km NNE of Bamboo Flat, India",earthquake,7.2,5.2,0.062,83,reviewed,us,us
+2020-03-03T09:18:50.445Z,17.6247,94.3051,10,4.9,mb,,59,4.053,0.79,us,us600088jb,2020-05-19T22:14:22.040Z,"104 km NNW of Pathein, Myanmar",earthquake,8.9,1.8,0.057,95,reviewed,us,us
+2020-06-18T02:02:17.568Z,6.4533,92.6936,10,4.9,mb,,98,4.403,0.75,us,us6000advt,2020-08-30T00:00:43.040Z,"296 km WNW of Sabang, Indonesia",earthquake,8.6,1.8,0.074,57,reviewed,us,us
+2020-07-21T06:18:48.950Z,30.4304,94.8312,10,4.9,mb,,32,5.512,0.71,us,us7000as5w,2020-09-26T16:58:43.040Z,"215 km NNE of Shi Yomi, India",earthquake,5.5,1.6,0.039,204,reviewed,us,us
+2020-07-24T13:34:24.853Z,30.3884,94.8313,10,4.9,mb,,86,5.476,0.62,us,us6000b3ee,2020-10-03T17:32:19.040Z,"210 km NNE of Shi Yomi, India",earthquake,6.1,1.8,0.048,134,reviewed,us,us
+2020-07-23T00:47:43.907Z,30.3844,94.7159,10,4.9,mb,,71,3.185,0.57,us,us6000b2d7,2020-10-03T17:32:16.040Z,"208 km N of Shi Yomi, India",earthquake,7.3,1,0.054,107,reviewed,us,us
+2020-07-20T19:21:39.541Z,30.4051,94.862,10,4.9,mb,,47,3.312,0.71,us,us7000aru9,2020-09-26T16:58:41.040Z,"213 km NNE of Shi Yomi, India",earthquake,4.3,1.8,0.043,171,reviewed,us,us
+2020-07-29T17:27:54.128Z,30.3366,94.7909,10,4.9,mb,,49,3.239,0.82,us,us6000b69f,2020-10-10T17:11:01.040Z,"204 km NNE of Shi Yomi, India",earthquake,5.9,1.8,0.045,155,reviewed,us,us
+2020-07-27T05:50:20.443Z,30.4061,94.8218,10,4.9,mb,,37,3.278,0.81,us,us6000b4l6,2020-10-03T17:32:26.040Z,"212 km NNE of Shi Yomi, India",earthquake,7.9,1.9,0.047,141,reviewed,us,us
+2020-07-31T16:45:09.922Z,30.4288,94.841,10,4.9,mb,,159,3.299,0.81,us,us6000b7i6,2020-10-10T17:11:05.040Z,"215 km NNE of Shi Yomi, India",earthquake,9.6,1.9,0.042,176,reviewed,us,us
+2020-08-08T08:44:00.894Z,30.4109,94.7817,10,4.9,mb,,48,5.475,0.5,us,us6000bb1f,2020-10-21T22:03:57.040Z,"212 km N of Shi Yomi, India",earthquake,6.4,1.8,0.064,78,reviewed,us,us
+2020-08-11T18:14:16.424Z,30.3544,94.742,10,4.9,mb,,69,5.409,0.89,us,us6000bcsr,2020-10-21T22:04:11.040Z,"205 km N of Shi Yomi, India",earthquake,8.1,1.8,0.044,168,reviewed,us,us
+2020-08-13T04:27:59.201Z,30.4144,94.7198,10,4.9,mb,,69,3.194,0.68,us,us6000bdty,2020-10-24T20:08:48.040Z,"211 km N of Shi Yomi, India",earthquake,8.1,1.8,0.039,200,reviewed,us,us
+2020-08-09T17:13:33.298Z,30.4464,94.9345,10,4.9,mb,,86,3.382,0.9,us,us6000bbiy,2020-10-21T22:04:01.040Z,"219 km NNE of Shi Yomi, India",earthquake,7.1,1.8,0.056,102,reviewed,us,us
+2020-08-19T20:53:04.563Z,9.5672,93.3607,71.13,4.9,mb,,55,2.162,1.24,us,us6000bhed,2020-10-31T19:06:09.040Z,"241 km SSE of Port Blair, India",earthquake,9.1,5.7,0.074,58,reviewed,us,us
+2020-08-30T01:47:38.842Z,23.41,92.0138,37.66,4.9,mb,,78,0.805,0.82,us,us7000bh52,2020-11-07T18:48:49.040Z,"33 km N of Khagrachhari, Bangladesh",earthquake,4.2,6.1,0.23,8,reviewed,us,us
+2021-02-25T02:34:26.540Z,22.8585,95.9211,10,4.9,mb,,30,2.018,0.6,us,us7000ddgz,2021-05-04T14:17:07.040Z,"39 km NE of Shwebo, Myanmar",earthquake,3.1,1.8,0.079,51,reviewed,us,us
+2021-05-04T22:31:15.831Z,8.6376,94.1922,10,4.9,mb,,72,3.32,1.14,us,us7000e06d,2021-07-10T20:15:25.040Z,"Nicobar Islands, India region",earthquake,7.9,1.8,0.069,67,reviewed,us,us
+2021-05-19T02:41:38.847Z,28.3088,84.3042,10,4.9,mb,,40,2.241,0.53,us,us7000e4bb,2021-07-24T21:08:08.040Z,"33 km E of Pokhara, Nepal",earthquake,8.3,1.9,0.052,114,reviewed,us,us
+2021-03-30T16:08:21.488Z,6.3788,93.4713,25.52,4.9,mb,,212,3.642,0.64,us,us6000dzrr,2021-06-08T18:00:08.040Z,"211 km WNW of Sabang, Indonesia",earthquake,14.8,6.2,0.177,15,reviewed,us,us
+2021-07-26T05:03:30.783Z,24.5824,94.4421,66.82,4.9,mb,,28,0.374,0.51,us,us6000ez3j,2021-10-03T05:22:07.040Z,"38 km E of W?ngjing, India",earthquake,6.6,4.4,0.04,197,reviewed,us,us
+2021-08-17T15:32:24.925Z,24.6509,94.4519,63.33,4.9,mb,,33,0.441,1.19,us,us6000f7jj,2021-08-31T19:28:39.467Z,"39 km E of W?ngjing, India",earthquake,6.2,4.9,0.056,108,reviewed,us,us
+2021-10-04T03:24:20.053Z,30.3352,94.7958,10,4.9,mb,,72,6.097,0.72,us,us6000frfq,2021-10-11T04:06:51.040Z,"204 km NNE of Shi Yomi, India",earthquake,8.4,1.9,0.063,78,reviewed,us,us
+2021-10-09T05:36:57.197Z,30.3562,94.827,34.55,4.9,mb,,111,5.446,0.48,us,us6000ft7k,2021-10-09T06:17:12.040Z,"207 km NNE of Shi Yomi, India",earthquake,12.3,5.9,0.091,38,reviewed,us,us
+2020-11-14T08:50:26.186Z,23.6092,94.6188,103.66,5,mww,,37,0.682,0.89,us,us7000cevs,2021-01-27T17:29:13.040Z,"22 km E of Mawlaik, Myanmar",earthquake,6.9,6.7,0.086,13,reviewed,us,us
+2020-09-27T17:27:42.182Z,34.1448,78.1519,10,5,mww,,98,4.091,1.35,us,us6000c1yn,2020-12-05T21:03:02.040Z,"52 km E of Leh, India",earthquake,7.2,1.9,0.093,11,reviewed,us,us
+2020-10-05T23:43:20.846Z,34.1788,79.2141,10,5,mww,,21,4.971,0.62,us,us6000c5y3,2020-12-12T22:28:41.040Z,"150 km E of Leh, India",earthquake,6.3,1.7,0.086,13,reviewed,us,us
+2020-02-08T12:47:01.887Z,26.3386,90.7847,10,5,mb,,73,1.233,0.82,us,us70007li1,2020-04-25T22:18:43.040Z,"10 km E of Abhay?puri, India",earthquake,7.7,1.8,0.057,99,reviewed,us,us
+2020-02-26T15:04:08.953Z,32.9752,76.2474,10,5,mb,,37,2.583,0.85,us,us600084lt,2020-05-19T22:13:57.040Z,"47 km NNE of Chamba, India",earthquake,4.7,1.7,0.041,189,reviewed,us,us
+2020-01-29T15:10:53.203Z,10.3105,93.7827,10,5,mb,,58,1.681,0.88,us,us60007j4e,2020-04-18T22:09:53.040Z,"187 km SE of Port Blair, India",earthquake,7.3,1.8,0.067,72,reviewed,us,us
+2020-06-25T21:17:04.425Z,35.6685,82.4472,10,5,mb,,46,6.077,0.65,us,us7000abn0,2020-09-05T17:35:21.040Z,"276 km SE of Hotan, China",earthquake,6.9,1.7,0.043,174,reviewed,us,us
+2020-07-17T14:43:17.244Z,11.8485,94.8316,10,5,mww,,130,2.053,0.92,us,us7000aqc9,2020-09-26T16:58:34.040Z,"228 km E of Port Blair, India",earthquake,7.8,1.9,0.098,10,reviewed,us,us
+2020-07-19T10:15:47.711Z,30.412,94.8613,10,5,mb,,31,3.313,0.6,us,us7000ar7l,2020-09-26T16:58:38.040Z,"213 km NNE of Shi Yomi, India",earthquake,7.8,1.8,0.053,116,reviewed,us,us
+2020-07-22T20:14:44.728Z,33.2088,86.773,10,5,mb,,59,5.103,0.87,us,us6000b5xr,2020-10-03T17:32:30.040Z,"western Xizang",earthquake,6.8,1.8,0.094,36,reviewed,us,us
+2020-12-30T05:33:43.546Z,34.741,72.9466,10,5,mb,,42,1.119,1.18,us,us6000d49f,2021-03-06T23:20:35.040Z,"7 km NNW of Shingli Bala, Pakistan",earthquake,6.4,1.8,0.071,63,reviewed,us,us
+2021-01-07T01:27:31.280Z,6.3819,94.2415,78.43,5,mb,,49,2.925,0.75,us,us6000d6bs,2021-03-13T22:59:41.040Z,"130 km WNW of Sabang, Indonesia",earthquake,8.7,5,0.073,59,reviewed,us,us
+2021-02-02T02:31:13.845Z,28.8225,87.362,8.7,5,mww,,64,3.404,0.58,us,us6000ddsr,2021-04-16T19:02:57.040Z,"110 km NNE of Lobujya, Nepal",earthquake,7.7,3.5,0.086,13,reviewed,us,us
+2021-03-22T17:23:35.795Z,31.9664,92.9084,10,5,mb,,58,2.727,0.86,us,us6000dvi9,2021-06-02T15:22:12.040Z,"97 km ENE of Nagqu, China",earthquake,7.4,1.8,0.058,93,reviewed,us,us
+2021-03-26T19:02:07.885Z,27.6289,92.6692,29.81,5,mww,,25,2.179,0.53,us,us6000dwue,2021-06-08T17:58:37.040Z,"47 km NNE of Bomdila, India",earthquake,5.6,4.2,0.098,10,reviewed,us,us
+2021-04-06T21:48:35.301Z,31.8686,92.9137,10,5,mww,,33,2.65,0.73,us,us6000dzil,2021-06-12T21:37:55.040Z,"92 km ENE of Nagqu, China",earthquake,5.7,1.7,0.093,11,reviewed,us,us
+2021-04-28T02:33:01.489Z,26.7489,92.5136,35,5,mb,,77,1.317,0.74,us,us7000dy3r,2021-07-07T18:36:50.040Z,"6 km NE of Dhekiajuli, India",earthquake,7.8,1.9,0.063,80,reviewed,us,us
+2021-05-18T05:49:21.978Z,6.6176,94.5648,10,5,mb,,35,2.742,1.04,us,us7000e40a,2021-07-24T21:07:51.040Z,"115 km NW of Sabang, Indonesia",earthquake,8.3,1.8,0.07,66,reviewed,us,us
+2021-06-17T14:19:36.145Z,34.7242,73.2047,10,5,mb,,42,1.072,0.84,us,us7000edut,2021-08-26T21:59:30.040Z,"17 km ENE of Battagram, Pakistan",earthquake,6.6,1.8,0.058,93,reviewed,us,us
+2021-09-25T04:41:08.280Z,30.3316,94.775,35.33,5,mb,,81,5.403,0.83,us,us7000feaa,2021-09-25T05:16:10.276Z,"203 km N of Shi Yomi, India",earthquake,9.5,6.9,0.055,109,reviewed,us,us
+2021-10-01T03:49:28.998Z,30.3403,94.8375,31.32,5,mb,,115,5.437,0.69,us,us6000fqn3,2021-10-01T05:07:42.040Z,"205 km NNE of Shi Yomi, India",earthquake,10.7,3.2,0.07,67,reviewed,us,us
+2021-10-05T01:12:16.136Z,13.7792,93.6855,60.3,5,mb,,74,5.309,0.51,us,us6000frr8,2021-10-05T22:54:28.040Z,"252 km NNE of Bamboo Flat, India",earthquake,12,7.3,0.141,16,reviewed,us,us
+2020-09-20T01:59:05.610Z,22.9861,93.7677,53.56,5.1,mb,,38,0.375,0.81,us,us7000bqcm,2020-11-28T21:31:56.040Z,"12 km NE of Falam, Myanmar",earthquake,4.8,4.1,0.039,208,reviewed,us,us
+2020-12-08T05:14:35.415Z,22.2089,94.3877,90.82,5.1,mb,,25,0.847,0.6,us,us7000cp2v,2021-02-12T22:40:22.040Z,"77 km W of Monywa, Myanmar",earthquake,4.4,5.1,0.045,161,reviewed,us,us
+2020-01-12T05:23:56.526Z,35.0149,74.474,10,5.1,mb,,68,1.687,0.67,us,us70006ymh,2020-04-02T21:28:19.040Z,"68 km NNW of Bandipura, India",earthquake,4.4,1.4,0.036,244,reviewed,us,us
+2020-05-25T14:42:17.395Z,24.3856,93.9197,57.89,5.1,mww,,25,0.38,0.51,us,us70009q28,2020-10-10T17:59:49.077Z,"13 km SSW of Kakching, India",earthquake,5.8,4.5,0.093,11,reviewed,us,us
+2020-06-14T14:43:08.390Z,23.3821,70.3548,10,5.1,mb,,40,11.178,0.74,us,us6000abp7,2020-08-22T19:14:51.040Z,"9 km N of Bhach?u, India",earthquake,8.9,1.8,0.036,255,reviewed,us,us
+2020-07-17T16:33:53.474Z,23.1162,93.3092,10,5.1,mww,,63,0.542,0.86,us,us7000aqg3,2020-09-26T16:58:34.040Z,"25 km E of North Vanlaiphai, India",earthquake,5.4,1.8,0.098,10,reviewed,us,us
+2020-11-13T18:33:07.130Z,5.7913,95.5619,10,5.1,mww,,43,1.487,1.1,us,us7000cekv,2021-01-27T17:29:05.040Z,"29 km ESE of Sabang, Indonesia",earthquake,7.2,1.8,0.075,17,reviewed,us,us
+2020-01-28T20:29:36.992Z,7.3115,92.0905,10,5.1,mb,,98,4.364,1.09,us,us60007ifv,2020-04-11T18:21:03.040Z,"Nicobar Islands, India region",earthquake,8.9,1.4,0.067,71,reviewed,us,us
+2020-02-20T18:01:35.341Z,34.5182,85.6961,10,5.1,mb,,61,6.608,0.85,us,us70007tnv,2020-05-09T21:41:04.040Z,"western Xizang",earthquake,7.8,1.8,0.043,179,reviewed,us,us
+2020-07-23T10:50:09.085Z,33.1508,86.8235,10,5.1,mww,,51,5.175,0.8,us,us6000b2l7,2020-10-03T17:32:17.040Z,"western Xizang",earthquake,8,1.8,0.083,14,reviewed,us,us
+2020-07-17T13:29:04.589Z,11.8395,94.9771,10,5.1,mww,,59,2.194,0.71,us,us7000aqal,2020-09-26T16:58:34.040Z,"243 km E of Port Blair, India",earthquake,6.7,1.9,0.093,11,reviewed,us,us
+2021-01-11T14:02:03.048Z,33.3042,75.5872,10,5.1,mb,,66,1.968,0.47,us,us6000d7f5,2021-03-20T21:24:09.040Z,"16 km W of Kishtw?r, India",earthquake,6.2,1.5,0.051,127,reviewed,us,us
+2021-02-04T05:06:23.654Z,28.7463,87.3785,10,5.1,mb,,64,0.93,0.47,us,us6000decu,2021-04-16T19:03:24.040Z,"104 km NNE of Lobujya, Nepal",earthquake,6,1.8,0.048,140,reviewed,us,us
+2021-04-18T13:24:32.776Z,22.5129,94.1955,24.67,5.1,mww,,35,2.364,0.81,us,us6000e2mn,2021-07-03T16:48:11.040Z,"61 km ESE of Hakha, Myanmar",earthquake,6.2,3.6,0.08,15,reviewed,us,us
+2021-06-24T23:04:44.289Z,34.9509,69.0848,16.2,5.1,mww,,49,0.41,1.08,us,us6000epir,2021-10-13T15:32:08.163Z,"10 km SW of Charikar, Afghanistan",earthquake,6.2,4,0.098,10,reviewed,us,us
+2021-08-05T12:46:01.077Z,8.814,94.0044,20.27,5.1,mww,,37,4.606,0.97,us,us6000f2f5,2021-10-14T01:07:44.040Z,"Nicobar Islands, India region",earthquake,7.2,2.9,0.078,16,reviewed,us,us
+2021-08-06T08:19:04.794Z,8.7641,93.9557,10,5.1,mb,,48,4.599,0.8,us,us6000f2p9,2021-08-25T12:46:42.040Z,"Nicobar Islands, India region",earthquake,8,1.9,0.075,57,reviewed,us,us
+2021-08-24T07:05:53.043Z,14.4654,83.0456,10,5.1,mb,,50,13.581,0.71,us,us7000f2x8,2021-09-20T07:19:35.398Z,"257 km SSE of R?zole, India",earthquake,10,1.7,0.051,122,reviewed,us,us
+2021-09-19T19:24:04.672Z,25.2231,94.8718,79.04,5.1,mb,,89,1.117,0.67,us,us7000fcq5,2021-09-20T10:16:46.758Z,"61 km SE of Phek, India",earthquake,8.9,7.4,0.067,73,reviewed,us,us
+2020-01-24T22:56:05.315Z,31.995,95.0575,10,5.2,mww,,22,4.079,0.68,us,us60007f7v,2020-04-11T18:20:46.040Z,"223 km WNW of Qamdo, China",earthquake,2.5,1.7,0.086,13,reviewed,us,us
+2020-03-09T18:12:09.419Z,32.8006,85.5456,10,5.2,mww,,37,4.948,0.81,us,us60008clh,2020-05-23T22:03:33.040Z,"western Xizang",earthquake,6.4,1.8,0.11,8,reviewed,us,us
+2021-03-20T15:30:22.366Z,34.7094,83.4724,15.11,5.2,mb,,28,7.299,0.55,us,us7000dl8t,2021-06-02T15:24:09.040Z,"western Xizang",earthquake,8.3,3.8,0.042,200,reviewed,us,us
+2021-04-05T15:19:57.976Z,27.1863,88.9412,10,5.2,mb,,45,2.04,0.66,us,us6000dz5d,2021-06-12T21:37:22.040Z,"35 km NNW of Samtse, Bhutan",earthquake,7,1.7,0.053,118,reviewed,us,us
+2021-07-20T23:54:26.196Z,29.3258,70.0487,10,5.2,mww,,39,8.336,0.66,us,us6000exhl,2021-09-25T21:08:23.040Z,"36 km NW of Rajanpur, Pakistan",earthquake,8.7,1.8,0.069,20,reviewed,us,us
+2021-09-11T03:20:17.235Z,14.1061,92.9896,10,5.2,mb,,31,2.447,0.9,us,us7000fa7j,2021-10-08T02:08:27.040Z,"267 km N of Bamboo Flat, India",earthquake,4.8,1.7,0.046,162,reviewed,us,us
+2020-08-27T12:07:15.628Z,23.1636,93.3258,10,5.3,mww,,23,0.577,1.04,us,us7000bdnu,2020-11-07T18:48:29.040Z,"26 km E of North Vanlaiphai, India",earthquake,6.3,1.8,0.08,15,reviewed,us,us
+2020-09-15T23:34:03.386Z,27.8464,85.8765,10,5.3,mb,,39,0.835,0.85,us,us7000bnsh,2020-11-21T20:10:45.040Z,"14 km SSW of Kod?ri??, Nepal",earthquake,5.6,1.8,0.033,309,reviewed,us,us
+2020-09-25T10:57:13.221Z,34.2487,78.2058,10,5.3,mww,,38,4.146,0.61,us,us6000c13w,2020-12-05T21:02:58.040Z,"58 km E of Leh, India",earthquake,6.4,1.8,0.073,18,reviewed,us,us
+2021-05-18T23:57:58.646Z,28.2785,84.3373,10,5.3,mb,,36,2.208,0.93,us,us7000e4aq,2021-07-24T21:08:06.040Z,"36 km E of Pokhara, Nepal",earthquake,3.4,1.7,0.034,290,reviewed,us,us
+2021-07-07T03:15:24.246Z,25.9603,90.3499,10,5.3,mb,,18,1.413,0.59,us,us7000ej9c,2021-09-10T20:07:43.040Z,"8 km SSE of Lakhipur, India",earthquake,7.4,1.7,0.033,302,reviewed,us,us
+2021-08-03T01:51:14.508Z,9.0127,94.1198,10,5.3,mww,,36,4.69,0.87,us,us6000f1qs,2021-10-14T01:06:00.040Z,"Nicobar Islands, India region",earthquake,7.8,1.8,0.071,19,reviewed,us,us
+2021-08-03T03:42:07.890Z,8.8628,94.0564,10,5.3,mb,,36,4.611,0.62,us,us6000f1r3,2021-10-14T01:06:02.040Z,"Nicobar Islands, India region",earthquake,7.6,1.7,0.041,205,reviewed,us,us
+2020-03-12T15:44:02.770Z,32.7152,85.3323,10,5.4,mww,,26,4.91,0.71,us,us60008ecp,2020-05-30T22:17:04.040Z,"western Xizang",earthquake,5,1.8,0.103,9,reviewed,us,us
+2021-09-24T15:04:14.809Z,8.5857,94.0824,10,5.4,mww,,28,4.382,1.25,us,us7000fe2z,2021-09-30T21:49:14.367Z,"Nicobar Islands, India region",earthquake,6.9,1.7,0.054,33,reviewed,us,us
+2020-10-10T17:38:00.765Z,24.6661,93.4997,53,5.5,mww,,22,0.849,0.65,us,us6000c7ce,2020-12-19T17:22:44.040Z,"33 km WNW of Moir?ng, India",earthquake,4.5,1.9,0.083,14,reviewed,us,us
+2021-03-29T17:27:23.269Z,34.3549,87.6921,8,5.5,mww,,46,5.478,0.73,us,us6000dxge,2021-06-08T17:59:05.040Z,"western Xizang",earthquake,7.4,1.7,0.093,11,reviewed,us,us
+2021-07-29T08:39:27.722Z,22.8638,95.9967,10,5.5,mb,,48,2.066,0.7,us,us6000f051,2021-10-03T05:23:09.040Z,"44 km NE of Shwebo, Myanmar",earthquake,5.8,1.8,0.055,114,reviewed,us,us
+2021-08-04T17:57:39.892Z,8.7966,94.0775,8.82,5.5,mww,,44,4.547,0.82,us,us6000f27x,2021-10-14T01:07:12.040Z,"Nicobar Islands, India region",earthquake,7.3,2.9,0.056,31,reviewed,us,us
+2021-10-07T18:28:03.629Z,22.3074,94.7616,110,5.5,mww,,23,1.125,0.78,us,us6000fsrg,2021-10-15T20:48:52.712Z,"44 km WNW of Monywa, Myanmar",earthquake,5.9,1.9,0.056,31,reviewed,us,us
+2020-06-21T22:40:52.633Z,23.1449,93.2856,10.84,5.6,mww,,23,0.578,0.64,us,us6000ag4u,2020-08-30T00:01:01.040Z,"22 km E of North Vanlaiphai, India",earthquake,4,3,0.068,21,reviewed,us,us
+2020-03-20T01:33:15.443Z,28.5896,87.3081,10,5.7,mww,,18,0.766,1.02,us,us70008cld,2020-06-06T20:53:55.040Z,"85 km NE of Lobujya, Nepal",earthquake,5.7,1.7,0.063,24,reviewed,us,us
+2020-07-17T18:32:58.716Z,12.0979,94.9745,5.07,5.7,mww,,33,2.227,1.18,us,us7000aqj0,2020-09-26T16:58:35.040Z,"247 km E of Port Blair, India",earthquake,5.7,2.8,0.057,30,reviewed,us,us
+2021-03-19T06:11:27.113Z,31.9246,92.9151,8,5.7,mww,,19,2.696,0.59,us,us7000dkv0,2021-06-02T15:23:54.040Z,"95 km ENE of Nagqu, China",earthquake,7.1,1.8,0.086,13,reviewed,us,us
+2021-08-03T03:43:53.638Z,9.0017,94.158,10,5.8,mb,,45,4.659,0.84,us,us6000f1r6,2021-10-14T01:06:03.040Z,"Nicobar Islands, India region",earthquake,4.8,1.8,0.074,67,reviewed,us,us
+2020-04-16T11:45:23.960Z,22.8004,94.0292,10,5.9,mww,,25,0.426,0.93,us,us70008xhp,2020-07-09T14:31:12.040Z,"38 km ESE of Falam, Myanmar",earthquake,6.3,1.7,0.055,32,reviewed,us,us
+2021-04-28T02:21:26.212Z,26.7813,92.4565,34,6,mww,,11,1.324,0.79,us,us7000dy3b,2021-07-07T18:36:48.040Z,"8 km NNW of Dhekiajuli, India",earthquake,6.6,1.7,0.066,22,reviewed,us,us
+2020-07-17T14:03:40.437Z,11.8485,94.9362,10,6.1,mww,,61,2.155,0.84,us,us7000aqaw,2020-09-26T16:58:34.040Z,"239 km E of Port Blair, India",earthquake,6.1,1.8,0.043,53,reviewed,us,us
+2021-08-03T03:42:38.345Z,8.8809,94.0192,10,6.1,mww,,50,4.648,0.95,us,us6000f1r4,2021-10-14T01:06:02.040Z,"Nicobar Islands, India region",earthquake,7.7,1.8,0.069,20,reviewed,us,us
+2020-06-25T21:05:18.140Z,35.5948,82.4158,10,6.3,mww,,24,6.134,0.63,us,us7000abmk,2020-09-05T17:35:21.040Z,"278 km SE of Hotan, China",earthquake,7,1.7,0.062,25,reviewed,us,us
+2020-07-22T20:07:19.194Z,33.1438,86.8637,10,6.3,mww,,14,5.168,0.88,us,us6000b26j,2020-10-03T17:32:15.040Z,"western Xizang",earthquake,2.8,1.7,0.071,19,reviewed,us,us

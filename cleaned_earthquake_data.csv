@@ -1,0 +1,615 @@
+,latitude,longitude,depth,mag,mag_type,id,place,type,mag_nst,status,loc_source,mag_source,country,year,month
+0,17.0062,96.2746,10.0,3.1,ml,us7000921c,Yangon,earthquake,6,reviewed,us,us, Myanmar,2020,04
+1,31.9732,72.2567,10.0,3.4,mb,us7000f9u0,Sahiwal,earthquake,1,reviewed,us,us, Pakistan,2021,09
+2,23.9312,93.0128,10.0,3.6,mb,us6000ahfx,Darlawn,earthquake,1,reviewed,us,us, India,2020,06
+3,30.2767,78.1005,10.0,3.6,mb,us6000f3yt,Raipur,earthquake,3,reviewed,us,us, India,2021,08
+4,28.7268,77.3516,10.0,3.7,mb,us70009ebf,Loni,earthquake,4,reviewed,us,us, India,2020,05
+5,27.0534,89.5665,10.0,3.7,mb,us6000dgem,Tsimasham,earthquake,5,reviewed,us,us, Bhutan,2021,02
+6,34.0145,68.8554,10.0,3.7,mb,us6000dipz,Baraki Barak,earthquake,6,reviewed,us,us, Afghanistan,2021,02
+7,34.6873,77.9908,10.0,3.7,mb,us6000eqyg,Leh,earthquake,5,reviewed,us,us, India,2021,06
+8,28.8336,77.3589,10.0,3.8,mb,us70008utq, Uttar Pradesh ,earthquake,11,reviewed,us,us, India,2020,04
+9,22.9861,70.2272,10.0,3.8,mb,us6000acfz,Kandla,earthquake,14,reviewed,us,us, India,2020,06
+10,34.0161,78.1669,10.0,3.8,mb,us6000c1i2,Leh,earthquake,16,reviewed,us,us, India,2020,09
+11,28.5188,77.2852,10.0,3.8,mb,us7000cryp,Deoli,earthquake,8,reviewed,us,us, India,2020,12
+12,26.774,92.4738,10.0,3.8,mb,us7000e1n0,Dhekiajuli,earthquake,10,reviewed,us,us, India,2021,05
+13,21.5017,73.219,10.0,3.9,mb,us7000cc8r,Kosamba,earthquake,9,reviewed,us,us, India,2020,11
+14,27.0529,89.191,10.0,3.9,mb,us60009cyy,Samtse,earthquake,7,reviewed,us,us, Bhutan,2020,04
+15,26.8176,88.7828,10.0,3.9,mb,us6000dzbe,Odlabari,earthquake,14,reviewed,us,us, India,2021,04
+16,21.0204,85.0848,10.0,3.9,mb,us7000eclt,Talcher,earthquake,4,reviewed,us,us, India,2021,06
+17,28.9016,76.839,10.0,3.9,mb,us7000eiwa,Kharkhauda,earthquake,13,reviewed,us,us, India,2021,07
+18,35.4779,70.9652,105.1,4.0,mb,us7000cdlw,Paran,earthquake,11,reviewed,us,us, Afghanistan,2020,11
+19,33.7022,88.4267,10.0,4.0,mb,us7000cn1b,western Xizang,earthquake,15,reviewed,us,us,Tibet,2020,12
+20,24.5467,90.1767,10.0,4.0,mb,us600084bt,Sakhipur,earthquake,17,reviewed,us,us, Bangladesh,2020,02
+21,29.3551,70.0699,10.0,4.0,mb,us70008ufr,Dajal,earthquake,11,reviewed,us,us, Pakistan,2020,04
+22,23.4203,86.98899999999999,10.0,4.0,mb,us70008s0k,Bankura,earthquake,5,reviewed,us,us, India,2020,04
+23,23.965,88.4834,10.0,4.0,mb,us7000bd2a,Karampur,earthquake,3,reviewed,us,us, India,2020,08
+24,33.9671,69.4762,10.0,4.0,mb,us7000beyh,aukamata Azrah,earthquake,14,reviewed,us,us, Afghanistan,2020,08
+25,35.6192,70.1051,103.51,4.0,mb,us70006vru,Bazarak,earthquake,7,reviewed,us,us, Afghanistan,2020,01
+26,32.568000000000005,78.4627,10.0,4.0,mb,us60008dp6,Manali,earthquake,11,reviewed,us,us, India,2020,03
+27,19.1257,96.3104,10.0,4.0,mb,us70007vwt,Taungoo,earthquake,5,reviewed,us,us, Myanmar,2020,02
+28,28.6107,87.2197,10.0,4.0,mb,us70008ffi,Lobujya,earthquake,17,reviewed,us,us, Nepal,2020,03
+29,34.9652,71.3367,78.77,4.0,mb,us70008nha,asmar,earthquake,5,reviewed,us,us, Afghanistan,2020,04
+30,16.8761,94.6443,10.0,4.0,mb,us70009nhw,Pathein,earthquake,5,reviewed,us,us, Myanmar,2020,05
+31,30.3816,95.0064,10.0,4.0,mb,us6000b3i2,Shi Yomi,earthquake,9,reviewed,us,us, India,2020,07
+32,30.4135,94.779,10.0,4.0,mb,us6000b55n,Shi Yomi,earthquake,9,reviewed,us,us, India,2020,07
+33,31.9185,90.3738,10.0,4.0,mb,us6000b9mk,Nagqu,earthquake,23,reviewed,us,us, China,2020,08
+34,6.8607,92.0497,10.0,4.0,mb,us7000bh5n,Nicobar Islands,earthquake,8,reviewed,us,us, India,2020,08
+35,27.2257,96.1444,57.98,4.0,mb,us6000caa9,Margherita,earthquake,33,reviewed,us,us, India,2020,10
+36,21.9881,94.3005,51.39,4.0,mb,us6000e1he,Monywa,earthquake,7,reviewed,us,us, Myanmar,2021,04
+37,26.7384,92.0993,47.0,4.0,mb,us7000e24v,Udalguri,earthquake,21,reviewed,us,us, India,2021,05
+38,7.0967,94.6894,218.53,4.0,mb,us7000e64u,Sabang,earthquake,16,reviewed,us,us, Indonesia,2021,05
+39,30.4246,94.6223,10.0,4.0,mb,us6000fsyz,Shi Yomi,earthquake,11,reviewed,us,us, India,2021,10
+40,27.7299,87.7713,10.0,4.1,mb,us7000cc8m,Khaadbariaa,earthquake,10,reviewed,us,us, Nepal,2020,11
+41,22.1166,68.96300000000001,10.0,4.1,mb,us70009d7u,Dwarka,earthquake,26,reviewed,us,us, India,2020,05
+42,22.2558,70.9928,10.0,4.1,mb,us7000apfs,Rajkot,earthquake,12,reviewed,us,us, India,2020,07
+43,33.0557,73.6156,10.0,4.1,mb,us7000aizr,New Mirpur,earthquake,13,reviewed,us,us, Pakistan,2020,07
+44,35.7041,77.8313,62.17,4.1,mb,us6000bzjp,Thang,earthquake,5,reviewed,us,us, India,2020,09
+45,32.87,85.3938,10.0,4.1,mb,us60008cxq,western Xizang,earthquake,30,reviewed,us,us,Tibet,2020,03
+46,21.7325,94.6242,90.29,4.1,mb,us70007pey,Pakokku,earthquake,31,reviewed,us,us, Myanmar,2020,02
+47,32.6222,96.4049,10.0,4.1,mb,us70008sjv,Qamdo,earthquake,22,reviewed,us,us, China,2020,04
+48,29.9853,69.5743,35.0,4.1,mb,us60009c7r,Barkhan,earthquake,11,reviewed,us,us, Pakistan,2020,04
+49,30.063000000000002,69.5508,41.46,4.1,mb,us60009c7n,Barkhan,earthquake,10,reviewed,us,us, Pakistan,2020,04
+50,28.1205,93.9189,10.0,4.1,mb,us60009as6,Ziro,earthquake,16,reviewed,us,us, India,2020,04
+51,20.9941,94.4334,83.34,4.1,mb,us70009aqe,Chauk,earthquake,16,reviewed,us,us, Myanmar,2020,05
+52,32.9792,85.6089,10.0,4.1,mb,us70009cfg,western Xizang,earthquake,11,reviewed,us,us,Tibet,2020,05
+53,16.6415,94.4169,10.0,4.1,mb,us70009fei,Pathein,earthquake,10,reviewed,us,us, Myanmar,2020,05
+54,32.8562,73.7592,10.0,4.1,mb,us6000ab0k,Sarai Alamgir,earthquake,8,reviewed,us,us, Pakistan,2020,06
+55,35.7606,82.3961,10.0,4.1,mb,us7000amgx,Hotan,earthquake,17,reviewed,us,us, China,2020,07
+56,35.6354,82.4634,10.0,4.1,mb,us7000aqi0,Hotan,earthquake,29,reviewed,us,us, China,2020,07
+57,30.3993,95.0824,10.0,4.1,mb,us7000aq79,Qamdo,earthquake,11,reviewed,us,us, China,2020,07
+58,29.3621,68.8105,10.0,4.1,mb,us7000arfw,Dera Bugti,earthquake,15,reviewed,us,us, Pakistan,2020,07
+59,28.4107,88.3259,10.0,4.1,mb,us6000b6f4,Mangan,earthquake,16,reviewed,us,us, India,2020,07
+60,29.8667,95.1399,10.0,4.1,mb,us6000b6u0,Shi Yomi,earthquake,17,reviewed,us,us, India,2020,07
+61,23.069000000000003,93.3699,10.0,4.1,mb,us6000b66q,North Vanlaiphai,earthquake,11,reviewed,us,us, India,2020,07
+62,30.3195,94.71700000000001,10.0,4.1,mb,us6000b5wv,Shi Yomi,earthquake,17,reviewed,us,us, India,2020,07
+63,31.1693,84.1935,10.0,4.1,mb,us6000bdck,Saga,earthquake,3,reviewed,us,us, China,2020,08
+64,30.388,94.8111,10.0,4.1,mb,us6000bg1x,Shi Yomi,earthquake,16,reviewed,us,us, India,2020,08
+65,34.4822,81.8958,10.0,4.1,mb,us6000b7uk,western Xizang,earthquake,11,reviewed,us,us,Tibet,2020,08
+66,35.5509,91.3127,10.0,4.1,mb,us7000ckdg,Southern Qinghai,earthquake,17,reviewed,us,us, China,2020,11
+67,33.3127,85.2675,10.0,4.1,mb,us7000bl6p,western Xizang,earthquake,16,reviewed,us,us,Tibet,2020,09
+68,14.0641,93.0643,10.0,4.1,mb,us7000bl69,Bamboo Flat,earthquake,6,reviewed,us,us, India,2020,09
+69,35.0666,69.0404,35.0,4.1,mb,us6000c2hl,Charikar,earthquake,8,reviewed,us,us, Afghanistan,2020,09
+70,23.5477,94.4335,74.11,4.1,mb,us6000c725,Mawlaik,earthquake,6,reviewed,us,us, Myanmar,2020,10
+71,35.0808,75.4717,51.43,4.1,mb,us6000c80y,Skardu,earthquake,6,reviewed,us,us, Pakistan,2020,10
+72,22.0856,94.6654,112.46,4.1,mb,us6000d26s,Monywa,earthquake,12,reviewed,us,us, Myanmar,2020,12
+73,33.4274,75.7158,10.0,4.1,mb,us6000d7f2,Kishtwar,earthquake,12,reviewed,us,us, India,2021,01
+74,28.028000000000002,87.7888,35.0,4.1,mb,us7000d1qk,Khaadbariaa,earthquake,10,reviewed,us,us, Nepal,2021,01
+75,22.7983,94.6878,108.51,4.1,mb,us7000d249,Monywa,earthquake,8,reviewed,us,us, Myanmar,2021,01
+76,24.9512,94.4749,47.39,4.1,mb,us6000ddgp,Yairipok,earthquake,13,reviewed,us,us, India,2021,01
+77,23.3318,94.5689,95.45,4.1,mb,us6000djj9,Mawlaik,earthquake,22,reviewed,us,us, Myanmar,2021,02
+78,28.8397,86.469,15.43,4.1,mb,us7000de7r,Lobujya,earthquake,22,reviewed,us,us, Nepal,2021,02
+79,22.3908,95.4803,22.58,4.1,mb,us7000dew5,Shwebo,earthquake,10,reviewed,us,us, Myanmar,2021,02
+80,34.5245,70.126,38.74,4.1,mb,us6000e38y,Mehtar Lam,earthquake,13,reviewed,us,us, Afghanistan,2021,04
+81,10.8839,91.5252,10.0,4.1,mb,us6000e39v,Bamboo Flat,earthquake,9,reviewed,us,us, India,2021,04
+82,30.3858,87.1751,10.0,4.1,mb,us7000dy98,Rikaze,earthquake,5,reviewed,us,us, China,2021,04
+83,14.5393,93.7329,25.9,4.1,mb,us7000e52w,Mawlamyinegyunn,earthquake,5,reviewed,us,us, Myanmar,2021,05
+84,23.593000000000004,94.5857,99.63,4.1,mb,us7000e66y,Mawlaik,earthquake,26,reviewed,us,us, Myanmar,2021,05
+85,20.6607,71.4793,10.0,4.1,mb,us7000e51v,Rajula,earthquake,21,reviewed,us,us, India,2021,05
+86,5.513999999999999,94.3168,44.23,4.1,mb,us6000etnn,Banda Aceh,earthquake,8,reviewed,us,us, Indonesia,2021,07
+87,16.4467,94.1222,15.42,4.1,mb,us6000f8dj,Pathein,earthquake,12,reviewed,us,us, Myanmar,2021,08
+88,8.6882,93.7196,10.0,4.1,mb,us6000f5mb,Nicobar Islands,earthquake,8,reviewed,us,us, India,2021,08
+89,10.7582,94.4328,10.0,4.1,mb,us7000f6ry,Port Blair,earthquake,9,reviewed,us,us, India,2021,08
+90,24.9292,96.3874,10.0,4.1,mb,us6000fr6v,Myitkyina,earthquake,6,reviewed,us,us, Myanmar,2021,10
+91,33.7398,88.5572,10.0,4.2,mb,us7000cjv6,western Xizang,earthquake,16,reviewed,us,us,Tibet,2020,11
+92,31.703000000000003,93.4001,10.0,4.2,mb,us7000c8qd,Nagqu,earthquake,39,reviewed,us,us, China,2020,10
+93,26.4904,92.1052,45.39,4.2,mb,us60008735,Kharupatia,earthquake,41,reviewed,us,us, India,2020,02
+94,29.1724,77.0219,10.0,4.2,mb,us6000a1wn,Uttar Pradesh,earthquake,12,reviewed,us,us, India,2020,05
+95,24.8316,91.1391,30.48,4.2,mb,us6000a4u4,Baniachang,earthquake,24,reviewed,us,us, Bangladesh,2020,06
+96,23.1226,93.2923,10.0,4.2,mb,us6000bei5,North Vanlaiphai,earthquake,16,reviewed,us,us, India,2020,08
+97,26.2024,91.3108,44.3,4.2,mb,us6000c584,Hajo,earthquake,32,reviewed,us,us, India,2020,10
+98,28.8329,91.973,10.0,4.2,mb,us70007149,Lhasa,earthquake,5,reviewed,us,us, China,2020,01
+99,32.9646,76.3114,10.0,4.2,mb,us60008612,Chamba,earthquake,16,reviewed,us,us, India,2020,02
+100,23.05,94.8537,134.31,4.2,mb,us70007m6w,Mawlaik,earthquake,18,reviewed,us,us, Myanmar,2020,02
+101,32.7852,85.5166,10.0,4.2,mb,us60008cme,western Xizang,earthquake,21,reviewed,us,us,Tibet,2020,03
+102,32.6753,85.455,10.0,4.2,mb,us60008g3i,western Xizang,earthquake,22,reviewed,us,us,Tibet,2020,03
+103,32.7173,85.4732,10.0,4.2,mb,us60008c3e,western Xizang,earthquake,23,reviewed,us,us,Tibet,2020,03
+104,22.5718,93.5958,47.14,4.2,mb,us70007u6g,Hakha,earthquake,15,reviewed,us,us, Myanmar,2020,02
+105,20.5448,93.6698,10.0,4.2,mb,us70008x0g,Sittwe,earthquake,9,reviewed,us,us, Myanmar,2020,04
+106,17.3704,95.1694,64.38,4.2,mb,us60009bkn,Hinthada,earthquake,11,reviewed,us,us, Myanmar,2020,04
+107,33.195,75.926,46.75,4.2,mb,us7000aeua,Kishtwar,earthquake,22,reviewed,us,us, India,2020,06
+108,12.9095,92.6873,10.0,4.2,mb,us7000ahew,Bamboo Flat,earthquake,13,reviewed,us,us, India,2020,06
+109,34.2918,71.0348,10.0,4.2,mb,us60009ztl,Shinpokh,earthquake,9,reviewed,us,us, Pakistan,2020,05
+110,21.9396,94.9061,122.4,4.2,mb,us7000ac71,Monywa,earthquake,25,reviewed,us,us, Myanmar,2020,06
+111,22.7767,94.6,100.69,4.2,mb,us6000aawn,Monywa,earthquake,9,reviewed,us,us, Myanmar,2020,06
+112,35.5573,82.5463,10.0,4.2,mb,us7000as36,Hotan,earthquake,13,reviewed,us,us, China,2020,07
+113,33.2056,87.0518,10.0,4.2,mb,us6000b2h5,western Xizang,earthquake,16,reviewed,us,us,Tibet,2020,07
+114,35.5442,69.1392,112.9,4.2,mb,us6000b3b5,Bazarak,earthquake,8,reviewed,us,us, Afghanistan,2020,07
+115,30.6463,94.8878,10.0,4.2,mb,us6000b3hr,Qamdo,earthquake,33,reviewed,us,us, China,2020,07
+116,33.1896,86.8557,10.0,4.2,mb,us6000b5y0,western Xizang,earthquake,10,reviewed,us,us,Tibet,2020,07
+117,30.3574,94.7728,10.0,4.2,mb,us6000b7kk,Shi Yomi,earthquake,43,reviewed,us,us, India,2020,07
+118,23.3677,94.3314,85.31,4.2,mb,us7000ash7,Mawlaik,earthquake,11,reviewed,us,us, Myanmar,2020,07
+119,31.968000000000004,93.5326,10.0,4.2,mb,us6000ba2u,Nagqu,earthquake,21,reviewed,us,us, China,2020,07
+120,22.5997,94.5465,102.78,4.2,mb,us7000be94,Monywa,earthquake,11,reviewed,us,us, Myanmar,2020,08
+121,33.2201,85.30799999999999,10.0,4.2,mb,us6000c2j7,western Xizang,earthquake,18,reviewed,us,us,Tibet,2020,09
+122,30.2312,70.0859,10.0,4.2,mb,us6000c7hh,Dera Ghazi Khan,earthquake,17,reviewed,us,us, Pakistan,2020,10
+123,29.4069,80.8988,10.0,4.2,mb,us7000c9s1,Dipayal,earthquake,10,reviewed,us,us, Nepal,2020,10
+124,30.0793,96.1336,10.0,4.2,mb,us6000c7sq,Eastern Xizang,earthquake,16,reviewed,us,us,Tibet,2020,10
+125,33.3981,90.0814,10.0,4.2,mb,us6000caqq,Nagqu,earthquake,31,reviewed,us,us, China,2020,10
+126,33.866,74.9266,10.0,4.2,mb,us7000cr0b,Pulwama,earthquake,2,reviewed,us,us, India,2020,12
+127,23.0317,94.2086,76.92,4.2,mb,us7000crma,Falam,earthquake,10,reviewed,us,us, Myanmar,2020,12
+128,34.6475,73.1544,10.0,4.2,mb,us6000d6er,Battagram,earthquake,8,reviewed,us,us, Pakistan,2020,12
+129,24.8799,93.3739,10.0,4.2,mb,us6000d82z,Lakhipur,earthquake,29,reviewed,us,us, India,2021,01
+130,26.293000000000003,95.7822,80.92,4.2,mb,us6000def4,Khonsa,earthquake,2,reviewed,us,us, India,2021,01
+131,22.7,95.8415,20.12,4.2,mb,us7000dew3,Shwebo,earthquake,12,reviewed,us,us, Myanmar,2021,02
+132,30.3274,70.5179,10.0,4.2,mb,us6000e38b,Dera Ghazi Khan,earthquake,16,reviewed,us,us, Pakistan,2021,04
+133,26.418000000000003,95.5047,85.91,4.2,mb,us7000e38n,Mon,earthquake,14,reviewed,us,us, India,2021,05
+134,26.7662,92.5133,35.0,4.2,mb,us7000e0d3,Dhekiajuli,earthquake,7,reviewed,us,us, India,2021,04
+135,26.5945,92.4813,48.29,4.2,mb,us7000e2dg,Dhekiajuli,earthquake,6,reviewed,us,us, India,2021,05
+136,6.9626,92.3578,10.0,4.2,mb,us6000dxf7,Nicobar Islands,earthquake,7,reviewed,us,us, India,2021,03
+137,26.6195,92.5148,10.0,4.2,mb,us6000dxfb,Dhekiajuli,earthquake,27,reviewed,us,us, India,2021,03
+138,26.7632,92.3186,34.13,4.2,mb,us6000eg46,Dhekiajuli,earthquake,20,reviewed,us,us, India,2021,05
+139,7.2816,94.4207,10.0,4.2,mb,us7000edvp,Sabang,earthquake,11,reviewed,us,us, Indonesia,2021,06
+140,25.8803,96.7988,55.36,4.2,mb,us7000e1tg,Sarupathar,earthquake,12,reviewed,us,us, India,2021,05
+141,5.4551,94.4104,66.36,4.2,mb,us7000eeyv,Banda Aceh,earthquake,10,reviewed,us,us, Indonesia,2021,06
+142,22.4613,94.1567,39.36,4.2,mb,us7000elzr,Hakha,earthquake,15,reviewed,us,us, Myanmar,2021,07
+143,11.0785,93.4623,96.69,4.2,mb,us7000elju,Port Blair,earthquake,14,reviewed,us,us, India,2021,07
+144,29.7653,94.5571,10.0,4.2,mb,us6000f7z6,Shi Yomi,earthquake,9,reviewed,us,us, India,2021,08
+145,20.4478,92.3214,10.0,4.2,mb,us6000f3lz,Teknaf,earthquake,5,reviewed,us,us, Bangladesh,2021,08
+146,29.3394,70.1331,10.0,4.2,mb,us6000ezf0,Rajanpur,earthquake,13,reviewed,us,us, Pakistan,2021,07
+147,6.6032,94.4967,10.0,4.2,mb,us6000f5mj,Sabang,earthquake,5,reviewed,us,us, Indonesia,2021,08
+148,10.2773,93.9046,10.0,4.2,mb,us7000f9rj,Port Blair,earthquake,14,reviewed,us,us, India,2021,09
+149,13.6444,93.5461,35.0,4.2,mb,us7000fa1b,Bamboo Flat,earthquake,10,reviewed,us,us, India,2021,09
+150,10.1169,91.4548,10.0,4.2,mb,us7000fa1d,Port Blair,earthquake,13,reviewed,us,us, India,2021,09
+151,22.1407,79.6342,10.0,4.3,mb,us6000crc4,Seoni,earthquake,37,reviewed,us,us, India,2020,11
+152,28.6287,96.3987,10.0,4.3,mb,us7000cc28,Hayuliang,earthquake,34,reviewed,us,us, India,2020,11
+153,24.2021,94.1977,65.34,4.3,mb,us7000cduh,Kakching,earthquake,9,reviewed,us,us, India,2020,11
+154,26.2945,94.7728,60.63,4.3,mb,us6000crdq,Tuensang,earthquake,12,reviewed,us,us, India,2020,11
+155,25.1948,96.4551,10.0,4.3,mb,us7000cdah,Myanmar,earthquake,15,reviewed,us,us,Tibet,2020,11
+156,14.0029,92.5614,10.0,4.3,mb,us6000csin,Bamboo Flat,earthquake,5,reviewed,us,us, India,2020,11
+157,13.7389,92.4013,10.0,4.3,mb,us6000cqrt,Bamboo Flat,earthquake,12,reviewed,us,us, India,2020,11
+158,26.1291,90.5453,10.0,4.3,mb,us7000cptt,Goalpara,earthquake,32,reviewed,us,us, India,2020,12
+159,28.2184,83.5923,10.0,4.3,mb,us60008g2y,Baglung,earthquake,44,reviewed,us,us, Nepal,2020,03
+160,32.9731,76.4202,10.0,4.3,mb,us70008idc,Chamba,earthquake,16,reviewed,us,us, India,2020,03
+161,34.4604,68.9654,10.0,4.3,mb,us70009k2j,Maydanshakhr,earthquake,13,reviewed,us,us, Afghanistan,2020,05
+162,27.8896,84.8784,10.0,4.3,mb,us6000a3bl,Kirtipur,earthquake,27,reviewed,us,us, Nepal,2020,05
+163,28.142,76.5366,30.38,4.3,mb,us7000ahde,Bawal,earthquake,21,reviewed,us,us, India,2020,07
+164,29.4841,81.5921,10.0,4.3,mb,us70006yvh,Jumla,earthquake,15,reviewed,us,us, Nepal,2020,01
+165,23.6781,94.5148,94.42,4.3,mb,us70006zgm,Mawlaik,earthquake,15,reviewed,us,us, Myanmar,2020,01
+166,30.3664,85.5587,10.0,4.3,mb,us70006uzp,Saga,earthquake,21,reviewed,us,us, China,2020,01
+167,30.9589,69.8631,10.0,4.3,mb,us60007hjw,Zhob,earthquake,32,reviewed,us,us, Pakistan,2020,01
+168,8.0784,94.0198,10.0,4.3,mb,us7000713k,Sabang,earthquake,15,reviewed,us,us, Indonesia,2020,01
+169,10.5177,94.0622,10.0,4.3,mb,us70007nyd,Port Blair,earthquake,26,reviewed,us,us, India,2020,02
+170,24.4383,94.9928,115.32,4.3,mb,us70007kw7,Wangjing,earthquake,13,reviewed,us,us, India,2020,01
+171,35.6198,74.5363,10.0,4.3,mb,us70007vxz,Gilgit,earthquake,12,reviewed,us,us, Pakistan,2020,02
+172,32.0214,94.7889,10.0,4.3,mb,us600089dg,Qamdo,earthquake,25,reviewed,us,us, China,2020,03
+173,34.4893,85.8489,10.0,4.3,mb,us70008fp0,western Xizang,earthquake,13,reviewed,us,us,Tibet,2020,03
+174,6.4531,92.6013,10.0,4.3,mb,us70008gwf,Nicobar Islands,earthquake,21,reviewed,us,us, India,2020,03
+175,31.6054,93.5107,30.21,4.3,mb,us70008zg8,Nagqu,earthquake,67,reviewed,us,us, China,2020,04
+176,32.2161,89.5179,10.0,4.3,mb,us700097vu,Nagqu,earthquake,47,reviewed,us,us, China,2020,04
+177,12.0153,92.9576,38.0,4.3,mb,us700090hi,Bamboo Flat,earthquake,6,reviewed,us,us, India,2020,04
+178,7.4016,92.2583,10.0,4.3,mb,us70008k9z,Nicobar Islands,earthquake,12,reviewed,us,us, India,2020,03
+179,35.7311,74.5266,35.0,4.3,mb,us60009dbz,Gilgit,earthquake,10,reviewed,us,us, Pakistan,2020,04
+180,5.8861,95.8214,19.79,4.3,mb,us700091t8,Sabang,earthquake,6,reviewed,us,us, Indonesia,2020,04
+181,11.3192,93.5383,103.13,4.3,mb,us70009npp,Port Blair,earthquake,29,reviewed,us,us, India,2020,05
+182,32.7694,85.4486,10.0,4.3,mb,us70009ne4,western Xizang,earthquake,23,reviewed,us,us,Tibet,2020,05
+183,35.7378,82.4574,10.0,4.3,mb,us7000acxr,Hotan,earthquake,21,reviewed,us,us, China,2020,06
+184,35.7015,82.4897,10.0,4.3,mb,us7000abqy,Hotan,earthquake,27,reviewed,us,us, China,2020,06
+185,35.6096,82.4316,10.0,4.3,mb,us7000abqj,Hotan,earthquake,26,reviewed,us,us, China,2020,06
+186,15.1779,96.2038,10.0,4.3,mb,us7000afrb,Pyapon,earthquake,9,reviewed,us,us, Myanmar,2020,06
+187,32.9435,86.6104,10.0,4.3,mb,us6000b2dh,western Xizang,earthquake,29,reviewed,us,us,Tibet,2020,07
+188,30.4782,87.4178,10.0,4.3,mb,us6000b3nm,Rikaze,earthquake,54,reviewed,us,us, China,2020,07
+189,33.2057,86.8606,10.0,4.3,mb,us6000b5cw,western Xizang,earthquake,17,reviewed,us,us,Tibet,2020,07
+190,33.1168,86.7663,10.0,4.3,mb,us6000b5xs,western Xizang,earthquake,13,reviewed,us,us,Tibet,2020,07
+191,33.4991,71.4493,10.0,4.3,mb,us7000afqt,Kohat,earthquake,23,reviewed,us,us, Pakistan,2020,06
+192,24.5305,94.8553,103.06,4.3,mb,us6000baqp,Wangjing,earthquake,5,reviewed,us,us, India,2020,08
+193,30.3418,95.04,10.0,4.3,mb,us6000ba2m,Shi Yomi,earthquake,12,reviewed,us,us, India,2020,07
+194,24.2129,93.9507,59.16,4.3,mb,us6000bcmi,Churachandpur,earthquake,36,reviewed,us,us, India,2020,08
+195,29.555999999999997,80.9299,10.0,4.3,mb,us7000bcp6,Dipayal,earthquake,16,reviewed,us,us, Nepal,2020,08
+196,7.3494,93.3176,40.31,4.3,mb,us6000bg1i,Sabang,earthquake,10,reviewed,us,us, Indonesia,2020,08
+197,23.9905,94.8835,127.25,4.3,mb,us7000bl8x,Mawlaik,earthquake,9,reviewed,us,us, Myanmar,2020,09
+198,33.076,73.6571,10.0,4.3,mb,us7000blew,New Mirpur,earthquake,28,reviewed,us,us, Pakistan,2020,09
+199,18.2351,95.1077,33.21,4.3,mb,us7000bggc,Myanaung,earthquake,18,reviewed,us,us, Myanmar,2020,08
+200,24.6057,92.3782,39.89,4.3,mb,us6000b2u6,Hailakandi,earthquake,63,reviewed,us,us, India,2020,07
+201,20.6448,94.4032,78.19,4.3,mb,us6000c5hh,Chauk,earthquake,14,reviewed,us,us, Myanmar,2020,10
+202,22.278000000000002,95.016,76.13,4.3,mb,us7000bhu5,Monywa,earthquake,11,reviewed,us,us, Myanmar,2020,09
+203,12.1851,95.7845,10.0,4.3,mb,us6000c9yq,Andaman Islands,earthquake,11,reviewed,us,us, India,2020,10
+204,10.1668,93.6071,10.0,4.3,mb,us7000cl6l,Port Blair,earthquake,12,reviewed,us,us, India,2020,11
+205,32.022,69.074,45.61,4.3,mb,us6000c90n,Wana,earthquake,33,reviewed,us,us, Pakistan,2020,10
+206,23.6359,93.5159,61.32,4.3,mb,us7000d0pu,Khawhai,earthquake,30,reviewed,us,us, India,2021,01
+207,24.326,95.0289,117.91,4.3,mb,us7000d2iy,Mawlaik,earthquake,26,reviewed,us,us, Myanmar,2021,01
+208,7.4656,93.5259,43.43,4.3,mb,us7000d3pj,Sabang,earthquake,10,reviewed,us,us, Indonesia,2021,01
+209,25.6158,96.65700000000001,10.0,4.3,mb,us6000d2jw,Sarupathar,earthquake,16,reviewed,us,us, India,2020,12
+210,28.0331,87.8568,35.0,4.3,mb,us6000dfsj,Mangan,earthquake,38,reviewed,us,us, India,2021,02
+211,26.0588,96.3433,10.0,4.3,mb,us7000d3f8,Sarupathar,earthquake,30,reviewed,us,us, India,2021,01
+212,35.4265,91.1933,10.0,4.3,mb,us6000dwim,Southern Qinghai,earthquake,39,reviewed,us,us, China,2021,03
+213,31.9489,93.059,10.0,4.3,mb,us6000e1if,Nagqu,earthquake,30,reviewed,us,us, China,2021,04
+214,31.9252,93.01700000000001,10.0,4.3,mb,us6000dwpr,Nagqu,earthquake,54,reviewed,us,us, China,2021,03
+215,34.4826,87.6043,10.0,4.3,mb,us6000e0b7,western Xizang,earthquake,38,reviewed,us,us,Tibet,2021,04
+216,10.4547,93.8204,10.0,4.3,mb,us7000dxx5,Port Blair,earthquake,19,reviewed,us,us, India,2021,04
+217,24.2389,94.51299999999999,95.31,4.3,mb,us7000e0qx,Wangjing,earthquake,11,reviewed,us,us, India,2021,04
+218,31.9601,92.926,10.0,4.3,mb,us7000e52e,Eastern Xizang,earthquake,30,reviewed,us,us,Tibet,2021,05
+219,17.7099,94.1714,10.0,4.3,mb,us6000dy6c,Pathein,earthquake,8,reviewed,us,us, Myanmar,2021,03
+220,22.9496,94.5814,95.83,4.3,mb,us6000efgh,Mawlaik,earthquake,8,reviewed,us,us, Myanmar,2021,05
+221,34.3128,81.7049,10.0,4.3,mb,us7000eb4l,western Xizang,earthquake,18,reviewed,us,us,Tibet,2021,06
+222,29.2822,87.124,10.0,4.3,mb,us7000eew5,Lobujya,earthquake,16,reviewed,us,us, Nepal,2021,06
+223,25.9749,90.3995,10.0,4.3,mb,us6000etjs,Lakhipur,earthquake,24,reviewed,us,us, India,2021,07
+224,8.9515,94.1539,10.0,4.3,mb,us6000f46k,Nicobar Islands,earthquake,9,reviewed,us,us, India,2021,08
+225,6.8041,94.1346,65.06,4.3,mb,us6000f2g5,Sabang,earthquake,13,reviewed,us,us, Indonesia,2021,07
+226,35.3951,89.2934,10.0,4.3,mb,us7000f58p,western Xizang,earthquake,23,reviewed,us,us,Tibet,2021,08
+227,8.7263,93.9675,10.0,4.3,mb,us6000f8dd,Nicobar Islands,earthquake,8,reviewed,us,us, India,2021,08
+228,10.9134,91.5518,10.0,4.3,mb,us7000f9dk,Bamboo Flat,earthquake,10,reviewed,us,us, India,2021,08
+229,33.7409,76.4233,10.0,4.3,mb,us7000fanp,Padam,earthquake,21,reviewed,us,us, India,2021,09
+230,34.0777,78.4395,10.0,4.3,mb,us6000ezhw,Leh,earthquake,8,reviewed,us,us, India,2021,07
+231,30.4798,69.9279,10.0,4.3,mb,us7000ff89,Taunsa,earthquake,10,reviewed,us,us, Pakistan,2021,09
+232,8.9911,94.0466,10.0,4.3,mb,us6000f46w,Nicobar Islands,earthquake,7,reviewed,us,us, India,2021,08
+233,35.6088,82.4066,10.0,4.3,mb,us6000ft5h,Hotan,earthquake,18,reviewed,us,us, China,2021,10
+234,33.7795,91.9605,10.0,4.3,mb,us6000fudy,Nagqu,earthquake,29,reviewed,us,us, China,2021,10
+235,23.6075,94.8884,107.53,4.3,mb,us7000fcx3,Mawlaik,earthquake,6,reviewed,us,us, Myanmar,2021,09
+236,17.1543,77.0051,10.0,4.3,mb,us6000fuwm,Shahabad,earthquake,16,reviewed,us,us, India,2021,10
+237,23.1224,92.2965,44.64,4.4,mb,us6000ccf2,Khagrachhari,earthquake,18,reviewed,us,us, Bangladesh,2020,10
+238,33.713,88.5012,10.0,4.4,mb,us7000ckid,western Xizang,earthquake,35,reviewed,us,us,Tibet,2020,11
+239,28.5808,87.2271,10.0,4.4,mb,us6000crma,Lobujya,earthquake,31,reviewed,us,us, Nepal,2020,11
+240,19.7608,95.8596,10.0,4.4,mb,us60007pe6,Nay Pyi Taw,earthquake,23,reviewed,us,us, Myanmar,2020,02
+241,34.5903,69.0436,9.82,4.4,mb,us7000aiuv,Paghman,earthquake,19,reviewed,us,us, Afghanistan,2020,07
+242,27.2464,87.7715,10.0,4.4,mb,us7000blkr,Ilam,earthquake,32,reviewed,us,us, Nepal,2020,09
+243,26.2803,91.3167,39.62,4.4,mb,us6000bzfi,Hajo,earthquake,25,reviewed,us,us, India,2020,09
+244,34.0837,74.7947,10.0,4.4,mb,us6000bzub,Srinagar,earthquake,3,reviewed,us,us, India,2020,09
+245,23.3836,94.5477,90.39,4.4,mb,us6000c04a,Mawlaik,earthquake,24,reviewed,us,us, Myanmar,2020,09
+246,29.9815,85.4049,10.0,4.4,mb,us70006uzj,Saga,earthquake,28,reviewed,us,us, China,2020,01
+247,29.4848,81.705,10.0,4.4,mb,us60007et1,Jumla,earthquake,36,reviewed,us,us, Nepal,2020,01
+248,11.1225,93.5904,129.96,4.4,mb,us70007ksx,Port Blair,earthquake,38,reviewed,us,us, India,2020,02
+249,34.547,70.5826,10.0,4.4,mb,us60007p4i,Jalalabad,earthquake,22,reviewed,us,us, Afghanistan,2020,02
+250,8.5032,92.5426,10.0,4.4,mb,us70007rxk,Nicobar Islands,earthquake,21,reviewed,us,us, India,2020,02
+251,12.8396,92.6303,10.0,4.4,mb,us70007q7n,Bamboo Flat,earthquake,7,reviewed,us,us, India,2020,02
+252,32.7903,85.6582,10.0,4.4,mb,us70008c4d,western Xizang,earthquake,21,reviewed,us,us,Tibet,2020,03
+253,35.6065,74.5291,10.0,4.4,mb,us70007u9h,Gilgit,earthquake,19,reviewed,us,us, Pakistan,2020,02
+254,32.6292,85.4271,10.0,4.4,mb,us70008sd4,western Xizang,earthquake,14,reviewed,us,us,Tibet,2020,04
+255,29.2723,95.1896,10.0,4.4,mb,us70008qir,Shi Yomi,earthquake,31,reviewed,us,us, India,2020,04
+256,25.1038,96.351,10.0,4.4,mb,us70008hf0,Myitkyina,earthquake,18,reviewed,us,us, Myanmar,2020,03
+257,12.1157,92.936,32.59,4.4,mb,us60009dff,Bamboo Flat,earthquake,29,reviewed,us,us, India,2020,04
+258,32.5421,79.491,10.0,4.4,mb,us6000a0vp,Sarahan,earthquake,23,reviewed,us,us, India,2020,05
+259,12.6084,93.2388,59.16,4.4,mb,us6000a6h3,Bamboo Flat,earthquake,18,reviewed,us,us, India,2020,05
+260,24.6766,94.5933,57.96,4.4,mb,us7000adgj,Wangjing,earthquake,29,reviewed,us,us, India,2020,06
+261,23.1172,93.3785,10.0,4.4,mb,us7000aq8x,North Vanlaiphai,earthquake,38,reviewed,us,us, India,2020,07
+262,33.1468,86.8128,10.0,4.4,mb,us6000b35t,western Xizang,earthquake,22,reviewed,us,us,Tibet,2020,07
+263,34.1959,90.7802,10.0,4.4,mb,us7000at5s,Southern Qinghai,earthquake,40,reviewed,us,us, China,2020,07
+264,8.8774,93.9083,10.0,4.4,mb,us7000aqev,Nicobar Islands,earthquake,9,reviewed,us,us, India,2020,07
+265,33.1501,86.8946,10.0,4.4,mb,us6000b5xt,western Xizang,earthquake,12,reviewed,us,us,Tibet,2020,07
+266,24.6068,92.3957,39.62,4.4,mb,us6000b54f,Hailakandi,earthquake,14,reviewed,us,us, India,2020,07
+267,30.1907,94.7613,10.0,4.4,mb,us6000b55p,Shi Yomi,earthquake,21,reviewed,us,us, India,2020,07
+268,24.605999999999998,94.8877,30.68,4.4,mb,us6000b2q0,Wangjing,earthquake,13,reviewed,us,us, India,2020,07
+269,30.3255,94.7921,10.0,4.4,mb,us6000bcy3,Shi Yomi,earthquake,43,reviewed,us,us, India,2020,08
+270,31.6784,93.34700000000001,10.0,4.4,mb,us7000bhup,Nagqu,earthquake,21,reviewed,us,us, China,2020,09
+271,30.3141,94.7804,10.0,4.4,mb,us6000bdu6,Shi Yomi,earthquake,33,reviewed,us,us, India,2020,08
+272,31.6455,93.406,26.87,4.4,mb,us7000bir0,Eastern Xizang,earthquake,45,reviewed,us,us,Tibet,2020,09
+273,7.3774,94.5426,10.0,4.4,mb,us6000c17x,Sabang,earthquake,15,reviewed,us,us, Indonesia,2020,09
+274,32.3518,80.5666,10.0,4.4,mb,us6000c6hc,Joshamath,earthquake,22,reviewed,us,us, India,2020,10
+275,35.2459,71.9924,68.28,4.4,mb,us6000cckz,Upper Dir,earthquake,20,reviewed,us,us, Pakistan,2020,10
+276,30.4031,69.5683,10.0,4.4,mb,us6000cdas,Barkhan,earthquake,17,reviewed,us,us, Pakistan,2020,10
+277,33.4944,75.735,10.0,4.4,mb,us7000cc3t,eastern Kashmir,earthquake,23,reviewed,us,us,Tibet,2020,11
+278,12.2219,93.7095,75.77,4.4,mb,us6000c64x,Port Blair,earthquake,24,reviewed,us,us, India,2020,09
+279,25.4629,96.6657,10.0,4.4,mb,us6000d5su,Myitkyina,earthquake,58,reviewed,us,us, Myanmar,2020,12
+280,13.1762,92.5357,29.29,4.4,mb,us6000deej,Bamboo Flat,earthquake,21,reviewed,us,us, India,2021,01
+281,13.9209,96.4846,10.0,4.4,mb,us6000dh3s,Dawei,earthquake,8,reviewed,us,us, Myanmar,2021,02
+282,9.1314,93.8707,10.0,4.4,mb,us6000djgm,Nicobar Islands,earthquake,8,reviewed,us,us, India,2021,02
+283,29.2546,69.7957,10.0,4.4,mb,us7000ddkh,Rajanpur,earthquake,19,reviewed,us,us, Pakistan,2021,02
+284,22.9602,94.4802,102.99,4.4,mb,us6000dj5j,Mawlaik,earthquake,25,reviewed,us,us, Myanmar,2021,02
+285,9.9295,93.1765,8.01,4.4,mb,us7000dxx4,Port Blair,earthquake,13,reviewed,us,us, India,2021,04
+286,26.753,92.4736,43.8,4.4,mb,us7000e3ar,Dhekiajuli,earthquake,18,reviewed,us,us, India,2021,05
+287,26.8262,92.5371,35.0,4.4,mb,us7000e0c4,Rangapara,earthquake,19,reviewed,us,us, India,2021,04
+288,20.0893,95.7789,10.0,4.4,mb,us7000e57r,Taungdwingyi,earthquake,24,reviewed,us,us, Myanmar,2021,05
+289,24.7351,95.0955,103.92,4.4,mb,us7000e5ej,Wangjing,earthquake,18,reviewed,us,us, India,2021,05
+290,26.6713,92.4258,49.81,4.4,mb,us7000e42g,Dhekiajuli,earthquake,77,reviewed,us,us, India,2021,05
+291,26.6343,92.32600000000001,52.85,4.4,mb,us6000efyu,Dhekiajuli,earthquake,31,reviewed,us,us, India,2021,05
+292,31.9486,95.0989,13.72,4.4,mb,us6000efbk,Qamdo,earthquake,46,reviewed,us,us, China,2021,05
+293,10.7126,91.5096,10.0,4.4,mb,us6000egpz,Bamboo Flat,earthquake,5,reviewed,us,us, India,2021,05
+294,23.2381,94.6949,111.49,4.4,mb,us6000eged,Mawlaik,earthquake,19,reviewed,us,us, Myanmar,2021,05
+295,34.5637,70.3727,34.73,4.4,mb,us7000edcg,Jalalabad,earthquake,38,reviewed,us,us, Afghanistan,2021,06
+296,23.2137,94.1338,101.68,4.4,mb,us6000f2sy,Mawlaik,earthquake,23,reviewed,us,us, Myanmar,2021,08
+297,25.0993,94.9275,99.59,4.4,mb,us6000f2a5,Phek,earthquake,24,reviewed,us,us, India,2021,08
+298,34.9229,91.0351,10.69,4.4,mb,us6000ezxr,Southern Qinghai,earthquake,23,reviewed,us,us, China,2021,07
+299,9.0695,94.2481,10.0,4.4,mb,us6000f4ic,Nicobar Islands,earthquake,12,reviewed,us,us, India,2021,08
+300,22.5189,94.2094,39.54,4.4,mb,us6000f5mq,Hakha,earthquake,13,reviewed,us,us, Myanmar,2021,08
+301,10.4507,93.2806,87.8,4.4,mb,us7000fb56,Port Blair,earthquake,44,reviewed,us,us, India,2021,09
+302,35.7887,68.5348,33.68,4.4,mb,us7000f4mz,aukamata Dahanah ye Ghara,earthquake,9,reviewed,us,us, Afghanistan,2021,08
+303,23.6577,94.5361,93.27,4.4,mb,us7000fbps,Mawlaik,earthquake,8,reviewed,us,us, Myanmar,2021,09
+304,17.1146,77.1124,15.33,4.4,mb,us7000f6av,Chatapur,earthquake,17,reviewed,us,us, India,2021,08
+305,27.4834,85.9978,10.0,4.4,mb,us7000fc3k,Dhulikhel,earthquake,7,reviewed,us,us, Nepal,2021,09
+306,5.6284,78.9308,10.0,4.4,mb,us7000ff7l,Ambalangoda,earthquake,8,reviewed,us,us, Sri Lanka,2021,09
+307,11.7507,95.2935,24.04,4.4,mb,us6000fqf0,Port Blair,earthquake,18,reviewed,us,us, India,2021,09
+308,10.1164,91.5131,10.0,4.4,mb,us7000fa1e,Port Blair,earthquake,18,reviewed,us,us, India,2021,09
+309,8.7361,93.9754,10.0,4.4,mb,us6000f5jg,Nicobar Islands,earthquake,6,reviewed,us,us, India,2021,08
+310,30.2615,94.8136,34.18,4.4,mb,us6000fqga,Shi Yomi,earthquake,31,reviewed,us,us, India,2021,09
+311,24.9595,94.9967,10.0,4.5,mb,us6000cr52,Phek,earthquake,31,reviewed,us,us, India,2020,11
+312,30.1884,88.1002,10.0,4.5,mb,us6000crcf,Rikaze,earthquake,29,reviewed,us,us, China,2020,11
+313,13.9453,92.9836,10.0,4.5,mb,us7000cdfr,Bamboo Flat,earthquake,21,reviewed,us,us, India,2020,11
+314,34.1948,78.1585,10.0,4.5,mb,us7000c8na,Leh,earthquake,23,reviewed,us,us, India,2020,10
+315,27.5457,87.0358,27.68,4.5,mb,us7000ck3c,Khaadbariaa,earthquake,9,reviewed,us,us, Nepal,2020,11
+316,22.7939,94.4538,104.48,4.5,mb,us7000ceh0,Falam,earthquake,13,reviewed,us,us, Myanmar,2020,11
+317,16.6775,79.8979,10.0,4.5,mb,us60007fyl,Jaggayyapeta,earthquake,42,reviewed,us,us, India,2020,01
+318,24.7732,91.7364,10.0,4.5,mb,us60007h26,Jahedpur,earthquake,39,reviewed,us,us, Bangladesh,2020,01
+319,7.3359,73.6458,10.0,4.5,mb,us70007jey,Dhidhdhoo,earthquake,31,reviewed,us,us, Maldives,2020,02
+320,7.968999999999999,92.5087,10.0,4.5,mb,us70008f3x,Nicobar Islands,earthquake,23,reviewed,us,us, India,2020,03
+321,26.4085,92.7724,46.31,4.5,mb,us70008pdi,Tezpur,earthquake,48,reviewed,us,us, India,2020,04
+322,33.042,73.6132,10.0,4.5,mb,us7000ajnr,Jhelum,earthquake,45,reviewed,us,us, Pakistan,2020,07
+323,33.2812,72.6123,10.0,4.5,mb,us7000be7y,Pindi Gheb,earthquake,30,reviewed,us,us, Pakistan,2020,08
+324,35.3465,69.604,10.0,4.5,mb,us6000b7v0,Bazarak,earthquake,17,reviewed,us,us, Afghanistan,2020,08
+325,25.7773,91.1728,10.0,4.5,mb,us7000c9e3,Nongstoin,earthquake,48,reviewed,us,us, India,2020,11
+326,28.7675,91.7966,10.0,4.5,mb,us60007jiz,Lhasa,earthquake,65,reviewed,us,us, China,2020,01
+327,35.6993,75.2078,10.0,4.5,mb,us60007h9c,Skardu,earthquake,5,reviewed,us,us, Pakistan,2020,01
+328,35.2945,71.8197,58.81,4.5,mb,us600085v8,Upper Dir,earthquake,38,reviewed,us,us, Pakistan,2020,02
+329,25.8362,96.7751,10.0,4.5,mb,us600089zy,Sarupathar,earthquake,27,reviewed,us,us, India,2020,03
+330,32.696999999999996,76.14399999999999,10.0,4.5,mb,us70008h7l,Chamba,earthquake,42,reviewed,us,us, India,2020,03
+331,23.2305,96.1055,10.0,4.5,mb,us60008e97,Mogok,earthquake,19,reviewed,us,us, Myanmar,2020,03
+332,25.0857,95.0671,101.49,4.5,mb,us70008hem,Phek,earthquake,21,reviewed,us,us, India,2020,03
+333,22.7356,94.0722,10.0,4.5,mb,us60009ap6,Falam,earthquake,16,reviewed,us,us, Myanmar,2020,04
+334,34.2803,70.1664,28.53,4.5,mb,us70009ppe,Jalalabad,earthquake,24,reviewed,us,us, Afghanistan,2020,05
+335,11.7257,92.3273,10.0,4.5,mb,us6000a1f4,Bamboo Flat,earthquake,35,reviewed,us,us, India,2020,05
+336,23.206,93.2628,4.58,4.5,mb,us6000ahkj,North Vanlaiphai,earthquake,36,reviewed,us,us, India,2020,06
+337,20.8724,94.2917,82.2,4.5,mb,us7000accq,Chauk,earthquake,50,reviewed,us,us, Myanmar,2020,06
+338,12.1567,94.9118,10.0,4.5,mb,us7000as23,Port Blair,earthquake,20,reviewed,us,us, India,2020,07
+339,33.187,86.7446,10.0,4.5,mb,us6000b2aa,western Xizang,earthquake,59,reviewed,us,us,Tibet,2020,07
+340,35.6634,82.4342,10.0,4.5,mb,us7000agis,Hotan,earthquake,21,reviewed,us,us, China,2020,06
+341,30.404,94.7716,10.0,4.5,mb,us7000asa5,Shi Yomi,earthquake,50,reviewed,us,us, India,2020,07
+342,5.7719,95.2875,10.0,4.5,mb,us7000aax5,Sabang,earthquake,15,reviewed,us,us, Indonesia,2020,06
+343,35.6366,82.3729,10.0,4.5,mb,us7000bd1r,Hotan,earthquake,38,reviewed,us,us, China,2020,08
+344,23.0656,93.2324,10.0,4.5,mb,us7000bdpj,North Vanlaiphai,earthquake,15,reviewed,us,us, India,2020,08
+345,30.3934,87.5035,10.0,4.5,mb,us6000bjg8,Rikaze,earthquake,47,reviewed,us,us, China,2020,08
+346,23.1644,94.1126,71.72,4.5,mb,us6000c8t9,Falam,earthquake,16,reviewed,us,us, Myanmar,2020,10
+347,7.681,94.05799999999999,58.64,4.5,mb,us7000cqzu,Sabang,earthquake,22,reviewed,us,us, Indonesia,2020,12
+348,16.0246,92.9758,10.0,4.5,mb,us6000d659,Pathein,earthquake,11,reviewed,us,us, Myanmar,2020,12
+349,28.8039,84.0135,29.41,4.5,mb,us6000ddxt,Chitre,earthquake,44,reviewed,us,us, Nepal,2021,02
+350,34.26,78.2819,10.0,4.5,mb,us6000de6k,Leh,earthquake,52,reviewed,us,us, India,2021,02
+351,20.054000000000002,91.0101,10.0,4.5,mb,us6000dksl,Teknaf,earthquake,37,reviewed,us,us, Bangladesh,2021,02
+352,22.8779,96.0167,10.0,4.5,mb,us7000ddij,Shwebo,earthquake,27,reviewed,us,us, Myanmar,2021,02
+353,32.521,76.6552,22.64,4.5,mb,us6000d71u,Kyelang,earthquake,32,reviewed,us,us, India,2021,01
+354,31.5079,84.831,10.0,4.5,mb,us7000dllv,Saga,earthquake,23,reviewed,us,us, China,2021,03
+355,35.5062,89.4991,51.67,4.5,mb,us6000dx1h,western Xizang,earthquake,102,reviewed,us,us,Tibet,2021,03
+356,22.6746,94.565,103.62,4.5,mb,us7000dkxh,Monywa,earthquake,18,reviewed,us,us, Myanmar,2021,03
+357,6.7972,92.1365,10.0,4.5,mb,us6000dzrb,Nicobar Islands,earthquake,16,reviewed,us,us, India,2021,03
+358,24.9625,95.1088,111.38,4.5,mb,us7000e34s,Phek,earthquake,36,reviewed,us,us, India,2021,05
+359,28.2544,84.3876,10.0,4.5,mb,us7000e4ij,Pokhara,earthquake,44,reviewed,us,us, Nepal,2021,05
+360,30.8764,79.2707,10.0,4.5,mb,us7000e5kt,Joshamath,earthquake,33,reviewed,us,us, India,2021,05
+361,28.9684,86.3755,10.0,4.5,mb,us7000e680,Saga,earthquake,98,reviewed,us,us, China,2021,05
+362,13.2087,92.8437,10.0,4.5,mb,us6000efkb,Bamboo Flat,earthquake,4,reviewed,us,us, India,2021,05
+363,22.5949,94.7171,113.94,4.5,mb,us6000eflk,Monywa,earthquake,15,reviewed,us,us, Myanmar,2021,05
+364,31.7774,69.7581,28.11,4.5,mb,us7000ebf8,Zhob,earthquake,28,reviewed,us,us, Pakistan,2021,06
+365,11.7799,94.876,10.0,4.5,mb,us6000efhl,Port Blair,earthquake,30,reviewed,us,us, India,2021,05
+366,5.8093,94.8437,106.91,4.5,mb,us6000efkn,northern Sumatra,earthquake,11,reviewed,us,us, Indonesia,2021,05
+367,26.7357,92.4583,42.09,4.5,mb,us7000ee8m,Dhekiajuli,earthquake,114,reviewed,us,us, India,2021,06
+368,32.1089,69.8552,51.42,4.5,mb,us7000eeew,Wana,earthquake,78,reviewed,us,us, Pakistan,2021,06
+369,26.6776,92.3948,43.65,4.5,mb,us7000edyb,Dhekiajuli,earthquake,41,reviewed,us,us, India,2021,06
+370,12.8061,93.3096,49.57,4.5,mb,us7000e9p6,Bamboo Flat,earthquake,19,reviewed,us,us, India,2021,06
+371,8.3468,94.2512,10.0,4.5,mb,us7000ebi1,Sabang,earthquake,14,reviewed,us,us, Indonesia,2021,06
+372,23.5272,94.7567,102.41,4.5,mb,us7000elzz,Mawlaik,earthquake,45,reviewed,us,us, Myanmar,2021,07
+373,22.4445,94.2123,41.95,4.5,mb,us7000emla,Hakha,earthquake,6,reviewed,us,us, Myanmar,2021,07
+374,30.06,70.3286,10.0,4.5,mb,us6000exuh,Dera Ghazi Khan,earthquake,38,reviewed,us,us, Pakistan,2021,07
+375,27.3429,88.3092,10.0,4.5,mb,us6000eyy4,Gyalshing,earthquake,65,reviewed,us,us, India,2021,07
+376,29.2414,69.5135,19.48,4.5,mb,us6000f11c,Dera Bugti,earthquake,49,reviewed,us,us, Pakistan,2021,07
+377,21.4095,94.7377,110.48,4.5,mb,us6000f30b,Pakokku,earthquake,49,reviewed,us,us, Myanmar,2021,08
+378,8.6993,94.0674,11.44,4.5,mb,us6000f5jc,Nicobar Islands,earthquake,14,reviewed,us,us, India,2021,08
+379,26.5115,96.5587,97.98,4.5,mb,us7000f7wc,Sarupathar,earthquake,65,reviewed,us,us, India,2021,09
+380,12.8565,95.72200000000001,10.0,4.5,mb,us7000fc4u,Dawei,earthquake,11,reviewed,us,us, Myanmar,2021,09
+381,30.3852,94.8146,10.0,4.5,mb,us6000fs51,Shi Yomi,earthquake,28,reviewed,us,us, India,2021,10
+382,10.3157,93.729,10.0,4.5,mb,us7000fbhx,Port Blair,earthquake,18,reviewed,us,us, India,2021,09
+383,27.694000000000003,86.111,10.0,4.5,mb,us6000fscx,Kodariaa,earthquake,9,reviewed,us,us, Nepal,2021,10
+384,34.7214,74.4055,10.0,4.6,mb,us6000c1ja,Bandipura,earthquake,44,reviewed,us,us, India,2020,09
+385,12.619000000000002,93.2653,62.26,4.6,mb,us7000cpsf,Bamboo Flat,earthquake,34,reviewed,us,us, India,2020,12
+386,21.8358,93.4233,52.56,4.6,mb,us7000cpsj,Saiha,earthquake,16,reviewed,us,us, India,2020,12
+387,17.6453,94.31700000000001,10.0,4.6,mb,us70007n83,Pathein,earthquake,45,reviewed,us,us, Myanmar,2020,02
+388,24.8084,94.1112,63.54,4.6,mb,us70009edv,Yairipok,earthquake,60,reviewed,us,us, India,2020,05
+389,5.6736,95.17,10.0,4.6,mb,us6000a5jq,Banda Aceh,earthquake,52,reviewed,us,us, Indonesia,2020,06
+390,35.3767,70.7366,82.48,4.6,mb,us7000aqzx,Paran,earthquake,82,reviewed,us,us, Afghanistan,2020,07
+391,25.643,94.7776,61.51,4.6,mb,us6000c688,Phek,earthquake,78,reviewed,us,us, India,2020,10
+392,33.229,75.8586,10.0,4.6,mb,us6000c222,Kishtwar,earthquake,35,reviewed,us,us, India,2020,09
+393,33.5339,75.7388,10.0,4.6,mb,us7000cbmi,Kishtwar,earthquake,26,reviewed,us,us, India,2020,11
+394,7.1328,92.0445,10.0,4.6,mb,us60007jkb,Nicobar Islands,earthquake,36,reviewed,us,us, India,2020,01
+395,20.5392,93.8715,51.0,4.6,mb,us70007m6d,Yenangyaung,earthquake,39,reviewed,us,us, Myanmar,2020,02
+396,34.5533,85.7767,10.0,4.6,mb,us70007tp0,western Xizang,earthquake,71,reviewed,us,us,Tibet,2020,02
+397,34.5391,85.8363,10.0,4.6,mb,us60008gy3,western Xizang,earthquake,67,reviewed,us,us,Tibet,2020,03
+398,24.0324,95.8305,10.0,4.6,mb,us60009b6d,Mogok,earthquake,32,reviewed,us,us, Myanmar,2020,04
+399,20.5275,96.0814,10.0,4.6,mb,us70009ilx,Yamethin,earthquake,25,reviewed,us,us, Myanmar,2020,05
+400,29.9346,94.9732,10.0,4.6,mb,us70009iml,Shi Yomi,earthquake,37,reviewed,us,us, India,2020,05
+401,32.8636,85.5107,10.0,4.6,mb,us70009nnf,western Xizang,earthquake,105,reviewed,us,us,Tibet,2020,05
+402,10.2409,93.6808,10.0,4.6,mb,us6000a9x1,Port Blair,earthquake,26,reviewed,us,us, India,2020,06
+403,14.151,91.6101,10.0,4.6,mb,us6000a8x5,Bamboo Flat,earthquake,82,reviewed,us,us, India,2020,06
+404,23.2815,93.3716,10.0,4.6,mb,us7000ah74,Khawhai,earthquake,89,reviewed,us,us, India,2020,07
+405,12.9785,92.4828,10.0,4.6,mb,us7000ajsm,Bamboo Flat,earthquake,43,reviewed,us,us, India,2020,07
+406,35.6726,82.4308,10.0,4.6,mb,us7000ahwr,Hotan,earthquake,67,reviewed,us,us, China,2020,07
+407,14.3503,92.992,10.0,4.6,mb,us7000amfk,Bamboo Flat,earthquake,22,reviewed,us,us, India,2020,07
+408,23.0831,93.3665,10.0,4.6,mb,us7000akmn,North Vanlaiphai,earthquake,49,reviewed,us,us, India,2020,07
+409,11.8654,95.0388,10.0,4.6,mb,us7000aq5q,Port Blair,earthquake,21,reviewed,us,us, India,2020,07
+410,32.998000000000005,75.9509,10.0,4.6,mb,us7000ak4u,Bhadarwah,earthquake,20,reviewed,us,us, India,2020,07
+411,33.0351,86.8848,10.0,4.6,mb,us6000b8yq,western Xizang,earthquake,85,reviewed,us,us,Tibet,2020,08
+412,26.0998,95.5832,86.9,4.6,mb,us6000bje2,Tuensang,earthquake,48,reviewed,us,us, India,2020,08
+413,31.7318,93.4619,10.0,4.6,mb,us7000bpu3,Nagqu,earthquake,17,reviewed,us,us, China,2020,09
+414,26.7322,92.5712,18.67,4.6,mb,us6000didl,Dhekiajuli,earthquake,54,reviewed,us,us, India,2021,02
+415,25.3809,95.0793,89.49,4.6,mb,us7000dhef,Phek,earthquake,119,reviewed,us,us, India,2021,03
+416,30.1485,86.3698,10.0,4.6,mb,us7000djtf,Saga,earthquake,47,reviewed,us,us, China,2021,03
+417,28.2935,93.7808,10.0,4.6,mb,us6000dxmx,Shi Yomi,earthquake,8,reviewed,us,us, India,2021,03
+418,32.4789,78.7499,10.0,4.6,mb,us6000e1yd,Sarahan,earthquake,117,reviewed,us,us, India,2021,04
+419,35.5232,89.5874,10.0,4.6,mb,us7000dxue,western Xizang,earthquake,70,reviewed,us,us,Tibet,2021,04
+420,10.9343,91.7787,10.0,4.6,mb,us6000dzn2,Bamboo Flat,earthquake,19,reviewed,us,us, India,2021,03
+421,10.5902,94.2339,26.06,4.6,mb,us7000dxx6,Port Blair,earthquake,31,reviewed,us,us, India,2021,04
+422,34.775999999999996,69.5705,14.82,4.6,mb,us7000e4d1,Tagab,earthquake,71,reviewed,us,us, Afghanistan,2021,05
+423,9.0163,92.2062,10.0,4.6,mb,us7000e4dc,Port Blair,earthquake,14,reviewed,us,us, India,2021,05
+424,10.2844,91.56700000000001,10.0,4.6,mb,us7000e94a,Port Blair,earthquake,28,reviewed,us,us, India,2021,06
+425,28.0137,92.2097,65.76,4.6,mb,us7000ef9z,Tawang,earthquake,53,reviewed,us,us, India,2021,06
+426,25.0311,95.2274,102.19,4.6,mb,us6000etec,Phek,earthquake,36,reviewed,us,us, India,2021,07
+427,26.608,96.5397,10.0,4.6,mb,us7000eip3,Sarupathar,earthquake,27,reviewed,us,us, India,2021,07
+428,6.5920000000000005,85.0001,10.0,4.6,mb,us7000ef8p,Bay of Bengal,earthquake,13,reviewed,us,us,Tibet,2021,06
+429,12.9872,92.3504,10.0,4.6,mb,us6000ep3z,Bamboo Flat,earthquake,29,reviewed,us,us, India,2021,06
+430,13.6942,92.7449,24.67,4.6,mb,us7000elb3,Bamboo Flat,earthquake,24,reviewed,us,us, India,2021,07
+431,8.6742,94.1347,10.0,4.6,mb,us6000f1qk,Nicobar Islands,earthquake,34,reviewed,us,us, India,2021,08
+432,8.8991,94.1059,10.0,4.6,mb,us6000f5m6,Nicobar Islands,earthquake,14,reviewed,us,us, India,2021,08
+433,8.863999999999999,94.0364,10.0,4.6,mb,us6000f4ia,Nicobar Islands,earthquake,21,reviewed,us,us, India,2021,08
+434,22.2644,94.6702,121.52,4.6,mb,us6000f9n1,Monywa,earthquake,38,reviewed,us,us, Myanmar,2021,08
+435,8.8466,94.1924,10.0,4.6,mb,us6000f4jm,Nicobar Islands,earthquake,11,reviewed,us,us, India,2021,08
+436,25.094,96.2561,10.0,4.6,mb,us7000f2vd,Myitkyina,earthquake,49,reviewed,us,us, Myanmar,2021,08
+437,8.5437,93.8915,10.0,4.6,mb,us6000f46l,Nicobar Islands,earthquake,7,reviewed,us,us, India,2021,08
+438,8.726,93.2725,10.0,4.6,mb,us6000f4ih,Nicobar Islands,earthquake,12,reviewed,us,us, India,2021,08
+439,10.1828,93.6781,10.0,4.6,mb,us7000f5u3,Port Blair,earthquake,24,reviewed,us,us, India,2021,08
+440,14.0695,92.8419,10.0,4.6,mb,us7000f6a9,Bamboo Flat,earthquake,21,reviewed,us,us, India,2021,08
+441,31.9037,92.8722,10.0,4.6,mb,us7000f4ue,Nagqu,earthquake,28,reviewed,us,us, China,2021,08
+442,23.4599,93.4042,10.0,4.6,mb,us7000fbf3,Khawhai,earthquake,50,reviewed,us,us, India,2021,09
+443,28.7158,96.3683,37.89,4.6,mb,us7000fcme,Hayuliang,earthquake,90,reviewed,us,us, India,2021,09
+444,30.405,94.6879,10.0,4.6,mb,us6000ftxr,Shi Yomi,earthquake,43,reviewed,us,us, India,2021,10
+445,7.7441,93.9314,51.17,4.7,mb,us6000cqs5,Sabang,earthquake,25,reviewed,us,us, Indonesia,2020,11
+446,30.0278,79.9831,18.78,4.7,mb,us70007lc7,Bageshwar,earthquake,76,reviewed,us,us, India,2020,02
+447,33.1193,75.8744,43.89,4.7,mb,us7000afay,Bhadarwah,earthquake,172,reviewed,us,us, India,2020,06
+448,31.646,93.3736,27.2,4.7,mb,us60007a5a,Nagqu,earthquake,103,reviewed,us,us, China,2020,01
+449,7.7168,94.0461,106.74,4.7,mb,us60007d30,Sabang,earthquake,23,reviewed,us,us, Indonesia,2020,01
+450,14.0757,94.0306,80.07,4.7,mb,us70009p1y,Bogale,earthquake,39,reviewed,us,us, Myanmar,2020,05
+451,10.8899,92.5217,8.42,4.7,mb,us6000a6l9,Port Blair,earthquake,24,reviewed,us,us, India,2020,05
+452,35.5546,82.3801,10.0,4.7,mb,us7000abt8,Hotan,earthquake,76,reviewed,us,us, China,2020,06
+453,30.389,94.806,10.0,4.7,mb,us6000b4bp,Shi Yomi,earthquake,54,reviewed,us,us, India,2020,07
+454,33.0674,86.7387,10.0,4.7,mb,us6000b7e2,western Xizang,earthquake,137,reviewed,us,us,Tibet,2020,07
+455,13.1472,93.1904,41.16,4.7,mb,us7000bjex,Bamboo Flat,earthquake,37,reviewed,us,us, India,2020,09
+456,34.0992,79.1272,10.0,4.7,mb,us6000c5zr,Leh,earthquake,64,reviewed,us,us, India,2020,10
+457,7.3495,94.71700000000001,133.8,4.7,mb,us7000d12t,Sabang,earthquake,100,reviewed,us,us, Indonesia,2021,01
+458,11.9865,94.5033,10.0,4.7,mb,us6000di5y,Port Blair,earthquake,99,reviewed,us,us, India,2021,02
+459,6.6114,94.3526,74.69,4.7,mb,us7000demx,Sabang,earthquake,51,reviewed,us,us, Indonesia,2021,03
+460,34.1448,80.3638,10.0,4.7,mb,us7000dhsz,Leh,earthquake,18,reviewed,us,us, India,2021,03
+461,35.6454,89.3989,10.0,4.7,mb,us6000dygw,western Xizang,earthquake,48,reviewed,us,us,Tibet,2021,04
+462,31.6849,90.6416,10.0,4.7,mb,us6000e0nr,Eastern Xizang,earthquake,70,reviewed,us,us,Tibet,2021,04
+463,31.9628,92.9564,10.0,4.7,mb,us6000dzj3,Nagqu,earthquake,76,reviewed,us,us, China,2021,04
+464,30.0036,89.7629,10.0,4.7,mb,us6000e3fr,Dêqên,earthquake,100,reviewed,us,us, China,2021,04
+465,33.5317,71.5687,33.21,4.7,mb,us7000efcx,Kohat,earthquake,93,reviewed,us,us, Pakistan,2021,06
+466,9.0302,93.9133,10.0,4.7,mb,us6000f1tb,Nicobar Islands,earthquake,23,reviewed,us,us, India,2021,08
+467,12.3093,95.038,10.0,4.7,mb,us6000f6aw,Port Blair,earthquake,35,reviewed,us,us, India,2021,08
+468,10.5565,92.1981,10.0,4.7,mb,us6000f9ya,Port Blair,earthquake,55,reviewed,us,us, India,2021,08
+469,32.0551,78.7955,10.0,4.7,mb,us7000f3a5,Sarahan,earthquake,72,reviewed,us,us, India,2021,08
+470,10.1311,93.8015,10.0,4.7,mb,us7000f9ji,Port Blair,earthquake,26,reviewed,us,us, India,2021,09
+471,30.4791,79.282,10.0,4.7,mb,us7000fa6y,Papalkoti,earthquake,95,reviewed,us,us, India,2021,09
+472,33.2902,72.1846,32.06,4.7,mb,us7000fb0c,Pindi Gheb,earthquake,92,reviewed,us,us, Pakistan,2021,09
+473,30.1325,69.282,30.71,4.7,mb,us7000fc7z,Kohlu,earthquake,135,reviewed,us,us, Pakistan,2021,09
+474,9.787,93.7182,39.77,4.7,mb,us7000fd7f,Port Blair,earthquake,47,reviewed,us,us, India,2021,09
+475,30.4113,94.7923,10.0,4.7,mb,us6000fqqc,Shi Yomi,earthquake,23,reviewed,us,us, India,2021,10
+476,30.3423,94.7762,34.18,4.7,mb,us6000frs4,Shi Yomi,earthquake,44,reviewed,us,us, India,2021,10
+477,30.3576,94.824,34.87,4.7,mb,us6000ftez,Shi Yomi,earthquake,29,reviewed,us,us, India,2021,10
+478,30.3872,94.7873,10.0,4.7,mb,us6000ftj2,Shi Yomi,earthquake,31,reviewed,us,us, India,2021,10
+479,23.1939,93.2827,4.24,4.8,mb,us7000aabs,North Vanlaiphai,earthquake,47,reviewed,us,us, India,2020,06
+480,23.1732,93.2967,10.0,4.8,mb,us7000ai9b,North Vanlaiphai,earthquake,36,reviewed,us,us, India,2020,07
+481,24.4202,96.1023,10.0,4.8,mb,us60008937,Bhamo,earthquake,121,reviewed,us,us, Myanmar,2020,03
+482,8.8588,93.9589,10.0,4.8,mb,us70008c5d,Nicobar Islands,earthquake,30,reviewed,us,us, India,2020,03
+483,32.6775,85.4882,10.0,4.8,mb,us70008n5a,western Xizang,earthquake,87,reviewed,us,us,Tibet,2020,04
+484,9.3687,92.9668,48.51,4.8,mb,us700090si,Port Blair,earthquake,36,reviewed,us,us, India,2020,04
+485,18.954,94.3005,35.0,4.8,mb,us6000acrw,Pyay,earthquake,177,reviewed,us,us, Myanmar,2020,06
+486,22.4515,94.43,87.37,4.8,mb,us6000ae6t,Monywa,earthquake,39,reviewed,us,us, Myanmar,2020,06
+487,23.2948,93.7812,62.31,4.8,mb,us6000abkd,Falam,earthquake,189,reviewed,us,us, Myanmar,2020,06
+488,12.0447,95.1004,10.0,4.8,mb,us7000aqhw,Port Blair,earthquake,65,reviewed,us,us, India,2020,07
+489,11.6984,95.0094,10.0,4.8,mb,us7000aq5i,Port Blair,earthquake,52,reviewed,us,us, India,2020,07
+490,30.3956,94.7098,10.0,4.8,mb,us6000b54q,Shi Yomi,earthquake,139,reviewed,us,us, India,2020,07
+491,23.2575,93.3418,10.0,4.8,mb,us6000b5cc,Khawhai,earthquake,97,reviewed,us,us, India,2020,07
+492,30.386,94.7527,10.0,4.8,mb,us6000b71z,Shi Yomi,earthquake,143,reviewed,us,us, India,2020,07
+493,30.3811,94.7738,10.0,4.8,mb,us6000b61h,Shi Yomi,earthquake,101,reviewed,us,us, India,2020,07
+494,30.3757,94.8368,10.0,4.8,mb,us6000b41u,Shi Yomi,earthquake,149,reviewed,us,us, India,2020,07
+495,30.3605,94.7737,10.0,4.8,mb,us6000bbdf,Shi Yomi,earthquake,75,reviewed,us,us, India,2020,08
+496,29.8985,95.1615,10.0,4.8,mb,us6000bdee,Shi Yomi,earthquake,178,reviewed,us,us, India,2020,08
+497,30.3546,94.8125,10.0,4.8,mb,us6000bfn7,Shi Yomi,earthquake,169,reviewed,us,us, India,2020,08
+498,30.3765,94.82600000000001,10.0,4.8,mb,us6000bepe,Shi Yomi,earthquake,161,reviewed,us,us, India,2020,08
+499,32.9399,86.6267,10.0,4.8,mb,us6000bfx3,western Xizang,earthquake,211,reviewed,us,us,Tibet,2020,08
+500,30.3829,94.7798,10.0,4.8,mb,us6000bg0c,Shi Yomi,earthquake,179,reviewed,us,us, India,2020,08
+501,35.6868,94.5784,10.0,4.8,mb,us7000bpa5,Southern Qinghai,earthquake,136,reviewed,us,us, China,2020,09
+502,33.384,90.2627,10.0,4.8,mb,us6000camh,Nagqu,earthquake,142,reviewed,us,us, China,2020,10
+503,25.6397,96.6534,10.0,4.8,mb,us6000d2hz,Sarupathar,earthquake,74,reviewed,us,us, India,2020,12
+504,26.7477,92.4849,38.21,4.8,mb,us7000dybj,Dhekiajuli,earthquake,157,reviewed,us,us, India,2021,04
+505,34.2781,78.2208,10.0,4.8,mb,us6000eqdp,Leh,earthquake,115,reviewed,us,us, India,2021,06
+506,22.4535,95.9084,10.0,4.8,mb,us6000f3rz,Shwebo,earthquake,70,reviewed,us,us, Myanmar,2021,08
+507,30.1983,69.7587,10.0,4.8,mb,us7000f5bl,Barkhan,earthquake,78,reviewed,us,us, Pakistan,2021,08
+508,30.3661,94.8646,33.6,4.8,mb,us6000fqzr,Shi Yomi,earthquake,34,reviewed,us,us, India,2021,10
+509,10.263,93.728,10.0,4.8,mb,us7000fbia,Port Blair,earthquake,14,reviewed,us,us, India,2021,09
+510,28.9807,95.7207,10.0,4.9,mb,us60007m2e,Pasighat,earthquake,120,reviewed,us,us, India,2020,02
+511,27.7046,86.0378,10.0,4.9,mb,us70009ett,Kodariaa,earthquake,202,reviewed,us,us, Nepal,2020,05
+512,23.9075,93.1135,41.6,4.9,mww,us6000afvf,Darlawn,earthquake,10,reviewed,us,us, India,2020,06
+513,30.4109,94.8431,10.0,4.9,mb,us7000ard3,Shi Yomi,earthquake,230,reviewed,us,us, India,2020,07
+514,35.6587,82.4619,10.0,4.9,mb,us7000abky,Hotan,earthquake,120,reviewed,us,us, China,2020,06
+515,24.8788,95.2425,123.46,4.9,mb,us7000bfgi,Phek,earthquake,117,reviewed,us,us, India,2020,08
+516,8.8585,93.5608,33.37,4.9,mb,us60007bgv,Nicobar Islands,earthquake,41,reviewed,us,us, India,2020,01
+517,20.5189,93.4447,22.56,4.9,mww,us60007dqr,Sittwe,earthquake,11,reviewed,us,us, Myanmar,2020,01
+518,13.1329,93.2938,39.6,4.9,mb,us70007mpw,Bamboo Flat,earthquake,83,reviewed,us,us, India,2020,02
+519,17.6247,94.3051,10.0,4.9,mb,us600088jb,Pathein,earthquake,95,reviewed,us,us, Myanmar,2020,03
+520,6.4533,92.6936,10.0,4.9,mb,us6000advt,Sabang,earthquake,57,reviewed,us,us, Indonesia,2020,06
+521,30.4304,94.8312,10.0,4.9,mb,us7000as5w,Shi Yomi,earthquake,204,reviewed,us,us, India,2020,07
+522,30.3884,94.8313,10.0,4.9,mb,us6000b3ee,Shi Yomi,earthquake,134,reviewed,us,us, India,2020,07
+523,30.3844,94.7159,10.0,4.9,mb,us6000b2d7,Shi Yomi,earthquake,107,reviewed,us,us, India,2020,07
+524,30.4051,94.86200000000001,10.0,4.9,mb,us7000aru9,Shi Yomi,earthquake,171,reviewed,us,us, India,2020,07
+525,30.3366,94.7909,10.0,4.9,mb,us6000b69f,Shi Yomi,earthquake,155,reviewed,us,us, India,2020,07
+526,30.4061,94.8218,10.0,4.9,mb,us6000b4l6,Shi Yomi,earthquake,141,reviewed,us,us, India,2020,07
+527,30.4288,94.84100000000001,10.0,4.9,mb,us6000b7i6,Shi Yomi,earthquake,176,reviewed,us,us, India,2020,07
+528,30.4109,94.7817,10.0,4.9,mb,us6000bb1f,Shi Yomi,earthquake,78,reviewed,us,us, India,2020,08
+529,30.3544,94.742,10.0,4.9,mb,us6000bcsr,Shi Yomi,earthquake,168,reviewed,us,us, India,2020,08
+530,30.4144,94.7198,10.0,4.9,mb,us6000bdty,Shi Yomi,earthquake,200,reviewed,us,us, India,2020,08
+531,30.4464,94.9345,10.0,4.9,mb,us6000bbiy,Shi Yomi,earthquake,102,reviewed,us,us, India,2020,08
+532,9.5672,93.3607,71.13,4.9,mb,us6000bhed,Port Blair,earthquake,58,reviewed,us,us, India,2020,08
+533,23.41,92.0138,37.66,4.9,mb,us7000bh52,Khagrachhari,earthquake,8,reviewed,us,us, Bangladesh,2020,08
+534,22.8585,95.9211,10.0,4.9,mb,us7000ddgz,Shwebo,earthquake,51,reviewed,us,us, Myanmar,2021,02
+535,8.6376,94.1922,10.0,4.9,mb,us7000e06d,Nicobar Islands,earthquake,67,reviewed,us,us, India,2021,05
+536,28.3088,84.3042,10.0,4.9,mb,us7000e4bb,Pokhara,earthquake,114,reviewed,us,us, Nepal,2021,05
+537,6.3788,93.4713,25.52,4.9,mb,us6000dzrr,Sabang,earthquake,15,reviewed,us,us, Indonesia,2021,03
+538,24.5824,94.4421,66.82,4.9,mb,us6000ez3j,Wangjing,earthquake,197,reviewed,us,us, India,2021,07
+539,24.6509,94.4519,63.33,4.9,mb,us6000f7jj,Wangjing,earthquake,108,reviewed,us,us, India,2021,08
+540,30.3352,94.7958,10.0,4.9,mb,us6000frfq,Shi Yomi,earthquake,78,reviewed,us,us, India,2021,10
+541,30.3562,94.82700000000001,34.55,4.9,mb,us6000ft7k,Shi Yomi,earthquake,38,reviewed,us,us, India,2021,10
+542,23.6092,94.6188,103.66,5.0,mww,us7000cevs,Mawlaik,earthquake,13,reviewed,us,us, Myanmar,2020,11
+543,34.1448,78.1519,10.0,5.0,mww,us6000c1yn,Leh,earthquake,11,reviewed,us,us, India,2020,09
+544,34.1788,79.2141,10.0,5.0,mww,us6000c5y3,Leh,earthquake,13,reviewed,us,us, India,2020,10
+545,26.3386,90.7847,10.0,5.0,mb,us70007li1,Abhayapuri,earthquake,99,reviewed,us,us, India,2020,02
+546,32.9752,76.2474,10.0,5.0,mb,us600084lt,Chamba,earthquake,189,reviewed,us,us, India,2020,02
+547,10.3105,93.7827,10.0,5.0,mb,us60007j4e,Port Blair,earthquake,72,reviewed,us,us, India,2020,01
+548,35.6685,82.4472,10.0,5.0,mb,us7000abn0,Hotan,earthquake,174,reviewed,us,us, China,2020,06
+549,11.8485,94.8316,10.0,5.0,mww,us7000aqc9,Port Blair,earthquake,10,reviewed,us,us, India,2020,07
+550,30.412,94.8613,10.0,5.0,mb,us7000ar7l,Shi Yomi,earthquake,116,reviewed,us,us, India,2020,07
+551,33.2088,86.773,10.0,5.0,mb,us6000b5xr,western Xizang,earthquake,36,reviewed,us,us,Tibet,2020,07
+552,34.741,72.9466,10.0,5.0,mb,us6000d49f,Shingli Bala,earthquake,63,reviewed,us,us, Pakistan,2020,12
+553,6.3819,94.2415,78.43,5.0,mb,us6000d6bs,Sabang,earthquake,59,reviewed,us,us, Indonesia,2021,01
+554,28.8225,87.36200000000001,8.7,5.0,mww,us6000ddsr,Lobujya,earthquake,13,reviewed,us,us, Nepal,2021,02
+555,31.9664,92.9084,10.0,5.0,mb,us6000dvi9,Nagqu,earthquake,93,reviewed,us,us, China,2021,03
+556,27.6289,92.6692,29.81,5.0,mww,us6000dwue,Bomdila,earthquake,10,reviewed,us,us, India,2021,03
+557,31.8686,92.9137,10.0,5.0,mww,us6000dzil,Nagqu,earthquake,11,reviewed,us,us, China,2021,04
+558,26.7489,92.5136,35.0,5.0,mb,us7000dy3r,Dhekiajuli,earthquake,80,reviewed,us,us, India,2021,04
+559,6.6176,94.5648,10.0,5.0,mb,us7000e40a,Sabang,earthquake,66,reviewed,us,us, Indonesia,2021,05
+560,34.7242,73.2047,10.0,5.0,mb,us7000edut,Battagram,earthquake,93,reviewed,us,us, Pakistan,2021,06
+561,30.3316,94.775,35.33,5.0,mb,us7000feaa,Shi Yomi,earthquake,109,reviewed,us,us, India,2021,09
+562,30.3403,94.8375,31.32,5.0,mb,us6000fqn3,Shi Yomi,earthquake,67,reviewed,us,us, India,2021,10
+563,13.7792,93.6855,60.3,5.0,mb,us6000frr8,Bamboo Flat,earthquake,16,reviewed,us,us, India,2021,10
+564,22.9861,93.7677,53.56,5.1,mb,us7000bqcm,Falam,earthquake,208,reviewed,us,us, Myanmar,2020,09
+565,22.2089,94.3877,90.82,5.1,mb,us7000cp2v,Monywa,earthquake,161,reviewed,us,us, Myanmar,2020,12
+566,35.0149,74.47399999999999,10.0,5.1,mb,us70006ymh,Bandipura,earthquake,244,reviewed,us,us, India,2020,01
+567,24.3856,93.9197,57.89,5.1,mww,us70009q28,Kakching,earthquake,11,reviewed,us,us, India,2020,05
+568,23.3821,70.3548,10.0,5.1,mb,us6000abp7,Bhachau,earthquake,255,reviewed,us,us, India,2020,06
+569,23.1162,93.3092,10.0,5.1,mww,us7000aqg3,North Vanlaiphai,earthquake,10,reviewed,us,us, India,2020,07
+570,5.7913,95.5619,10.0,5.1,mww,us7000cekv,Sabang,earthquake,17,reviewed,us,us, Indonesia,2020,11
+571,7.3115,92.0905,10.0,5.1,mb,us60007ifv,Nicobar Islands,earthquake,71,reviewed,us,us, India,2020,01
+572,34.5182,85.6961,10.0,5.1,mb,us70007tnv,western Xizang,earthquake,179,reviewed,us,us,Tibet,2020,02
+573,33.1508,86.8235,10.0,5.1,mww,us6000b2l7,western Xizang,earthquake,14,reviewed,us,us,Tibet,2020,07
+574,11.8395,94.9771,10.0,5.1,mww,us7000aqal,Port Blair,earthquake,11,reviewed,us,us, India,2020,07
+575,33.3042,75.5872,10.0,5.1,mb,us6000d7f5,Kishtwar,earthquake,127,reviewed,us,us, India,2021,01
+576,28.7463,87.3785,10.0,5.1,mb,us6000decu,Lobujya,earthquake,140,reviewed,us,us, Nepal,2021,02
+577,22.5129,94.1955,24.67,5.1,mww,us6000e2mn,Hakha,earthquake,15,reviewed,us,us, Myanmar,2021,04
+578,34.9509,69.0848,16.2,5.1,mww,us6000epir,Charikar,earthquake,10,reviewed,us,us, Afghanistan,2021,06
+579,8.814,94.0044,20.27,5.1,mww,us6000f2f5,Nicobar Islands,earthquake,16,reviewed,us,us, India,2021,08
+580,8.7641,93.9557,10.0,5.1,mb,us6000f2p9,Nicobar Islands,earthquake,57,reviewed,us,us, India,2021,08
+581,14.4654,83.0456,10.0,5.1,mb,us7000f2x8,Razole,earthquake,122,reviewed,us,us, India,2021,08
+582,25.2231,94.8718,79.04,5.1,mb,us7000fcq5,Phek,earthquake,73,reviewed,us,us, India,2021,09
+583,31.995,95.0575,10.0,5.2,mww,us60007f7v,Qamdo,earthquake,13,reviewed,us,us, China,2020,01
+584,32.8006,85.5456,10.0,5.2,mww,us60008clh,western Xizang,earthquake,8,reviewed,us,us,Tibet,2020,03
+585,34.7094,83.4724,15.11,5.2,mb,us7000dl8t,western Xizang,earthquake,200,reviewed,us,us,Tibet,2021,03
+586,27.1863,88.9412,10.0,5.2,mb,us6000dz5d,Samtse,earthquake,118,reviewed,us,us, Bhutan,2021,04
+587,29.3258,70.0487,10.0,5.2,mww,us6000exhl,Rajanpur,earthquake,20,reviewed,us,us, Pakistan,2021,07
+588,14.1061,92.9896,10.0,5.2,mb,us7000fa7j,Bamboo Flat,earthquake,162,reviewed,us,us, India,2021,09
+589,23.1636,93.3258,10.0,5.3,mww,us7000bdnu,North Vanlaiphai,earthquake,15,reviewed,us,us, India,2020,08
+590,27.8464,85.8765,10.0,5.3,mb,us7000bnsh,Kodariaa,earthquake,309,reviewed,us,us, Nepal,2020,09
+591,34.2487,78.2058,10.0,5.3,mww,us6000c13w,Leh,earthquake,18,reviewed,us,us, India,2020,09
+592,28.2785,84.3373,10.0,5.3,mb,us7000e4aq,Pokhara,earthquake,290,reviewed,us,us, Nepal,2021,05
+593,25.9603,90.3499,10.0,5.3,mb,us7000ej9c,Lakhipur,earthquake,302,reviewed,us,us, India,2021,07
+594,9.0127,94.1198,10.0,5.3,mww,us6000f1qs,Nicobar Islands,earthquake,19,reviewed,us,us, India,2021,08
+595,8.8628,94.0564,10.0,5.3,mb,us6000f1r3,Nicobar Islands,earthquake,205,reviewed,us,us, India,2021,08
+596,32.7152,85.3323,10.0,5.4,mww,us60008ecp,western Xizang,earthquake,9,reviewed,us,us,Tibet,2020,03
+597,8.5857,94.0824,10.0,5.4,mww,us7000fe2z,Nicobar Islands,earthquake,33,reviewed,us,us, India,2021,09
+598,24.6661,93.4997,53.0,5.5,mww,us6000c7ce,Moirang,earthquake,14,reviewed,us,us, India,2020,10
+599,34.3549,87.6921,8.0,5.5,mww,us6000dxge,western Xizang,earthquake,11,reviewed,us,us,Tibet,2021,03
+600,22.8638,95.9967,10.0,5.5,mb,us6000f051,Shwebo,earthquake,114,reviewed,us,us, Myanmar,2021,07
+601,8.7966,94.0775,8.82,5.5,mww,us6000f27x,Nicobar Islands,earthquake,31,reviewed,us,us, India,2021,08
+602,22.3074,94.7616,110.0,5.5,mww,us6000fsrg,Monywa,earthquake,31,reviewed,us,us, Myanmar,2021,10
+603,23.1449,93.2856,10.84,5.6,mww,us6000ag4u,North Vanlaiphai,earthquake,21,reviewed,us,us, India,2020,06
+604,28.5896,87.3081,10.0,5.7,mww,us70008cld,Lobujya,earthquake,24,reviewed,us,us, Nepal,2020,03
+605,12.0979,94.9745,5.07,5.7,mww,us7000aqj0,Port Blair,earthquake,30,reviewed,us,us, India,2020,07
+606,31.9246,92.9151,8.0,5.7,mww,us7000dkv0,Nagqu,earthquake,13,reviewed,us,us, China,2021,03
+607,9.0017,94.15799999999999,10.0,5.8,mb,us6000f1r6,Nicobar Islands,earthquake,67,reviewed,us,us, India,2021,08
+608,22.8004,94.0292,10.0,5.9,mww,us70008xhp,Falam,earthquake,32,reviewed,us,us, Myanmar,2020,04
+609,26.7813,92.4565,34.0,6.0,mww,us7000dy3b,Dhekiajuli,earthquake,22,reviewed,us,us, India,2021,04
+610,11.8485,94.9362,10.0,6.1,mww,us7000aqaw,Port Blair,earthquake,53,reviewed,us,us, India,2020,07
+611,8.8809,94.0192,10.0,6.1,mww,us6000f1r4,Nicobar Islands,earthquake,20,reviewed,us,us, India,2021,08
+612,35.5948,82.4158,10.0,6.3,mww,us7000abmk,Hotan,earthquake,25,reviewed,us,us, China,2020,06
+613,33.1438,86.8637,10.0,6.3,mww,us6000b26j,western Xizang,earthquake,19,reviewed,us,us,Tibet,2020,07
